@@ -8,8 +8,9 @@ python3 run.py once               # one cycle
 python3 tests/test_winners_curse.py
 ```
 
-The regression suite is stdlib-only by design and needs no pytest, though it
-runs under pytest if you prefer.
+The regression suite needs no pytest - it runs under plain `python3` - though
+it works under pytest if you prefer. It does import the engine, so the
+runtime dependencies in `requirements.txt` must be present.
 
 ## Two hard constraints
 

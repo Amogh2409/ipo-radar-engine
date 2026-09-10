@@ -23,17 +23,23 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Compile every module
         run: python -m compileall -q ipo_radar generate_briefing.py generate_tactical_memo.py
 
-      # The regression suite is deliberately stdlib-only, so it runs without
-      # installing anything. That matters: pydantic and weasyprint cannot be
-      # installed under PEP 668 on a Homebrew Python, and the engine is built
-      # to degrade to stdlib rather than hard-require them.
+      # The suite itself adds no test-only dependencies - it runs under plain
+      # python with no pytest - but it does import the engine, and the engine
+      # needs its runtime deps (httpx reaches it transitively via util.py).
       - name: Winner's Curse regression
         run: python tests/test_winners_curse.py
 
-      - name: Import the package with no third-party deps present
+      # pydantic and weasyprint are deliberately NOT in requirements.txt:
+      # PEP 668 makes them uninstallable on a Homebrew Python, so the engine
+      # degrades to stdlib validation and a fallback PDF renderer instead of
+      # hard-requiring them. This proves that path still works.
+      - name: Import with the optional extras absent
         run: |
           python - <<'EOF'
           import ipo_radar.config, ipo_radar.models, ipo_radar.util
