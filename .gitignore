@@ -15,9 +15,9 @@ data/*.db-wal
 data/*.db-journal
 
 # --- generated output --------------------------------------------------
-# reports/index.md discloses configured capital and the deployment plan.
-reports/
-briefings/
+# reports/ and briefings/ ARE tracked, as worked examples of what the engine
+# produces. Note that reports/index.md and the memo PDF contain the capital
+# figure from config (total_capital) and the resulting deployment plan.
 # Root-anchored: the release archives live here. NOT data/documents/*.zip,
 # which is tracked cache, so this must never become a bare `*.zip`.
 /*.zip

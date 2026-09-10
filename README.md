@@ -1,5 +1,11 @@
 # IPO Radar
 
+[![tests](https://github.com/Amogh2409/ipo-radar-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/Amogh2409/ipo-radar-engine/actions/workflows/tests.yml)
+[![python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
+[![licence](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
+
+**[Dataset](DATA.md)** · **[Runbook](HANDOFF.md)** · **[Contributing](CONTRIBUTING.md)** · **[Changelog](CHANGELOG.md)**
+
 A continuously-running analyst for live Indian IPOs. It pulls the real order
 book from NSE, parses the actual Red Herring Prospectus, computes allotment
 probabilities under SEBI's real allotment rules, estimates listing gains with
@@ -809,15 +815,34 @@ overrides: `IPO_CAPITAL`, `IPO_OLLAMA_HOST`, `IPO_OLLAMA_MODEL`, `IPO_NO_LLM`.
 ## Layout
 
 ```
+run.py                       entry point
+generate_briefing.py         weekly briefing PDF          (standalone)
+generate_tactical_memo.py    2-page execution memo        (standalone)
+
 ipo_radar/
-  config.py models.py store.py util.py engine.py daemon.py cli.py report.py
-  sources/     nse.py gmp.py news.py documents.py
-  analytics/   allotment.py subscription.py valuation.py listing.py
-               scoring.py portfolio.py
-  brain/       ollama_client.py analyst.py schemas.py modelfile.py calibration.py
-data/     ipo_radar.db, cached RHPs, gmp_manual.json
-reports/  index.md, <SYMBOL>.md, latest.json
+  config.py                  every threshold lives here, and only here
+  models.py store.py util.py engine.py daemon.py cli.py report.py alerts.py
+  sources/     nse.py bse.py gmp.py news.py macro.py documents.py rhp_tables.py
+  analytics/   allotment.py subscription.py bayesian_projector.py valuation.py
+               listing.py scoring.py portfolio.py regime.py anchors.py
+               tday_signals.py calendar_in.py
+  brain/       ollama_client.py analyst.py schemas.py guardrails.py
+               modelfile.py calibration.py
+
+tests/        test_winners_curse.py     stdlib-only regression suite
+data/         ipo_radar.db + 22 cached RHP/anchor archives   -> DATA.md
+reports/      index.md, <SYMBOL>.md, latest.json             (regenerated)
+briefings/    generated PDFs                                 (regenerated)
 ```
+
+Documentation:
+
+| File | What it is |
+|---|---|
+| [`DATA.md`](DATA.md) | Every table, column and caveat in the committed dataset |
+| [`HANDOFF.md`](HANDOFF.md) | Runbook: setup, backtest loop, assumptions worth challenging |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Constraints a change has to respect |
+| [`CHANGELOG.md`](CHANGELOG.md) | What shipped, and what broke |
 
 ## If the GMP scraper breaks
 
@@ -833,3 +858,16 @@ Grey market sources rotate endpoints constantly. Drop numbers into
 GMP is unofficial, thinly traded and easily manipulated; it is treated as
 sentiment, not truth. Projections before the final day are wide by
 construction. This is analysis, not investment advice.
+
+Two limits deserve to be stated plainly rather than buried:
+
+- **The committed dataset spans one trading day** (2026-09-10). It is dense —
+  1,774 order-book snapshots across 12 issues — but a single day cannot
+  support any claim about behaviour across market regimes.
+- **No forecast here has ever been scored.** The `outcomes` table is empty
+  because nothing in the dataset has listed yet. The calibration loop is built
+  and tested; it has had nothing to learn from. Every accuracy-shaped number
+  in this repository is a property of a model, not a measurement.
+
+See [`DATA.md`](DATA.md) for the full picture and [`HANDOFF.md`](HANDOFF.md)
+for the assumptions most likely to be wrong.
