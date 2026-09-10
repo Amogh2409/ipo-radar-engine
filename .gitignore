@@ -1,0 +1,31 @@
+# --- secrets -----------------------------------------------------------
+# The real config carries Discord/Slack/Telegram webhooks and bot tokens.
+# Only config.example.json (every field blank) belongs in the repo.
+config.json
+
+# --- captured data -----------------------------------------------------
+# ~125 MB of RHP and anchor PDFs. Re-download automatically on first run.
+data/documents/
+# SQLite history: a binary blob that changes on every cycle. Ship it as a
+# release asset if someone needs the backtest material, not in git history.
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/holidays.json
+data/macro_manual.json
+
+# --- generated output --------------------------------------------------
+# reports/index.md discloses configured capital and the deployment plan.
+reports/
+briefings/
+*.zip
+
+# --- python ------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# --- macOS -------------------------------------------------------------
+.DS_Store

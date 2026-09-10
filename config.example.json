@@ -1,0 +1,73 @@
+{
+  "cadence": {
+    "discover": 900,
+    "subscription": 300,
+    "subscription_hot": 60,
+    "gmp": 900,
+    "news": 1800,
+    "analyse": 1800,
+    "llm": 3600,
+    "report": 1800,
+    "tday": 600,
+    "tday_hot": 60
+  },
+  "allotment": {
+    "avg_lots_retail_cold": 1.2,
+    "avg_lots_retail_hot": 1.95,
+    "snii_min_ticket": 200000.0,
+    "bnii_min_ticket": 1000001.0,
+    "retail_max_ticket": 200000.0,
+    "anchor_share_of_qib": 0.6
+  },
+  "weights": {
+    "valuation": 18.0,
+    "financials": 20.0,
+    "demand": 20.0,
+    "gmp": 14.0,
+    "structure": 10.0,
+    "regime": 6.0,
+    "qualitative": 12.0
+  },
+  "llm": {
+    "host": "http://127.0.0.1:11434",
+    "model": "ipo-analyst",
+    "base_model": "qwen3:4b",
+    "fast_model": "qwen3:4b",
+    "temperature": 0.2,
+    "num_ctx": 8192,
+    "timeout": 300.0,
+    "enabled": true,
+    "auto_pull": true,
+    "auto_build": true
+  },
+  "portfolio": {
+    "total_capital": 500000.0,
+    "num_pans": 1,
+    "allow_snii": true,
+    "allow_bnii": false,
+    "risk_appetite": "balanced",
+    "objective": "maximize_roi",
+    "lookahead_days": 14,
+    "asba_settlement_days": 3,
+    "reserve_min_score": 65.0,
+    "min_score": 61.0
+  },
+  "alerts": {
+    "enabled": true,
+    "discord_webhook": "",
+    "slack_webhook": "",
+    "telegram_bot_token": "",
+    "telegram_chat_id": "",
+    "generic_webhook": "",
+    "timeout": 8.0,
+    "max_retries": 2,
+    "min_repeat_seconds": 900.0,
+    "max_per_hour": 40,
+    "min_level": "HIGH"
+  },
+  "include_sme": false,
+  "bse_endpoint": "",
+  "http_timeout": 25.0,
+  "http_retries": 3,
+  "log_level": "INFO"
+}
