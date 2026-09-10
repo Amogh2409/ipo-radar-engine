@@ -1,0 +1,48 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The RHP cache is 125 MB and no test reads it.
+          lfs: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Compile every module
+        run: python -m compileall -q ipo_radar generate_briefing.py generate_tactical_memo.py
+
+      # The regression suite is deliberately stdlib-only, so it runs without
+      # installing anything. That matters: pydantic and weasyprint cannot be
+      # installed under PEP 668 on a Homebrew Python, and the engine is built
+      # to degrade to stdlib rather than hard-require them.
+      - name: Winner's Curse regression
+        run: python tests/test_winners_curse.py
+
+      - name: Import the package with no third-party deps present
+        run: |
+          python - <<'EOF'
+          import ipo_radar.config, ipo_radar.models, ipo_radar.util
+          from ipo_radar.analytics.portfolio import PortfolioOptimizer
+          from ipo_radar.analytics.tday_signals import TDaySignalEngine
+          from ipo_radar.config import PortfolioConfig
+          floors = {PortfolioOptimizer(1.0).min_score,
+                    TDaySignalEngine.MIN_SCORE,
+                    PortfolioConfig().min_score}
+          assert len(floors) == 1, f"execution floor has drifted: {floors}"
+          print("execution floor consistent:", floors.pop())
+          EOF
