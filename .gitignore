@@ -4,21 +4,23 @@
 config.json
 
 # --- captured data -----------------------------------------------------
-# ~125 MB of RHP and anchor PDFs. Re-download automatically on first run.
-data/documents/
-# SQLite history: a binary blob that changes on every cycle. Ship it as a
-# release asset if someone needs the backtest material, not in git history.
-data/*.db
+# data/ IS tracked. The SQLite history is the backtest material, and the
+# cached RHP/anchor zips are what make a backtest reproducible: the engine
+# re-downloads them from exchange URLs that rot, so a clone six months from
+# now would silently analyse a different (or empty) document set.
+# Only the transient SQLite sidecars are excluded - they are rebuilt on open
+# and committing them risks shipping a half-applied transaction.
 data/*.db-shm
 data/*.db-wal
-data/holidays.json
-data/macro_manual.json
+data/*.db-journal
 
 # --- generated output --------------------------------------------------
 # reports/index.md discloses configured capital and the deployment plan.
 reports/
 briefings/
-*.zip
+# Root-anchored: the release archives live here. NOT data/documents/*.zip,
+# which is tracked cache, so this must never become a bare `*.zip`.
+/*.zip
 
 # --- python ------------------------------------------------------------
 __pycache__/

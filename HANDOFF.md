@@ -19,10 +19,16 @@ reports/              last rendered board and per-IPO write-ups
 README.md             design notes and the reasoning behind each model
 ```
 
-**Not included: `data/documents/`** — ~125 MB of cached RHP and anchor PDFs.
-They re-download automatically on first run (roughly 45–90 s per issue) and
-cache to disk permanently. Excluded purely for archive size; nothing depends
-on shipping them.
+**Not included in the zip archive: `data/documents/`** — ~125 MB of cached
+RHP and anchor PDFs. They re-download automatically on first run (roughly
+45–90 s per issue) and cache to disk permanently. Excluded purely for archive
+size; nothing depends on shipping them.
+
+**The git repository does include them,** along with `data/ipo_radar.db`. A
+clone is therefore self-contained and reproducible: the exchange URLs the
+downloader uses expire, so a fresh clone months from now would otherwise
+analyse a different document set — or none — and quietly produce different
+numbers from the same code.
 
 ## Setup
 
