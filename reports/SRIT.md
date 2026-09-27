@@ -1,6 +1,6 @@
 # Srit India Limited (SRIT)
 
-**STRONG APPLY** · score **80/100** · confidence 45%
+**STRONG APPLY** · score **81/100** · confidence 45%
 
 ## Issue
 
@@ -71,12 +71,12 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **pre_open**, 66h 29m to the UPI mandate cut-off
+- Phase: **pre_open**, 66h 11m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-30T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 30 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 66h 29m
+  - time to cut-off: 66h 11m
 
 ## Why it scores where it does
 
@@ -87,6 +87,7 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
 - anchor book could not be read from the RHP
+- recent IPOs listed +7.6% on average
 
 ---
-*Generated 27 Sep 2026 22:30 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 22:48 by IPO Radar. Analysis only — not investment advice.*

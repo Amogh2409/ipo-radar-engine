@@ -1,6 +1,6 @@
 # Moneyview Limited (MONEYVIEW)
 
-**NEUTRAL** · score **55/100** · confidence 79%
+**NEUTRAL** · score **56/100** · confidence 79%
 
 ## Issue
 
@@ -75,12 +75,12 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 
 ## Execution
 
-- Phase: **early**, 18h 33m to the UPI mandate cut-off
+- Phase: **early**, 18h 15m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-28T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 28 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 18h 33m
+  - time to cut-off: 18h 15m
 
 ## Why it scores where it does
 
@@ -89,6 +89,7 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 - mostly fresh capital (95%) into the business
 - anchor book could not be read from the RHP
 - anchors came in at the full cap price
+- recent IPOs listed +7.6% on average
 
 ## Risks
 
@@ -98,4 +99,4 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 - DEMAND COLLAPSE - QIB 0.61x with 80% of the window gone; the market has declined this issue
 
 ---
-*Generated 27 Sep 2026 22:30 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 22:48 by IPO Radar. Analysis only — not investment advice.*
