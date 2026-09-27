@@ -27,6 +27,7 @@ from .config import Settings
 from .models import IPO, QIB, RETAIL, Verdict
 from .sources.documents import DocumentSource
 from .sources.bse import BSESource, DemandFeed
+from .sources.chittorgarh import ChittorgarhSource
 from .sources.gmp import GMPSource
 from .sources.macro import MacroSource
 from .sources.news import NewsSource
@@ -51,7 +52,8 @@ class Engine:
         self.docs = DocumentSource(self.http)
         self.macro = MacroSource(self.http)
         self.bse = BSESource(self.http, getattr(self.s, "bse_endpoint", ""))
-        self.feed = DemandFeed(self.http, self.nse, self.store, self.bse)
+        self.cg = ChittorgarhSource(self.http)
+        self.feed = DemandFeed(self.http, self.nse, self.store, self.bse, self.cg)
         self.valuation = ValuationEngine()
         self.projector = SubscriptionProjector(self.store)      # legacy fallback
         self.bayes = BayesianProjectionEngine(self.store)
@@ -89,6 +91,12 @@ class Engine:
     # ------------------------------------------------------------ intake
     async def refresh_universe(self) -> list[IPO]:
         ipos = await self.nse.list_ipos(self.s.include_sme)
+        if not ipos:
+            log.warning("NSE returned no issues (last status %s) - falling back "
+                        "to Chittorgarh", self.http.last_nse_status)
+            ipos = await self.cg.list_ipos(self.s.include_sme, self.store.get_ipos())
+        else:
+            self._retire_placeholders(ipos)
         for ipo in ipos:
             existing = self.store.get_ipo(ipo.symbol)
             if existing and existing.lot_size:
@@ -97,14 +105,32 @@ class Engine:
                 ipo.face_value = ipo.face_value or existing.face_value
                 ipo.registrar = ipo.registrar or existing.registrar
                 ipo.meta = {**existing.meta, **ipo.meta}
-            else:
+            elif ipo.meta.get("source") != "chittorgarh":
                 try:
                     ipo = await self.nse.enrich(ipo)
                 except Exception as exc:
                     log.warning("enrich %s failed: %s", ipo.symbol, exc)
+                if not ipo.lot_size:          # NSE listed it but detail was blocked
+                    try:
+                        ipo = await self.cg.enrich(ipo)
+                    except Exception as exc:
+                        log.warning("chittorgarh enrich %s failed: %s", ipo.symbol, exc)
             self.store.upsert_ipo(ipo)
         self.store.log_event("discover", f"{len(ipos)} issues in universe")
         return ipos
+
+    def _retire_placeholders(self, nse_ipos: list[IPO]) -> None:
+        """A Chittorgarh record stored under a name-derived symbol while NSE
+        was blocked would otherwise sit beside the real NSE record forever."""
+        from .util import name_similarity
+        for old in self.store.get_ipos(ACTIVE):
+            if old.meta.get("source") != "chittorgarh":
+                continue
+            if any(n.symbol != old.symbol and name_similarity(n.name, old.name) >= 0.62
+                   for n in nse_ipos):
+                old.status = "Superseded"
+                self.store.upsert_ipo(old)
+                log.info("%s superseded by its NSE record", old.symbol)
 
     def live_ipos(self) -> list[IPO]:
         return [i for i in self.store.get_ipos() if i.status in ACTIVE]

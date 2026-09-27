@@ -205,7 +205,9 @@ class DemandFeed:
       2. NSE `ipo-detail.bidDetails` - same data, different handler
       3. NSE `ipo-current-issue`     - totals only for every live issue at once
       4. BSE demand schedule         - different exchange, different edge
-      5. last good snapshot from SQLite, explicitly marked stale
+      5. Chittorgarh report          - aggregator on an ordinary web host;
+                                       the layer that survives a cloud IP
+      6. last good snapshot from SQLite, explicitly marked stale
 
     Layers 2 and 3 matter more than they look: an Akamai block is usually
     path-scoped, so a sibling NSE endpoint often still answers when the
@@ -217,11 +219,12 @@ class DemandFeed:
     FRESH_CACHE_SECONDS = 5400.0     # 90 min: still better than no breakdown
 
     def __init__(self, http: Http, nse: Any, store: Any = None,
-                 bse: BSESource | None = None) -> None:
+                 bse: BSESource | None = None, cg: Any = None) -> None:
         self.http = http
         self.nse = nse
         self.store = store
         self.bse = bse or BSESource(http)
+        self.cg = cg
         self.stats: dict[str, int] = {}
 
     def _record(self, source: str) -> None:
@@ -270,6 +273,14 @@ class DemandFeed:
             self._record("bse")
             return FeedResult(snap, "bse", degraded=True,
                               note="served by BSE after NSE failure")
+
+        if self.cg:
+            snap = await self.cg.subscription(ipo)
+            if snap and snap.categories:
+                self._record("chittorgarh")
+                return FeedResult(snap, "chittorgarh", degraded=True,
+                                  note="served by Chittorgarh after NSE and BSE "
+                                       "failed - bids reconstructed from multiples")
 
         # A recent full snapshot beats a live number with no breakdown.
         if self.store:
