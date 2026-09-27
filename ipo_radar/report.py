@@ -537,6 +537,9 @@ def write_reports(store: Store, verdicts: list[Verdict],
 
     idx: list[str] = ["# IPO Radar — live board", "",
                       f"_{datetime.now():%d %b %Y %H:%M}_", "",
+                      "> Personal research output, not investment advice. "
+                      "Verdicts come from a scoring model on public data; "
+                      "see the README disclaimer.", "",
                       "| IPO | Closes | Score | Verdict | Est. listing | "
                       "Retail P(allot) |", "|---|---|---|---|---|---|"]
     for v in verdicts:
