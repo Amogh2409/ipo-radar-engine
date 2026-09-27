@@ -45,7 +45,7 @@ jobs:
           IPO_TELEGRAM_BOT_TOKEN: ${{ secrets.IPO_TELEGRAM_BOT_TOKEN }}
           IPO_TELEGRAM_CHAT_ID: ${{ secrets.IPO_TELEGRAM_CHAT_ID }}
           IPO_WEBHOOK_URL: ${{ secrets.IPO_WEBHOOK_URL }}
-        run: python run.py once --no-llm
+        run: python run.py --no-llm once
 
       # Commits made with GITHUB_TOKEN do not trigger other workflows, so this
       # cannot loop through tests.yml.
