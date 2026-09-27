@@ -6,7 +6,7 @@ from __future__ import annotations
 
 import asyncio
 import logging
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from typing import Any
 
 from .analytics.allotment import AllotmentEngine, demand_heat
@@ -32,6 +32,7 @@ from .sources.gmp import GMPSource
 from .sources.macro import MacroSource
 from .sources.news import NewsSource
 from .sources.nse import NSESource
+from .sources.prices import YahooPrices
 from .store import Store
 from .util import Http, clamp, now_iso
 
@@ -53,6 +54,7 @@ class Engine:
         self.macro = MacroSource(self.http)
         self.bse = BSESource(self.http, getattr(self.s, "bse_endpoint", ""))
         self.cg = ChittorgarhSource(self.http)
+        self.prices = YahooPrices(self.http)
         self.feed = DemandFeed(self.http, self.nse, self.store, self.bse, self.cg)
         self.valuation = ValuationEngine()
         self.projector = SubscriptionProjector(self.store)      # legacy fallback
@@ -116,8 +118,60 @@ class Engine:
                     except Exception as exc:
                         log.warning("chittorgarh enrich %s failed: %s", ipo.symbol, exc)
             self.store.upsert_ipo(ipo)
+        self._close_finished({i.symbol for i in ipos})
         self.store.log_event("discover", f"{len(ipos)} issues in universe")
         return ipos
+
+    def _close_finished(self, listed_now: set[str]) -> None:
+        """NSE drops an issue from `all-upcoming-issues` once it closes, so
+        its stored status would stay Active forever - keeping it on the live
+        board and in every analysis sweep. Close anything past its close date
+        that the source no longer lists."""
+        today = date.today().isoformat()
+        for ipo in self.store.get_ipos(ACTIVE):
+            if (ipo.symbol not in listed_now and ipo.close_date
+                    and ipo.close_date < today):
+                ipo.status = "Closed"
+                self.store.upsert_ipo(ipo)
+                log.info("%s closed %s - off the live board", ipo.symbol,
+                         ipo.close_date)
+
+    async def poll_listings(self, lookback_days: int = 180) -> int:
+        """Listing price and current price for recently closed issues.
+
+        The listing price is written to `outcomes` - the same row the manual
+        `outcome` command writes, which calibration trains on - but only when
+        no outcome exists, so a hand-entered one (with allotment data) is
+        never overwritten. The current price goes to kv, since it changes.
+        """
+        since = (date.today() - timedelta(days=lookback_days)).isoformat()
+        n = 0
+        for ipo in self.store.get_ipos(("Closed", "Listed")):
+            if not ipo.close_date or ipo.close_date < since:
+                continue
+            try:
+                px = await self.prices.listing(ipo)
+            except Exception as exc:
+                log.warning("price %s failed: %s", ipo.symbol, exc)
+                continue
+            if not px:
+                continue
+            n += 1
+            self.store.set_kv(f"cmp:{ipo.symbol}", {"price": px["cmp"],
+                                                     "ts": px["cmp_ts"]})
+            if ipo.status != "Listed" or not ipo.listing_date:
+                ipo.status, ipo.listing_date = "Listed", px["listing_date"]
+                self.store.upsert_ipo(ipo)
+            if not self.store.get_outcome(ipo.symbol) and ipo.cap_price:
+                self.store.set_outcome(
+                    ipo.symbol, listing_date=px["listing_date"],
+                    listing_price=px["listing_price"],
+                    listing_gain_pct=(px["listing_price"] - ipo.cap_price)
+                    / ipo.cap_price * 100.0)
+                log.info("%s listed %s at %.2f", ipo.symbol,
+                         px["listing_date"], px["listing_price"])
+            await asyncio.sleep(0.3)
+        return n
 
     def _retire_placeholders(self, nse_ipos: list[IPO]) -> None:
         """A Chittorgarh record stored under a name-derived symbol while NSE

@@ -91,6 +91,7 @@ async def _once(engine: Engine, no_docs: bool = False) -> None:
     await engine.poll_subscription()
     await engine.poll_gmp()
     await engine.poll_news()
+    await engine.poll_listings()
     verdicts = await engine.analyse_all(use_llm=engine.s.llm.enabled)
     allocation = engine.allocate(verdicts)
     print_dashboard(engine.store, verdicts, allocation, regime)

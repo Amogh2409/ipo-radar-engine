@@ -338,6 +338,11 @@ class Store:
                       f" VALUES (?,{','.join('?' * len(cols))},?)",
                       (symbol, *[vals[c] for c in cols], now_iso()))
 
+    def get_outcome(self, symbol: str) -> dict[str, Any] | None:
+        r = self._conn.execute("SELECT * FROM outcomes WHERE symbol=?",
+                               (symbol,)).fetchone()
+        return dict(r) if r else None
+
     def training_rows(self) -> list[dict[str, Any]]:
         """Joined (features, truth) pairs for the self-calibration pass."""
         rows = self._conn.execute("""
