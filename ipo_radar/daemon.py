@@ -102,7 +102,8 @@ class Daemon:
     async def _job_discover(self) -> str:
         ipos = await self.engine.refresh_universe()
         self.regime = await self.engine.market_regime()
-        return f"{len(ipos)} issues"
+        listed = await self.engine.poll_listings()
+        return f"{len(ipos)} issues, {listed} listed prices"
 
     async def _job_subscription(self) -> str:
         n = await self.engine.poll_subscription()

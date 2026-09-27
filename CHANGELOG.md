@@ -1,5 +1,20 @@
 # Changelog
 
+## Board split: live issues on top, track record below
+
+- **Closed issues leave the live board.** NSE drops an issue from its list once
+  it closes, so its stored status stayed `Active` forever: the board showed
+  September issues weeks later and every cycle re-analysed them (19 issues
+  instead of 8). `refresh_universe` now closes anything past its close date
+  that the source no longer lists.
+- **Listing and current prices from Yahoo Finance** (`sources/prices.py`).
+  `poll_listings` records the listing-day open in `outcomes` (only when no
+  outcome exists, so a hand-entered one is never overwritten) and marks the
+  issue `Listed`. That is the same row calibration trains on, so the model now
+  learns from every listing without the manual `outcome` command.
+- **"Closed and listed" section** under the board: the engine's call and
+  predicted gain beside the actual listing gain and the current price.
+
 ## Chittorgarh failover
 
 NSE's Akamai edge refuses most datacenter IPs, and when `all-upcoming-issues`

@@ -525,6 +525,40 @@ def detail(store: Store, verdict: Verdict) -> str:
     return "\n".join(L)
 
 
+def _track_record(store: Store, today: str, limit: int = 30) -> list[str]:
+    """Closed issues: what the engine said, what they listed at, where they
+    trade now. Prices come from Engine.poll_listings (Yahoo)."""
+    past = sorted((i for i in store.get_ipos()
+                   if i.close_date and i.close_date < today
+                   and i.status != "Superseded"),
+                  key=lambda i: i.close_date, reverse=True)[:limit]
+    if not past:
+        return []
+    out = ["", "## Closed and listed", "",
+           "_Listing price is the listing-day open; current price is the last "
+           "Yahoo Finance quote when the board was written._", "",
+           "| IPO | Closed | Issue price | Our call | Predicted | Listed | "
+           "Listing price | Listing gain | Current price | Now vs issue |",
+           "|---|---|---|---|---|---|---|---|---|---|"]
+    for ipo in past:
+        v = store.latest_verdict(ipo.symbol) or {}
+        o = store.get_outcome(ipo.symbol) or {}
+        cmp = (store.get_kv(f"cmp:{ipo.symbol}") or {}).get("price")
+        issue = ipo.cap_price
+        lp = o.get("listing_price")
+        name = (f"[{ipo.symbol}]({ipo.symbol}.md)"
+                if (REPORT_DIR / f"{ipo.symbol}.md").exists() else ipo.symbol)
+        out.append(
+            f"| {name} | {ipo.close_date} | "
+            f"{f'₹{issue:,.2f}' if issue else '—'} | {v.get('grade') or '—'} | "
+            f"{_pct(v.get('expected_listing_gain_pct'))} | "
+            f"{o.get('listing_date') or ipo.listing_date or 'awaiting'} | "
+            f"{f'₹{lp:,.2f}' if lp else '—'} | {_pct(o.get('listing_gain_pct'))} | "
+            f"{f'₹{cmp:,.2f}' if cmp else '—'} | "
+            f"{_pct((cmp - issue) / issue * 100.0) if cmp and issue else '—'} |")
+    return out
+
+
 def write_reports(store: Store, verdicts: list[Verdict],
                   allocation: Allocation | None = None,
                   signals: dict[str, Any] | None = None) -> list[Path]:
@@ -535,14 +569,24 @@ def write_reports(store: Store, verdicts: list[Verdict],
         p.write_text(detail(store, v), encoding="utf-8")
         written.append(p)
 
+    # The board is for issues you can still apply to; anything past its
+    # close date moves to the track record below, whatever its status says.
+    today = date.today().isoformat()
+    live = [v for v in verdicts
+            if not ((ipo := store.get_ipo(v.symbol)) and ipo.close_date
+                    and ipo.close_date < today)]
+
     idx: list[str] = ["# IPO Radar — live board", "",
                       f"_{datetime.now():%d %b %Y %H:%M}_", "",
                       "> Personal research output, not investment advice. "
                       "Verdicts come from a scoring model on public data; "
                       "see the README disclaimer.", "",
+                      "## Open and upcoming", "",
                       "| IPO | Closes | Score | Verdict | Est. listing | "
                       "Retail P(allot) |", "|---|---|---|---|---|---|"]
-    for v in verdicts:
+    if not live:
+        idx.append("| _no open or upcoming issues_ | | | | | |")
+    for v in live:
         ipo = store.get_ipo(v.symbol)
         rk = next((k for k in v.allotment if k.startswith(f"{RETAIL}:")), None)
         o = v.allotment.get(rk) if rk else None
@@ -584,6 +628,8 @@ def write_reports(store: Store, verdicts: list[Verdict],
             idx += ["", "### Skipped", ""]
             for s in allocation.skipped:
                 idx.append(f"- **{s['symbol']}** — {s['why']}")
+
+    idx += _track_record(store, today)
 
     p = REPORT_DIR / "index.md"
     p.write_text("\n".join(idx), encoding="utf-8")
