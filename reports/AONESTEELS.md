@@ -1,6 +1,6 @@
 # A-One Steels India Limited (AONESTEELS)
 
-**AVOID** · score **45/100** · confidence 65%
+**AVOID** · score **45/100** · confidence 67%
 
 ## Issue
 
@@ -30,12 +30,12 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (scale check failed - offer i
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| EMPLOYEE | 57,636 | 91,501 | 1.59x | 2.12x |
-| NII | 1,570,130 | 3,247,786 | 2.07x | 4.04x |
-| QIB | 2,093,531 | 196,766 | 0.09x | 0.27x |
-| RETAIL | 3,663,637 | 6,458,609 | 1.76x | 2.49x |
-| bNII | 1,046,753 | 1,928,514 | 1.84x | 3.98x |
-| sNII | 523,377 | 1,319,272 | 2.52x | 4.43x |
+| EMPLOYEE | 57,636 | 91,501 | 1.59x | 2.05x |
+| NII | 1,570,130 | 3,247,786 | 2.07x | 3.77x |
+| QIB | 2,093,531 | 196,766 | 0.09x | 0.23x |
+| RETAIL | 3,663,637 | 6,458,609 | 1.76x | 2.38x |
+| bNII | 1,046,753 | 1,928,514 | 1.84x | 3.69x |
+| sNII | 523,377 | 1,319,272 | 2.52x | 4.17x |
 
 Grey market premium: **₹51** (+12.6%) via ipowatch
 
@@ -45,27 +45,27 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| EMPLOYEE | 1.59x | **2.12x** | 1.59x – 2.83x | 91% |
-| NII | 2.07x | **4.04x** | 2.87x – 5.69x | 88% |
-| QIB | 0.09x | **0.27x** | 0.18x – 0.40x | 84% |
-| RETAIL | 1.76x | **2.49x** | 1.87x – 3.31x | 91% |
-| bNII | 1.84x | **3.98x** | 2.78x – 5.70x | 86% |
-| sNII | 2.52x | **4.43x** | 3.19x – 6.16x | 88% |
+| EMPLOYEE | 1.59x | **2.05x** | 1.66x – 2.53x | 95% |
+| NII | 2.07x | **3.77x** | 2.96x – 4.79x | 93% |
+| QIB | 0.09x | **0.23x** | 0.18x – 0.30x | 92% |
+| RETAIL | 1.76x | **2.38x** | 1.94x – 2.92x | 95% |
+| bNII | 1.84x | **3.69x** | 2.87x – 4.74x | 93% |
+| sNII | 2.52x | **4.17x** | 3.31x – 5.25x | 94% |
 
-_Score weighting right now: demand 22.3%, valuation 16.9%, financials 18.8% — demand earns influence as the book fills._
+_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
 
 ## Listing expectation
 
 - Central estimate: **+0.0%**
-- Likely range: -11.6% to +0.0%
+- Likely range: -11.0% to +0.0%
 - Probability of a positive listing: **0%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,985 | lottery | 61.4% | 23 |
-| RETAIL | 13 | ₹194,805 | lottery | 61.4% | 23 |
+| RETAIL | 1 | ₹14,985 | lottery | 64.2% | 24 |
+| RETAIL | 13 | ₹194,805 | lottery | 64.2% | 24 |
 | sNII | 14 | ₹209,790 | proportionate | 100.0% | 111 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
@@ -77,17 +77,17 @@ _Score weighting right now: demand 22.3%, valuation 16.9%, financials 18.8% — 
 
 ## Execution
 
-- Phase: **early**, 19h 20m to the UPI mandate cut-off
+- Phase: **early**, 18h 34m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-28T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 28 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 19h 20m
+  - time to cut-off: 18h 34m
 
 ## Why it scores where it does
 
 - EPS CAGR +68%
-- QIB book weak (0.27x) - institutions are passing
+- QIB book weak (0.23x) - institutions are passing
 - mostly fresh capital (100%) into the business
 - anchor book could not be read from the RHP
 
@@ -97,7 +97,7 @@ _Score weighting right now: demand 22.3%, valuation 16.9%, financials 18.8% — 
 - priced at 21.9x vs 12x benchmark - demanding
 - RoNW 15.4% - modest returns on capital
 - Value Trap: RoNW (15.4%) is below estimated Cost of Equity (16.6%)
-- DEMAND COLLAPSE - QIB 0.27x with 78% of the window gone; the market has declined this issue
+- DEMAND COLLAPSE - QIB 0.23x with 80% of the window gone; the market has declined this issue
 
 ---
-*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 22:30 by IPO Radar. Analysis only — not investment advice.*

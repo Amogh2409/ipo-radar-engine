@@ -93,4 +93,4 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - Post-issue RoNW (~7.3%) falls below Cost of Equity (13.6%) once the fresh issue dilutes equity
 
 ---
-*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 22:30 by IPO Radar. Analysis only — not investment advice.*

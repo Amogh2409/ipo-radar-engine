@@ -98,4 +98,4 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - Value Trap: RoNW (13.9%) is below estimated Cost of Equity (15.9%)
 
 ---
-*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 22:30 by IPO Radar. Analysis only — not investment advice.*

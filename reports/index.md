@@ -1,6 +1,8 @@
 # IPO Radar — live board
 
-_27 Sep 2026 16:15_
+_27 Sep 2026 22:30_
+
+> Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
@@ -13,25 +15,25 @@ _27 Sep 2026 16:15_
 | [ARCIL](ARCIL.md) | 2026-09-11 | 72 | SPECULATIVE FLIP | +23.0% | 47% |
 | [STEAMHOUSE](STEAMHOUSE.md) | 2026-09-11 | 72 | APPLY | +28.0% | 11% |
 | [MANIKA](MANIKA.md) | 2026-09-16 | 69 | APPLY | +27.2% | 27% |
-| [GERMAN](GERMAN.md) | 2026-09-29 | 67 | APPLY | +19.5% | 50% |
+| [GERMAN](GERMAN.md) | 2026-09-29 | 67 | APPLY | +19.1% | 53% |
 | [VEEGALAND](VEEGALAND.md) | 2026-09-15 | 63 | APPLY | +20.5% | 19% |
-| [ORIENTCABL](ORIENTCABL.md) | 2026-09-29 | 58 | NEUTRAL | +18.4% | 37% |
 | [MPIMANIPAL](MPIMANIPAL.md) | 2026-09-11 | 58 | NEUTRAL | +4.4% | 64% |
+| [ORIENTCABL](ORIENTCABL.md) | 2026-09-29 | 58 | NEUTRAL | +18.2% | 39% |
 | [PRASOLCHEM](PRASOLCHEM.md) | 2026-09-10 | 56 | NEUTRAL | +8.6% | 81% |
-| [RUNWALENTR](RUNWALENTR.md) | 2026-09-29 | 56 | NEUTRAL | +10.1% | 100% |
-| [MONEYVIEW](MONEYVIEW.md) | 2026-09-28 | 56 | NEUTRAL | +0.0% | 27% |
-| [AONESTEELS](AONESTEELS.md) | 2026-09-28 | 45 | AVOID | +0.0% | 61% |
+| [RUNWALENTR](RUNWALENTR.md) | 2026-09-29 | 56 | NEUTRAL | +9.7% | 100% |
+| [MONEYVIEW](MONEYVIEW.md) | 2026-09-28 | 55 | NEUTRAL | +0.0% | 27% |
 | [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | 45 | AVOID | +13.7% | 22% |
-| [ACEVECTOR](ACEVECTOR.md) | 2026-09-29 | 42 | AVOID | +8.5% | 100% |
+| [AONESTEELS](AONESTEELS.md) | 2026-09-28 | 45 | AVOID | +0.0% | 64% |
+| [ACEVECTOR](ACEVECTOR.md) | 2026-09-29 | 42 | AVOID | +8.4% | 100% |
 
 ## Suggested applications
 
 | PAN | IPO | Category | Lots | Capital | P(allot) | E[profit] |
 |---|---|---|---|---|---|---|
-| #1 | GERMAN | RETAIL | 1 | ₹14,873 | 50% | ₹1,462 |
+| #1 | GERMAN | RETAIL | 1 | ₹14,873 | 53% | ₹1,505 |
 | #1 | SRIT | RETAIL | 1 | ₹14,950 | 26% | ₹1,009 |
 
-Capital deployed **₹29,823** of ₹500,000, expected profit **₹2,471** (8.29% on blocked funds).
+Capital deployed **₹29,823** of ₹500,000, expected profit **₹2,515** (8.43% on blocked funds).
 
 ### Cash flow projection
 
@@ -53,7 +55,7 @@ _ASBA blocks capital from the close date until roughly T+3 business days, so wha
 
 - **ORIENTCABL** — score 58 below cutoff 61
 - **RUNWALENTR** — score 56 below cutoff 61
-- **MONEYVIEW** — score 56 below cutoff 61
-- **AONESTEELS** — Value Trap: RoNW 15.4% is below cost of equity 16.6%; composite capped at 59
+- **MONEYVIEW** — score 55 below cutoff 61
 - **SHAHINVEST** — Value Trap: RoNW 7.3% is below cost of equity 13.8%; composite capped at 59
+- **AONESTEELS** — Value Trap: RoNW 15.4% is below cost of equity 16.6%; composite capped at 59
 - **ACEVECTOR** — score 42 below cutoff 61

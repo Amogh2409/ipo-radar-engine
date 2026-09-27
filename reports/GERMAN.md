@@ -1,6 +1,6 @@
 # German Green Steel and Power Limited (GERMAN)
 
-**APPLY** · score **67/100** · confidence 62%
+**APPLY** · score **67/100** · confidence 65%
 
 ## Issue
 
@@ -28,11 +28,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 3,445,455 | 8,481,997 | 2.46x | 9.80x |
-| QIB | 4,578,030 | 6,064,974 | 1.32x | 9.29x |
-| RETAIL | 8,039,394 | 13,253,662 | 1.65x | 3.27x |
-| bNII | 2,296,970 | 5,804,429 | 2.53x | 12.30x |
-| sNII | 1,148,485 | 2,677,568 | 2.33x | 7.58x |
+| NII | 3,445,455 | 8,481,997 | 2.46x | 9.04x |
+| QIB | 4,578,030 | 6,064,974 | 1.32x | 8.35x |
+| RETAIL | 8,039,394 | 13,253,662 | 1.65x | 3.11x |
+| bNII | 2,296,970 | 5,804,429 | 2.53x | 11.37x |
+| sNII | 1,148,485 | 2,677,568 | 2.33x | 6.99x |
 
 Grey market premium: **₹28** (+20.1%) via ipowatch
 
@@ -42,27 +42,27 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 2.46x | **9.80x** | 5.90x – 16.28x | 76% |
-| QIB | 1.32x | **9.29x** | 4.94x – 17.50x | 67% |
-| RETAIL | 1.65x | **3.27x** | 2.37x – 4.52x | 89% |
-| bNII | 2.53x | **12.30x** | 7.09x – 21.34x | 73% |
-| sNII | 2.33x | **7.58x** | 4.76x – 12.07x | 79% |
+| NII | 2.46x | **9.04x** | 6.34x – 12.90x | 87% |
+| QIB | 1.32x | **8.35x** | 5.34x – 13.03x | 80% |
+| RETAIL | 1.65x | **3.11x** | 2.47x – 3.92x | 94% |
+| bNII | 2.53x | **11.37x** | 7.73x – 16.71x | 85% |
+| sNII | 2.33x | **6.99x** | 5.04x – 9.68x | 88% |
 
-_Score weighting right now: demand 17.9%, valuation 19.0%, financials 21.1% — demand earns influence as the book fills._
+_Score weighting right now: demand 18.4%, valuation 18.8%, financials 20.8% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+19.5%**
-- Likely range: +1.2% to +37.8%
-- Probability of a positive listing: **86%**
+- Central estimate: **+19.1%**
+- Likely range: +2.3% to +35.9%
+- Probability of a positive listing: **87%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,873 | lottery | 50.4% | 54 |
-| RETAIL | 13 | ₹193,349 | lottery | 50.4% | 54 |
-| sNII | 14 | ₹208,222 | proportionate | 100.0% | 107 |
+| RETAIL | 1 | ₹14,873 | lottery | 53.0% | 57 |
+| RETAIL | 13 | ₹193,349 | lottery | 53.0% | 57 |
+| sNII | 14 | ₹208,222 | proportionate | 100.0% | 214 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -73,12 +73,12 @@ _Score weighting right now: demand 17.9%, valuation 19.0%, financials 21.1% — 
 
 ## Execution
 
-- Phase: **early**, 43h 18m to the UPI mandate cut-off
+- Phase: **early**, 42h 31m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 29 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 43h 18m
+  - time to cut-off: 42h 31m
 
 ## Why it scores where it does
 
@@ -90,4 +90,4 @@ _Score weighting right now: demand 17.9%, valuation 19.0%, financials 21.1% — 
 - offer priced close to recent insider cost (0.51x)
 
 ---
-*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 22:30 by IPO Radar. Analysis only — not investment advice.*

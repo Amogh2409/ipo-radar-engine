@@ -112,4 +112,4 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - priced at 40.0x vs 24x benchmark - demanding
 
 ---
-*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 22:30 by IPO Radar. Analysis only — not investment advice.*
