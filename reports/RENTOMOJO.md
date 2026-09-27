@@ -1,6 +1,6 @@
 # Rentomojo Limited (RENTOMOJO)
 
-**STRONG APPLY** · score **73/100** · confidence 80%
+**STRONG APPLY** · score **78/100** · confidence 82%
 
 ## Issue
 
@@ -36,12 +36,12 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (scale check failed - offer i
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| EMPLOYEE | 52,083 | 221,186 | 4.25x | 5.81x |
-| NII | 4,654,335 | 53,957,914 | 11.59x | 31.11x |
-| QIB | 6,205,779 | 2,819,696 | 0.45x | 2.66x |
-| RETAIL | 10,860,114 | 45,426,602 | 4.18x | 6.44x |
-| bNII | 3,102,890 | 33,328,786 | 10.74x | 34.76x |
-| sNII | 1,551,445 | 20,629,128 | 13.30x | 29.71x |
+| EMPLOYEE | 52,083 | 1,095,126 | 21.03x | 21.03x |
+| NII | 4,654,335 | 316,147,203 | 67.93x | 67.93x |
+| QIB | 6,205,779 | 1,100,238,438 | 177.29x | 177.29x |
+| RETAIL | 10,860,114 | 169,329,945 | 15.59x | 15.59x |
+| bNII | 3,102,890 | 227,015,424 | 73.16x | 73.16x |
+| sNII | 1,551,445 | 89,131,779 | 57.45x | 57.45x |
 
 Grey market premium: **₹144** (+35.6%) via ipowatch
 
@@ -51,28 +51,28 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| EMPLOYEE | 4.25x | **5.81x** | 4.98x – 6.78x | 97% |
-| NII | 11.59x | **31.11x** | 25.30x – 38.25x | 95% |
-| QIB | 0.45x | **2.66x** | 2.07x – 3.42x | 93% |
-| RETAIL | 4.18x | **6.44x** | 5.56x – 7.46x | 97% |
-| bNII | 10.74x | **34.76x** | 27.85x – 43.39x | 94% |
-| sNII | 13.30x | **29.71x** | 24.51x – 36.02x | 96% |
+| EMPLOYEE | 21.03x | **21.03x** | 21.03x – 22.42x | 100% |
+| NII | 67.93x | **67.93x** | 67.93x – 72.42x | 100% |
+| QIB | 177.29x | **177.29x** | 177.29x – 189.02x | 100% |
+| RETAIL | 15.59x | **15.59x** | 15.59x – 16.62x | 100% |
+| bNII | 73.16x | **73.16x** | 73.16x – 78.00x | 100% |
+| sNII | 57.45x | **57.45x** | 57.45x – 61.25x | 100% |
 
-_Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+26.2%**
-- Likely range: +7.4% to +45.0%
-- Probability of a positive listing: **92%**
+- Central estimate: **+37.9%**
+- Likely range: +14.9% to +60.9%
+- Probability of a positive listing: **95%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,948 | lottery | 28.0% | 10 |
-| RETAIL | 13 | ₹194,324 | lottery | 28.0% | 10 |
-| sNII | 14 | ₹209,272 | lottery | 47.1% | 17 |
+| RETAIL | 1 | ₹14,948 | lottery | 12.0% | 4 |
+| RETAIL | 13 | ₹194,324 | lottery | 12.0% | 4 |
+| sNII | 14 | ₹209,272 | lottery | 24.4% | 9 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -84,26 +84,24 @@ _Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — 
 
 ## Macro regime
 
-- India 10y **6.72%** · +0bp vs baseline · spread 1.23pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **87.4/100**, stress 0.01
+- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.2/100**, stress 0.04
 
 ## Execution
 
-- Phase: **early**, 23h 46m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-11T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 11 Sep 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 23h 46m
-
-- **QIB demand spike**: 0.02x/hour vs 0.00x/hour baseline (16.5 sigma)
-- **sNII demand spike**: 1.31x/hour vs 0.33x/hour baseline (2.1 sigma)
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
 - RoNW 43.5% - strong returns on capital
 - EPS CAGR +103%
-- High-Spread Compounder: RoNW (43.5%) exceeds Cost of Equity (13.7%) by 29.8pp
+- High-Spread Compounder: RoNW (43.5%) exceeds Cost of Equity (13.8%) by 29.7pp
+- institutional book strong at 177.3x projected QIB
+- heavy retail demand (15.6x) - allotment will be a lottery
 - strong grey market premium (+35.6%)
 - anchor book is dominated by patient capital (6 of 8 are sovereign funds, large AMCs or insurers)
 - anchors came in at the full cap price
@@ -114,4 +112,4 @@ _Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — 
 - priced at 40.0x vs 24x benchmark - demanding
 
 ---
-*Generated 10 Sep 2026 17:14 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

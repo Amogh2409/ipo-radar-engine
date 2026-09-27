@@ -1,6 +1,6 @@
 # Karamtara Engineering Limited (KARAMTARA)
 
-**STRONG APPLY** · score **78/100** · confidence 80%
+**STRONG APPLY** · score **81/100** · confidence 82%
 
 ## Issue
 
@@ -34,11 +34,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 5,446,058 | 33,521,617 | 6.16x | 17.45x |
-| QIB | 7,261,410 | 16,512,094 | 2.27x | 12.17x |
-| RETAIL | 12,707,469 | 41,627,155 | 3.28x | 4.91x |
-| bNII | 3,630,706 | 20,480,552 | 5.64x | 20.18x |
-| sNII | 1,815,352 | 13,041,065 | 7.18x | 15.64x |
+| NII | 5,446,058 | 264,390,092 | 48.55x | 48.55x |
+| QIB | 7,261,410 | 1,158,819,885 | 159.59x | 159.59x |
+| RETAIL | 12,707,469 | 168,541,288 | 13.26x | 13.26x |
+| bNII | 3,630,706 | 185,452,635 | 51.08x | 51.08x |
+| sNII | 1,815,352 | 78,937,457 | 43.48x | 43.48x |
 
 Grey market premium: **₹75** (+29.5%) via ipowatch
 
@@ -48,53 +48,50 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 6.16x | **17.45x** | 14.19x – 21.46x | 95% |
-| QIB | 2.27x | **12.17x** | 9.46x – 15.67x | 93% |
-| RETAIL | 3.28x | **4.91x** | 4.24x – 5.69x | 97% |
-| bNII | 5.64x | **20.18x** | 16.16x – 25.19x | 94% |
-| sNII | 7.18x | **15.64x** | 12.90x – 18.96x | 96% |
+| NII | 48.55x | **48.55x** | 48.55x – 51.76x | 100% |
+| QIB | 159.59x | **159.59x** | 159.59x – 170.15x | 100% |
+| RETAIL | 13.26x | **13.26x** | 13.26x – 14.14x | 100% |
+| bNII | 51.08x | **51.08x** | 51.08x – 54.46x | 100% |
+| sNII | 43.48x | **43.48x** | 43.48x – 46.36x | 100% |
 
-_Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+26.4%**
-- Likely range: +7.5% to +45.3%
-- Probability of a positive listing: **92%**
+- Central estimate: **+34.8%**
+- Likely range: +13.1% to +56.5%
+- Probability of a positive listing: **95%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,986 | lottery | 35.7% | 21 |
-| RETAIL | 13 | ₹194,818 | lottery | 35.7% | 21 |
-| sNII | 14 | ₹209,804 | lottery | 89.5% | 53 |
+| RETAIL | 1 | ₹14,986 | lottery | 13.9% | 8 |
+| RETAIL | 13 | ₹194,818 | lottery | 13.9% | 8 |
+| sNII | 14 | ₹209,804 | lottery | 32.2% | 19 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.72%** · +0bp vs baseline · spread 1.23pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **87.4/100**, stress 0.01
+- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.2/100**, stress 0.04
 
 ## Execution
 
-- Phase: **early**, 23h 46m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-11T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 11 Sep 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 23h 46m
-
-- **sNII demand spike**: 0.94x/hour vs 0.17x/hour baseline (3.0 sigma)
-- **RETAIL demand spike**: 0.28x/hour vs 0.07x/hour baseline (2.0 sigma)
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
 - RoNW 20.8% - strong returns on capital
 - EPS CAGR +47%
-- High-Spread Compounder: RoNW (20.8%) exceeds Cost of Equity (13.9%) by 6.9pp
-- institutional book strong at 12.2x projected QIB
+- High-Spread Compounder: RoNW (20.8%) exceeds Cost of Equity (14.0%) by 6.8pp
+- institutional book strong at 159.6x projected QIB
+- heavy retail demand (13.3x) - allotment will be a lottery
 - strong grey market premium (+29.5%)
 - mostly fresh capital (100%) into the business
 - anchor book could not be read from the RHP
@@ -102,4 +99,4 @@ _Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — 
 - offer priced close to recent insider cost (0.92x)
 
 ---
-*Generated 10 Sep 2026 17:14 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

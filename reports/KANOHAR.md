@@ -36,11 +36,11 @@ _EV/EBITDA is 1.45x the 18.0x sector anchor._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 2,505,713 | 219,844,304 | 87.74x | 87.74x |
+| NII | 2,505,713 | 219,849,456 | 87.74x | 87.74x |
 | QIB | 3,340,950 | 719,539,590 | 215.37x | 215.37x |
-| RETAIL | 5,846,663 | 119,862,729 | 20.50x | 20.50x |
+| RETAIL | 5,846,663 | 119,899,460 | 20.51x | 20.51x |
 | bNII | 1,670,476 | 157,086,665 | 94.04x | 94.04x |
-| sNII | 835,237 | 62,757,639 | 75.14x | 75.14x |
+| sNII | 835,237 | 62,762,791 | 75.14x | 75.14x |
 
 Grey market premium: **₹224** (+35.4%) via ipowatch
 
@@ -50,11 +50,11 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 87.74x | **87.74x** | 87.74x – 93.54x | 100% |
+| NII | 87.74x | **87.74x** | 87.74x – 93.55x | 100% |
 | QIB | 215.37x | **215.37x** | 215.37x – 229.62x | 100% |
-| RETAIL | 20.50x | **20.50x** | 20.50x – 21.86x | 100% |
+| RETAIL | 20.51x | **20.51x** | 20.51x – 21.86x | 100% |
 | bNII | 94.04x | **94.04x** | 94.04x – 100.26x | 100% |
-| sNII | 75.14x | **75.14x** | 75.14x – 80.11x | 100% |
+| sNII | 75.14x | **75.14x** | 75.14x – 80.12x | 100% |
 
 _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
@@ -76,8 +76,8 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 ## Macro regime
 
-- India 10y **6.72%** · +0bp vs baseline · spread 1.23pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **87.4/100**, stress 0.01
+- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.2/100**, stress 0.04
 
 ## Execution
 
@@ -91,7 +91,7 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 - RoNW 34.8% - strong returns on capital
 - EPS CAGR +170%
-- High-Spread Compounder: RoNW (34.8%) exceeds Cost of Equity (13.5%) by 21.3pp
+- High-Spread Compounder: RoNW (34.8%) exceeds Cost of Equity (13.6%) by 21.2pp
 - institutional book strong at 215.4x projected QIB
 - heavy retail demand (20.5x) - allotment will be a lottery
 - strong grey market premium (+35.4%)
@@ -99,4 +99,4 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - anchors came in at the full cap price
 
 ---
-*Generated 10 Sep 2026 17:14 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

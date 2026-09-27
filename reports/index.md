@@ -1,34 +1,37 @@
 # IPO Radar — live board
 
-_10 Sep 2026 17:14_
+_27 Sep 2026 16:15_
 
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
-| [KARAMTARA](KARAMTARA.md) | 2026-09-11 | 78 | STRONG APPLY | +26.4% | 36% |
+| [KARAMTARA](KARAMTARA.md) | 2026-09-11 | 81 | STRONG APPLY | +34.8% | 14% |
+| [SRIT](SRIT.md) | 2026-09-30 | 80 | STRONG APPLY | +25.6% | 26% |
+| [LCCPROJECT](LCCPROJECT.md) | 2026-09-11 | 80 | STRONG APPLY | +34.9% | 8% |
+| [RENTOMOJO](RENTOMOJO.md) | 2026-09-11 | 78 | STRONG APPLY | +37.9% | 12% |
 | [KANOHAR](KANOHAR.md) | 2026-09-10 | 77 | STRONG APPLY | +39.0% | 9% |
-| [LCCPROJECT](LCCPROJECT.md) | 2026-09-11 | 76 | STRONG APPLY | +26.2% | 27% |
 | [GLASSWALL](GLASSWALL.md) | 2026-09-10 | 76 | STRONG APPLY | +39.3% | 6% |
-| [RENTOMOJO](RENTOMOJO.md) | 2026-09-11 | 73 | STRONG APPLY | +26.2% | 28% |
+| [ARCIL](ARCIL.md) | 2026-09-11 | 72 | SPECULATIVE FLIP | +23.0% | 47% |
+| [STEAMHOUSE](STEAMHOUSE.md) | 2026-09-11 | 72 | APPLY | +28.0% | 11% |
 | [MANIKA](MANIKA.md) | 2026-09-16 | 69 | APPLY | +27.2% | 27% |
-| [STEAMHOUSE](STEAMHOUSE.md) | 2026-09-11 | 64 | APPLY | +17.6% | 45% |
-| [ARCIL](ARCIL.md) | 2026-09-11 | 59 | NEUTRAL | +12.0% | 81% |
-| [PRASOLCHEM](PRASOLCHEM.md) | 2026-09-10 | 57 | NEUTRAL | +8.6% | 81% |
-| [VEEGALAND](VEEGALAND.md) | 2026-09-15 | 56 | NEUTRAL | +20.7% | 23% |
-| [MPIMANIPAL](MPIMANIPAL.md) | 2026-09-11 | 54 | NEUTRAL | +2.3% | 63% |
+| [GERMAN](GERMAN.md) | 2026-09-29 | 67 | APPLY | +19.5% | 50% |
+| [VEEGALAND](VEEGALAND.md) | 2026-09-15 | 63 | APPLY | +20.5% | 19% |
+| [ORIENTCABL](ORIENTCABL.md) | 2026-09-29 | 58 | NEUTRAL | +18.4% | 37% |
+| [MPIMANIPAL](MPIMANIPAL.md) | 2026-09-11 | 58 | NEUTRAL | +4.4% | 64% |
+| [PRASOLCHEM](PRASOLCHEM.md) | 2026-09-10 | 56 | NEUTRAL | +8.6% | 81% |
+| [RUNWALENTR](RUNWALENTR.md) | 2026-09-29 | 56 | NEUTRAL | +10.1% | 100% |
+| [MONEYVIEW](MONEYVIEW.md) | 2026-09-28 | 56 | NEUTRAL | +0.0% | 27% |
+| [AONESTEELS](AONESTEELS.md) | 2026-09-28 | 45 | AVOID | +0.0% | 61% |
+| [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | 45 | AVOID | +13.7% | 22% |
+| [ACEVECTOR](ACEVECTOR.md) | 2026-09-29 | 42 | AVOID | +8.5% | 100% |
 
 ## Suggested applications
 
 | PAN | IPO | Category | Lots | Capital | P(allot) | E[profit] |
 |---|---|---|---|---|---|---|
-| #1 | KANOHAR | RETAIL | 1 | ₹14,536 | 9% | ₹528 |
-| #1 | GLASSWALL | RETAIL | 1 | ₹14,924 | 6% | ₹344 |
-| #1 | KARAMTARA | RETAIL | 1 | ₹14,986 | 36% | ₹1,413 |
-| #1 | STEAMHOUSE | RETAIL | 1 | ₹14,985 | 45% | ₹1,197 |
-| #1 | RENTOMOJO | RETAIL | 1 | ₹14,948 | 28% | ₹1,095 |
-| #1 | LCCPROJECT | RETAIL | 1 | ₹14,892 | 27% | ₹1,034 |
-| #1 | MANIKA | RETAIL | 1 | ₹14,964 | 27% | ₹1,108 |
+| #1 | GERMAN | RETAIL | 1 | ₹14,873 | 50% | ₹1,462 |
+| #1 | SRIT | RETAIL | 1 | ₹14,950 | 26% | ₹1,009 |
 
-Capital deployed **₹104,235** of ₹500,000, expected profit **₹6,719** (6.45% on blocked funds).
+Capital deployed **₹29,823** of ₹500,000, expected profit **₹2,471** (8.29% on blocked funds).
 
 ### Cash flow projection
 
@@ -36,23 +39,21 @@ _ASBA blocks capital from the close date until roughly T+3 business days, so wha
 
 | Date | Blocked | Released | Outstanding | Free to deploy | Movements |
 |---|---|---|---|---|---|
-| Thu 10 Sep | ₹29,460 | — | ₹29,460 | ₹470,540 | +GLASSWALL +KANOHAR |
-| Fri 11 Sep | ₹59,811 | — | ₹89,271 | ₹410,729 | +KARAMTARA +LCCPROJECT +RENTOMOJO +STEAMHOUSE |
-| Sat 12 Sep | — | — | ₹89,271 | ₹410,729 | — |
-| Sun 13 Sep | — | — | ₹89,271 | ₹410,729 | — |
-| Mon 14 Sep | — | — | ₹89,271 | ₹410,729 | — |
-| Tue 15 Sep | — | — | ₹89,271 | ₹410,729 | — |
-| Wed 16 Sep | ₹14,964 | — | ₹104,235 | ₹395,765 | +MANIKA |
-| Thu 17 Sep | — | ₹29,460 | ₹74,775 | ₹425,225 | -GLASSWALL -KANOHAR |
-| Fri 18 Sep | — | ₹59,811 | ₹14,964 | ₹485,036 | -KARAMTARA -LCCPROJECT -RENTOMOJO -STEAMHOUSE |
-| Sat 19 Sep | — | — | ₹14,964 | ₹485,036 | — |
-| Sun 20 Sep | — | — | ₹14,964 | ₹485,036 | — |
-| Mon 21 Sep | — | — | ₹14,964 | ₹485,036 | — |
-| Tue 22 Sep | — | ₹14,964 | ₹0 | ₹500,000 | -MANIKA |
+| Tue 29 Sep | ₹14,873 | — | ₹14,873 | ₹485,127 | +GERMAN |
+| Wed 30 Sep | ₹14,950 | — | ₹29,823 | ₹470,177 | +SRIT |
+| Thu 01 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Fri 02 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Sat 03 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Sun 04 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Mon 05 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Tue 06 Oct | — | ₹14,873 | ₹14,950 | ₹485,050 | -GERMAN |
+| Wed 07 Oct | — | ₹14,950 | ₹0 | ₹500,000 | -SRIT |
 
 ### Skipped
 
-- **ARCIL** — Value Trap: RoNW 13.9% is below cost of equity 15.8%; composite capped at 59
-- **PRASOLCHEM** — score 57 below cutoff 61
-- **VEEGALAND** — score 56 below cutoff 61
-- **MPIMANIPAL** — score 54 below cutoff 61
+- **ORIENTCABL** — score 58 below cutoff 61
+- **RUNWALENTR** — score 56 below cutoff 61
+- **MONEYVIEW** — score 56 below cutoff 61
+- **AONESTEELS** — Value Trap: RoNW 15.4% is below cost of equity 16.6%; composite capped at 59
+- **SHAHINVEST** — Value Trap: RoNW 7.3% is below cost of equity 13.8%; composite capped at 59
+- **ACEVECTOR** — score 42 below cutoff 61
