@@ -1,6 +1,6 @@
 # Veegaland Developers Limited (VEEGALAND)
 
-**NEUTRAL** · score **56/100** · confidence 48%
+**APPLY** · score **63/100** · confidence 56%
 
 ## Issue
 
@@ -27,11 +27,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 2,423,077 | 934,645 | 0.39x | 23.65x |
-| QIB | 3,230,768 | 1,442,039 | 0.45x | 18.52x |
-| RETAIL | 5,653,847 | 4,649,899 | 0.82x | 6.86x |
-| bNII | 1,615,385 | 509,427 | 0.32x | 31.90x |
-| sNII | 807,692 | 425,218 | 0.53x | 18.36x |
+| NII | 2,423,077 | 43,676,009 | 18.03x | 18.03x |
+| QIB | 3,230,768 | 57,383,779 | 17.76x | 17.76x |
+| RETAIL | 5,653,847 | 52,214,609 | 9.24x | 9.24x |
+| bNII | 1,615,385 | 27,882,274 | 17.26x | 17.26x |
+| sNII | 807,692 | 15,793,735 | 19.55x | 19.55x |
 
 Grey market premium: **₹24** (+17.1%) via ipowatch
 
@@ -41,56 +41,54 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 0.39x | **23.65x** | 12.67x – 44.14x | 68% |
-| QIB | 0.45x | **18.52x** | 8.64x – 39.70x | 59% |
-| RETAIL | 0.82x | **6.86x** | 5.08x – 9.27x | 90% |
-| bNII | 0.32x | **31.90x** | 16.15x – 63.02x | 64% |
-| sNII | 0.53x | **18.36x** | 10.42x – 32.32x | 72% |
+| NII | 18.03x | **18.03x** | 18.03x – 19.22x | 100% |
+| QIB | 17.76x | **17.76x** | 17.76x – 18.94x | 100% |
+| RETAIL | 9.24x | **9.24x** | 9.24x – 9.85x | 100% |
+| bNII | 17.26x | **17.26x** | 17.26x – 18.40x | 100% |
+| sNII | 19.55x | **19.55x** | 19.55x – 20.85x | 100% |
 
-_Score weighting right now: demand 7.4%, valuation 24.0%, financials 26.6% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+20.7%**
-- Likely range: +1.0% to +40.3%
-- Probability of a positive listing: **85%**
+- Central estimate: **+20.5%**
+- Likely range: +4.8% to +36.2%
+- Probability of a positive listing: **90%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,980 | lottery | 23.4% | 25 |
-| RETAIL | 13 | ₹194,740 | lottery | 23.4% | 25 |
-| sNII | 14 | ₹209,720 | lottery | 76.3% | 82 |
+| RETAIL | 1 | ₹14,980 | lottery | 18.9% | 20 |
+| RETAIL | 13 | ₹194,740 | lottery | 18.9% | 20 |
+| sNII | 14 | ₹209,720 | lottery | 71.6% | 77 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.72%** · +0bp vs baseline · spread 1.23pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **87.4/100**, stress 0.01
+- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.2/100**, stress 0.04
 
 ## Execution
 
-- Phase: **early**, 119h 45m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-15T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 15 Sep 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 119h 45m
-
-- **QIB demand spike**: 0.12x/hour vs 0.00x/hour baseline (257.4 sigma)
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
-- institutional book strong at 18.5x projected QIB
+- institutional book strong at 17.8x projected QIB
+- heavy retail demand (9.2x) - allotment will be a lottery
 - anchors priced below the cap
 
 ## Risks
 
 - RoNW 16.0% - modest returns on capital
-- RoNW (16.0%) only just clears Cost of Equity (15.5%) - thin economic spread
+- RoNW (16.0%) only just clears Cost of Equity (15.6%) - thin economic spread
 - 40% of the anchor book is tactical money - expect supply pressure when 50% unlocks at 30 days
 
 ---
-*Generated 10 Sep 2026 17:14 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

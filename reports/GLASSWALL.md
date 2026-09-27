@@ -39,11 +39,11 @@ _EV/EBITDA is 1.54x the 9.0x sector anchor._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 3,526,564 | 281,103,790 | 79.71x | 79.71x |
+| NII | 3,526,564 | 281,115,762 | 79.71x | 79.71x |
 | QIB | 4,702,085 | 789,608,094 | 167.93x | 167.93x |
-| RETAIL | 8,228,649 | 272,945,610 | 33.17x | 33.17x |
+| RETAIL | 8,228,649 | 273,004,732 | 33.18x | 33.18x |
 | bNII | 2,351,043 | 173,747,340 | 73.90x | 73.90x |
-| sNII | 1,175,521 | 107,356,450 | 91.33x | 91.33x |
+| sNII | 1,175,521 | 107,368,422 | 91.34x | 91.34x |
 
 Grey market premium: **₹66** (+36.3%) via ipowatch
 
@@ -55,9 +55,9 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 |---|---|---|---|---|
 | NII | 79.71x | **79.71x** | 79.71x – 84.99x | 100% |
 | QIB | 167.93x | **167.93x** | 167.93x – 179.04x | 100% |
-| RETAIL | 33.17x | **33.17x** | 33.17x – 35.37x | 100% |
+| RETAIL | 33.18x | **33.18x** | 33.18x – 35.37x | 100% |
 | bNII | 73.90x | **73.90x** | 73.90x – 78.79x | 100% |
-| sNII | 91.33x | **91.33x** | 91.33x – 97.37x | 100% |
+| sNII | 91.34x | **91.34x** | 91.34x – 97.38x | 100% |
 
 _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
@@ -79,8 +79,8 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 ## Macro regime
 
-- India 10y **6.72%** · +0bp vs baseline · spread 1.23pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **87.4/100**, stress 0.01
+- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.2/100**, stress 0.04
 
 ## Execution
 
@@ -94,11 +94,11 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 - RoNW 32.0% - strong returns on capital
 - EPS CAGR +134%
-- High-Spread Compounder: RoNW (32.0%) exceeds Cost of Equity (14.8%) by 17.2pp
+- High-Spread Compounder: RoNW (32.0%) exceeds Cost of Equity (14.9%) by 17.1pp
 - institutional book strong at 167.9x projected QIB
 - heavy retail demand (33.2x) - allotment will be a lottery
 - strong grey market premium (+36.3%)
 - anchor book could not be read from the RHP
 
 ---
-*Generated 10 Sep 2026 17:14 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

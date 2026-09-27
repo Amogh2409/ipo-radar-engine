@@ -1,29 +1,30 @@
-# Manika Plastech Limited (MANIKA)
+# Srit India Limited (SRIT)
 
-**APPLY** · score **69/100** · confidence 45%
+**STRONG APPLY** · score **80/100** · confidence 45%
 
 ## Issue
 
 | | |
 |---|---|
-| Price band | ₹40 – ₹43 |
-| Lot size | 348 shares (₹14,964) |
-| Issue size | ₹132 Cr |
-| Dates | 2026-09-11 → 2026-09-16 |
-| Registrar | MUFG Intime India Private Limited |
-| Lead managers | Pantomath Capital Advisors Private Limited |
+| Price band | ₹123 – ₹130 |
+| Lot size | 115 shares (₹14,950) |
+| Issue size | ₹153 Cr |
+| Dates | 2026-09-28 → 2026-09-30 |
+| Registrar | KFin Technologies Limited |
+| Lead managers | Choice Capital Advisors Private Limited |
 
 ## Valuation
 
 | Metric | Value |
 |---|---|
-| P/E at cap price | 18.22x |
-| P/B at cap price | 2.77x |
-| Market cap (implied) | ₹238 Cr |
-| RoNW (latest FY) | 15.18% |
-| NAV per share | ₹15.54 |
+| P/E at cap price | 13.73x |
+| P/B at cap price | 3.19x |
+| Market cap (implied) | ₹594 Cr |
+| RoNW (latest FY) | 30.23% |
+| NAV per share | ₹40.71 |
+| Insider exit multiple | 2.35x |
 
-EPS trajectory: FY25 ₹2.03 → FY26 ₹2.36
+EPS trajectory: FY24 ₹5.39 → FY25 ₹7.20 → FY26 ₹9.47
 
 _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
@@ -31,7 +32,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 _No bidding data yet._
 
-Grey market premium: **₹13** (+30.2%) via ipowatch
+Grey market premium: **₹32** (+24.6%) via ipowatch
 
 ## Demand — posterior view
 
@@ -45,21 +46,21 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
+_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+27.2%**
-- Likely range: -3.4% to +57.8%
+- Central estimate: **+25.6%**
+- Likely range: -3.9% to +55.1%
 - Probability of a positive listing: **81%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,964 | lottery | 27.2% | 95 |
-| RETAIL | 13 | ₹194,532 | lottery | 27.2% | 95 |
-| sNII | 14 | ₹209,496 | lottery | 72.2% | 251 |
+| RETAIL | 1 | ₹14,950 | lottery | 26.4% | 30 |
+| RETAIL | 13 | ₹194,350 | lottery | 26.4% | 30 |
+| sNII | 14 | ₹209,300 | lottery | 72.2% | 83 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -70,27 +71,22 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 ## Execution
 
-- Phase: **closed**, closed to the UPI mandate cut-off
-- Mandate cut-off: **2026-09-16T17:00+05:30 IST** (NSE issue circular)
+- Phase: **pre_open**, 67h 14m to the UPI mandate cut-off
+- Mandate cut-off: **2026-09-30T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
-- Bidding has closed.
-  - window shut - nothing to do
+- Decide from 14:00 IST on the closing day; mandate cut-off 30 Sep 17:00 IST.
+  - QIB demand lands late - the book is not yet informative enough to commit against
+  - time to cut-off: 67h 14m
 
 ## Why it scores where it does
 
-- priced at 18.2x vs 24x benchmark - a discount
+- priced at 13.7x vs 24x benchmark - a discount
+- RoNW 30.2% - strong returns on capital
+- EPS CAGR +33%
+- High-Spread Compounder: RoNW (30.2%) exceeds Cost of Equity (13.8%) by 16.4pp
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- strong grey market premium (+30.2%)
-- mostly fresh capital (70%) into the business
 - anchor book could not be read from the RHP
-
-## Risks
-
-- RoNW 15.2% - modest returns on capital
-- EPS CAGR +16%
-- RoNW (15.2%) only just clears Cost of Equity (13.6%) - thin economic spread
-- Post-issue RoNW (~7.3%) falls below Cost of Equity (13.6%) once the fresh issue dilutes equity
 
 ---
 *Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

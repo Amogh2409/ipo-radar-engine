@@ -1,6 +1,6 @@
 # Prasol Chemicals Limited (PRASOLCHEM)
 
-**NEUTRAL** · score **57/100** · confidence 82%
+**NEUTRAL** · score **56/100** · confidence 82%
 
 ## Issue
 
@@ -32,11 +32,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 1,166,406 | 2,093,454 | 1.79x | 1.79x |
+| NII | 1,166,406 | 2,095,302 | 1.80x | 1.80x |
 | QIB | 1,555,209 | 11,228,140 | 7.22x | 7.22x |
-| RETAIL | 2,721,614 | 4,637,556 | 1.70x | 1.70x |
+| RETAIL | 2,721,614 | 4,639,206 | 1.70x | 1.70x |
 | bNII | 777,604 | 901,560 | 1.16x | 1.16x |
-| sNII | 388,802 | 1,191,894 | 3.07x | 3.07x |
+| sNII | 388,802 | 1,193,742 | 3.07x | 3.07x |
 
 Grey market premium: **₹40** (+5.9%) via ipowatch
 
@@ -46,7 +46,7 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 1.79x | **1.79x** | 1.79x – 1.91x | 100% |
+| NII | 1.80x | **1.80x** | 1.80x – 1.92x | 100% |
 | QIB | 7.22x | **7.22x** | 7.22x – 7.70x | 100% |
 | RETAIL | 1.70x | **1.70x** | 1.70x – 1.82x | 100% |
 | bNII | 1.16x | **1.16x** | 1.16x – 1.24x | 100% |
@@ -72,8 +72,8 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 ## Macro regime
 
-- India 10y **6.72%** · +0bp vs baseline · spread 1.23pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **87.4/100**, stress 0.01
+- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.2/100**, stress 0.04
 
 ## Execution
 
@@ -82,8 +82,6 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - Call: **WAIT**
 - Bidding has closed.
   - window shut - nothing to do
-
-- **sNII demand spike**: 0.45x/hour vs 0.09x/hour baseline (2.2 sigma)
 
 ## Why it scores where it does
 
@@ -95,7 +93,7 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 ## Risks
 
 - priced at 90.0x vs 24x benchmark - demanding
-- RoNW (18.5%) only just clears Cost of Equity (13.5%) - thin economic spread
+- RoNW (18.5%) only just clears Cost of Equity (13.6%) - thin economic spread
 
 ---
-*Generated 10 Sep 2026 17:14 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

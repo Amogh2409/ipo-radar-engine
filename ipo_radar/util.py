@@ -37,6 +37,9 @@ def setup_logging(level: str = "INFO") -> None:
     )
     logging.getLogger("httpx").setLevel(logging.WARNING)
     logging.getLogger("httpcore").setLevel(logging.WARNING)
+    # pypdf warns once per damaged xref entry - 35k lines for one RHP batch,
+    # all recovered. Real extraction failures surface as ERROR.
+    logging.getLogger("pypdf").setLevel(logging.ERROR)
 
 
 def now_iso() -> str:
