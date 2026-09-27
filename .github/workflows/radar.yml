@@ -13,6 +13,8 @@ on:
 
 permissions:
   contents: write
+  pages: write          # publish reports/ as the site
+  id-token: write       # required by deploy-pages
 
 # Two runs committing to the same branch at once would race on the database.
 concurrency:
@@ -24,6 +26,10 @@ jobs:
     runs-on: ubuntu-latest
     # A cycle with several new RHPs to download and parse took 17 minutes.
     timeout-minutes: 45
+    # The runner clock is UTC; the engine's dates, close-day logic and report
+    # timestamps all assume the Indian market day.
+    env:
+      TZ: Asia/Kolkata
     steps:
       - uses: actions/checkout@v5
 
@@ -62,3 +68,24 @@ jobs:
           git commit -m "radar: $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST')"
           git pull --rebase
           git push
+
+      # reports/ is plain Markdown with relative links; GitHub's Jekyll build
+      # renders it as-is (jekyll-relative-links turns X.md links into pages).
+      # Deployed from this job because commits made with GITHUB_TOKEN never
+      # trigger a separate on-push workflow.
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./reports
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: once
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
