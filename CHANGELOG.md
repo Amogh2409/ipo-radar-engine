@@ -1,5 +1,23 @@
 # Changelog
 
+## Chittorgarh failover
+
+NSE's Akamai edge refuses most datacenter IPs, and when `all-upcoming-issues`
+fails the engine had no universe at all. `sources/chittorgarh.py` rebuilds
+every NSE input from chittorgarh.com, so the engine can run on a cloud host.
+
+- **Universe**: used only when NSE lists nothing. Records reuse a stored NSE
+  symbol when the name matches, otherwise get a name-derived placeholder
+  (`meta.source = "chittorgarh"`), retired as `Superseded` once NSE returns.
+- **Issue detail**: fills lot, band, face value and shares offered when NSE's
+  `ipo-detail` is blocked.
+- **Demand**: a `DemandFeed` layer after BSE, before the cache. Chittorgarh
+  sizes categories at the cap price and NSE at the floor; the layer restates
+  in NSE's convention. Checked live against NSE: shares offered match to the
+  share, multiples to Chittorgarh's two-decimal rounding.
+- **RHP**: resolved to the full PDF on sebi.gov.in. `DocumentSource` now
+  accepts a bare PDF as well as NSE's zips.
+
 ## Winner's Curse defence
 
 The most consequential behavioural change in the engine. If you are comparing

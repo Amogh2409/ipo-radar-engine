@@ -1,0 +1,63 @@
+name: radar
+
+# One full analysis pass twice a day, committing the results back so the
+# SQLite history keeps accumulating between runs exactly as it does locally.
+#
+# Scheduled workflows only run from the default branch, and cron is UTC and
+# best-effort (GitHub can start a run 5-30 minutes late).
+on:
+  schedule:
+    - cron: "30 4 * * *"      # 10:00 IST - morning book
+    - cron: "0 12 * * *"      # 17:30 IST - after the 17:00 bid close
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Two runs committing to the same branch at once would race on the database.
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  once:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # No Ollama on a hosted runner, so the qualitative pass is off; every
+      # number is still computed. NSE usually refuses datacenter IPs - the
+      # engine falls back to BSE, then Chittorgarh, and says so in the log.
+      # Webhooks come from repository secrets; unset ones are simply skipped.
+      - name: Run one cycle
+        env:
+          IPO_NO_LLM: "1"
+          IPO_DISCORD_WEBHOOK: ${{ secrets.IPO_DISCORD_WEBHOOK }}
+          IPO_SLACK_WEBHOOK: ${{ secrets.IPO_SLACK_WEBHOOK }}
+          IPO_TELEGRAM_BOT_TOKEN: ${{ secrets.IPO_TELEGRAM_BOT_TOKEN }}
+          IPO_TELEGRAM_CHAT_ID: ${{ secrets.IPO_TELEGRAM_CHAT_ID }}
+          IPO_WEBHOOK_URL: ${{ secrets.IPO_WEBHOOK_URL }}
+        run: python run.py once --no-llm
+
+      # Commits made with GITHUB_TOKEN do not trigger other workflows, so this
+      # cannot loop through tests.yml.
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data reports briefings
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git commit -m "radar: $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST')"
+          git pull --rebase
+          git push

@@ -106,7 +106,9 @@ class DocumentSource:
 
     # ------------------------------------------------------------ download
     async def _zip_pdfs(self, url: str, cache_name: str) -> list[tuple[str, bytes]]:
-        cache = DOC_DIR / f"{cache_name}.zip"
+        # NSE ships zips; SEBI (the Chittorgarh failover) links the bare PDF.
+        is_pdf = url.lower().endswith(".pdf")
+        cache = DOC_DIR / f"{cache_name}.{'pdf' if is_pdf else 'zip'}"
         blob: bytes | None = None
         if cache.exists() and cache.stat().st_size > 1024:
             blob = cache.read_bytes()
@@ -122,6 +124,8 @@ class DocumentSource:
             except Exception as exc:
                 log.warning("doc download failed %s: %s", url, exc)
                 return []
+        if blob[:5] == b"%PDF-":
+            return [(url.rsplit("/", 1)[-1], blob)]
         try:
             zf = await asyncio.to_thread(zipfile.ZipFile, io.BytesIO(blob))
         except Exception as exc:
