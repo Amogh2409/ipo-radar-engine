@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_28 Sep 2026 16:47_
+_29 Sep 2026 01:03_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -8,25 +8,23 @@ _28 Sep 2026 16:47_
 
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
-| [MONEYVIEW](MONEYVIEW.md) | 2026-09-28 | 74 | STRONG APPLY | +41.8% | 10% |
-| [SRIT](SRIT.md) | 2026-09-30 | 73 | STRONG APPLY | +18.8% | 28% |
-| [GERMAN](GERMAN.md) | 2026-09-29 | 66 | APPLY | +18.5% | 28% |
-| [AONESTEELS](AONESTEELS.md) | 2026-09-28 | 58 | NEUTRAL | +14.4% | 20% |
-| [ORIENTCABL](ORIENTCABL.md) | 2026-09-29 | 49 | AVOID | +0.0% | 20% |
-| [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | 46 | AVOID | +11.5% | 100% |
+| [SRIT](SRIT.md) | 2026-09-30 | 73 | STRONG APPLY | +18.2% | 28% |
+| [GERMAN](GERMAN.md) | 2026-09-29 | 66 | APPLY | +18.3% | 27% |
+| [EVENTIONS](EVENTIONS.md) | 2026-10-05 | 49 | AVOID | +11.0% | — |
+| [ORIENTCABL](ORIENTCABL.md) | 2026-09-29 | 49 | AVOID | +0.0% | 19% |
+| [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | 46 | AVOID | +11.8% | 100% |
 | [VNL](VNL.md) | 2026-10-05 | 44 | AVOID | +10.0% | 19% |
 | [RUNWALENTR](RUNWALENTR.md) | 2026-09-29 | 42 | AVOID | +0.0% | 100% |
-| [ACEVECTOR](ACEVECTOR.md) | 2026-09-29 | 41 | AVOID | +4.8% | 97% |
+| [ACEVECTOR](ACEVECTOR.md) | 2026-09-29 | 42 | AVOID | +4.8% | 91% |
 
 ## Suggested applications
 
 | PAN | IPO | Category | Lots | Capital | P(allot) | E[profit] |
 |---|---|---|---|---|---|---|
-| #1 | MONEYVIEW | RETAIL | 1 | ₹14,994 | 10% | ₹622 |
-| #1 | GERMAN | RETAIL | 1 | ₹14,873 | 28% | ₹767 |
-| #1 | SRIT | RETAIL | 1 | ₹14,950 | 28% | ₹775 |
+| #1 | GERMAN | RETAIL | 1 | ₹14,873 | 27% | ₹734 |
+| #1 | SRIT | RETAIL | 1 | ₹14,950 | 28% | ₹774 |
 
-Capital deployed **₹44,817** of ₹500,000, expected profit **₹2,164** (4.83% on blocked funds).
+Capital deployed **₹29,823** of ₹500,000, expected profit **₹1,509** (5.06% on blocked funds).
 
 ### Cash flow projection
 
@@ -34,25 +32,24 @@ _ASBA blocks capital from the close date until roughly T+3 business days, so wha
 
 | Date | Blocked | Released | Outstanding | Free to deploy | Movements |
 |---|---|---|---|---|---|
-| Mon 28 Sep | ₹14,994 | — | ₹14,994 | ₹485,006 | +MONEYVIEW |
-| Tue 29 Sep | ₹14,873 | — | ₹29,867 | ₹470,133 | +GERMAN |
-| Wed 30 Sep | ₹14,950 | — | ₹44,817 | ₹455,183 | +SRIT |
-| Thu 01 Oct | — | — | ₹44,817 | ₹455,183 | — |
-| Fri 02 Oct | — | — | ₹44,817 | ₹455,183 | — |
-| Sat 03 Oct | — | — | ₹44,817 | ₹455,183 | — |
-| Sun 04 Oct | — | — | ₹44,817 | ₹455,183 | — |
-| Mon 05 Oct | — | ₹14,994 | ₹29,823 | ₹470,177 | -MONEYVIEW |
+| Tue 29 Sep | ₹14,873 | — | ₹14,873 | ₹485,127 | +GERMAN |
+| Wed 30 Sep | ₹14,950 | — | ₹29,823 | ₹470,177 | +SRIT |
+| Thu 01 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Fri 02 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Sat 03 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Sun 04 Oct | — | — | ₹29,823 | ₹470,177 | — |
+| Mon 05 Oct | — | — | ₹29,823 | ₹470,177 | — |
 | Tue 06 Oct | — | ₹14,873 | ₹14,950 | ₹485,050 | -GERMAN |
 | Wed 07 Oct | — | ₹14,950 | ₹0 | ₹500,000 | -SRIT |
 
 ### Skipped
 
-- **AONESTEELS** — Value Trap: RoNW 15.4% is below cost of equity 16.7%; composite capped at 59
+- **EVENTIONS** — score 49 below cutoff 61
 - **ORIENTCABL** — score 49 below cutoff 61
 - **SHAHINVEST** — Value Trap: RoNW 7.3% is below cost of equity 13.9%; composite capped at 59
 - **VNL** — score 44 below cutoff 61
 - **RUNWALENTR** — score 42 below cutoff 61
-- **ACEVECTOR** — score 41 below cutoff 61
+- **ACEVECTOR** — score 42 below cutoff 61
 
 ## Closed and listed
 
@@ -60,6 +57,8 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 
 | IPO | Closed | Issue price | Our call | Predicted | Listed | Listing price | Listing gain | Current price | Now vs issue |
 |---|---|---|---|---|---|---|---|---|---|
+| [AONESTEELS](AONESTEELS.md) | 2026-09-28 | ₹405.00 | NEUTRAL | +14.4% | awaiting | — | — | — | — |
+| [MONEYVIEW](MONEYVIEW.md) | 2026-09-28 | ₹34.00 | STRONG APPLY | +41.8% | awaiting | — | — | — | — |
 | [MANIKA](MANIKA.md) | 2026-09-16 | ₹43.00 | APPLY | +27.2% | 2026-09-21 | ₹43.00 | +0.0% | ₹41.37 | -3.8% |
 | [VEEGALAND](VEEGALAND.md) | 2026-09-15 | ₹140.00 | APPLY | +20.5% | 2026-09-18 | ₹154.00 | +10.0% | ₹140.62 | +0.4% |
 | [ARCIL](ARCIL.md) | 2026-09-11 | ₹139.00 | SPECULATIVE FLIP | +23.0% | 2026-09-17 | ₹139.00 | +0.0% | ₹142.71 | +2.7% |

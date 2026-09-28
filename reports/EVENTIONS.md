@@ -1,25 +1,22 @@
-# Vishal Nirmiti Limited (VNL)
+# Eventions Limited (EVENTIONS)
 
-**AVOID** · score **44/100** · confidence 36%
+**AVOID** · score **49/100** · confidence 36%
 
 ## Issue
 
 | | |
 |---|---|
-| Price band | ₹208 – ₹220 |
-| Lot size | 68 shares (₹14,960) |
-| Issue size | ₹186 Cr |
+| Price band | ₹112 – ₹118 |
+| Lot size | — |
+| Issue size | ₹38 Cr |
 | Dates | 2026-09-30 → 2026-10-05 |
-| Registrar | MUFG Intime India Private Limited |
-| Lead managers | Saffron Capital Advisors Private Limited |
+| Registrar | Mudra RTA Ventures Private Limited |
+| Lead managers | Corporate Professionals Capital Private Limited |
 
 ## Valuation
 
 | Metric | Value |
 |---|---|
-| P/B at cap price | 5.04x |
-| NAV per share | ₹43.61 |
-| Insider exit multiple | 7.02x |
 
 _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
@@ -45,19 +42,14 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+10.0%**
-- Likely range: -8.6% to +28.6%
-- Probability of a positive listing: **70%**
+- Central estimate: **+11.0%**
+- Likely range: -8.3% to +30.4%
+- Probability of a positive listing: **72%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 18.6% | 13 |
-| RETAIL | 13 | ₹194,480 | lottery | 18.6% | 13 |
-| sNII | 14 | ₹209,440 | lottery | 72.2% | 49 |
-
-> Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
@@ -81,7 +73,6 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - demand still early (22% of the bid window elapsed) - projections are indicative only
 - grey market flat or negative
 - anchor book could not be read from the RHP
-- selling holders exiting at 7.0x their cost
 - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
 - NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average

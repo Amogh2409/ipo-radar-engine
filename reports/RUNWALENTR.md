@@ -1,6 +1,6 @@
 # Runwal Enterprises Limited (RUNWALENTR)
 
-**AVOID** · score **42/100** · confidence 67%
+**AVOID** · score **42/100** · confidence 68%
 
 ## Issue
 
@@ -30,12 +30,12 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| EMPLOYEE | 126,811 | 49,539 | 0.39x | 0.40x |
-| NII | 2,568,104 | 1,619,891 | 0.63x | 1.08x |
-| QIB | 3,424,137 | 3,610,075 | 1.05x | 3.04x |
-| RETAIL | 5,992,242 | 2,345,924 | 0.39x | 0.43x |
-| bNII | 1,712,070 | 1,188,152 | 0.69x | 1.37x |
-| sNII | 856,034 | 431,739 | 0.50x | 0.70x |
+| EMPLOYEE | 126,811 | 51,205 | 0.40x | 0.43x |
+| NII | 2,568,104 | 2,392,964 | 0.93x | 1.26x |
+| QIB | 3,424,137 | 3,610,075 | 1.05x | 2.71x |
+| RETAIL | 5,992,242 | 2,464,994 | 0.41x | 0.46x |
+| bNII | 1,712,070 | 1,916,096 | 1.12x | 1.64x |
+| sNII | 856,034 | 476,868 | 0.56x | 0.76x |
 
 Grey market premium: **₹10** (+3.3%) via ipowatch
 
@@ -45,19 +45,19 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| EMPLOYEE | 0.39x | **0.40x** | 0.39x – 0.49x | 95% |
-| NII | 0.63x | **1.08x** | 0.84x – 1.38x | 93% |
-| QIB | 1.05x | **3.04x** | 2.29x – 4.02x | 91% |
-| RETAIL | 0.39x | **0.43x** | 0.39x – 0.52x | 96% |
-| bNII | 0.69x | **1.37x** | 1.06x – 1.77x | 93% |
-| sNII | 0.50x | **0.70x** | 0.56x – 0.89x | 94% |
+| EMPLOYEE | 0.40x | **0.43x** | 0.40x – 0.51x | 97% |
+| NII | 0.93x | **1.26x** | 1.04x – 1.54x | 95% |
+| QIB | 1.05x | **2.71x** | 2.17x – 3.40x | 94% |
+| RETAIL | 0.41x | **0.46x** | 0.41x – 0.54x | 97% |
+| bNII | 1.12x | **1.64x** | 1.33x – 2.02x | 95% |
+| sNII | 0.56x | **0.76x** | 0.63x – 0.92x | 96% |
 
-_Score weighting right now: demand 22.7%, valuation 16.7%, financials 18.6% — demand earns influence as the book fills._
+_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
 
 ## Listing expectation
 
 - Central estimate: **+0.0%**
-- Likely range: -9.6% to +0.0%
+- Likely range: -9.4% to +0.0%
 - Probability of a positive listing: **0%**
 
 ## Allotment odds
@@ -77,12 +77,12 @@ _Score weighting right now: demand 22.7%, valuation 16.7%, financials 18.6% — 
 
 ## Execution
 
-- Phase: **early**, 24h 14m to the UPI mandate cut-off
+- Phase: **final_day_morning**, 15h 57m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 29 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 24h 14m
+  - time to cut-off: 15h 57m
 
 ## Why it scores where it does
 
@@ -96,7 +96,7 @@ _Score weighting right now: demand 22.7%, valuation 16.7%, financials 18.6% — 
 
 ## Risks
 
-- DEMAND COLLAPSE - total book 0.63x with 79% of the window gone; the market has declined this issue
+- DEMAND COLLAPSE - total book 0.70x with 80% of the window gone; the market has declined this issue
 
 ---
-*Generated 28 Sep 2026 16:47 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 01:03 by IPO Radar. Analysis only — not investment advice.*

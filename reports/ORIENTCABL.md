@@ -1,6 +1,6 @@
 # Orient Cables (India) Limited (ORIENTCABL)
 
-**AVOID** · score **49/100** · confidence 67%
+**AVOID** · score **49/100** · confidence 68%
 
 ## Issue
 
@@ -30,11 +30,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 3,209,302 | 50,634,540 | 15.78x | 19.92x |
-| QIB | 4,279,069 | 231,990 | 0.05x | 0.11x |
-| RETAIL | 7,488,372 | 64,934,210 | 8.67x | 8.67x |
-| bNII | 2,139,535 | 27,803,820 | 13.00x | 18.13x |
-| sNII | 1,069,767 | 22,830,720 | 21.34x | 24.39x |
+| NII | 3,209,302 | 55,742,280 | 17.37x | 22.99x |
+| QIB | 4,279,069 | 245,520 | 0.06x | 0.12x |
+| RETAIL | 7,488,372 | 68,558,765 | 9.16x | 9.16x |
+| bNII | 2,139,535 | 30,611,790 | 14.31x | 20.88x |
+| sNII | 1,069,767 | 25,130,490 | 23.49x | 28.20x |
 
 Grey market premium: **₹80** (+29.4%) via ipowatch
 
@@ -44,27 +44,27 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 15.78x | **19.92x** | 15.78x – 25.44x | 93% |
-| QIB | 0.05x | **0.11x** | 0.08x – 0.15x | 91% |
-| RETAIL | 8.67x | **8.67x** | 8.67x – 8.98x | 96% |
-| bNII | 13.00x | **18.13x** | 14.02x – 23.43x | 93% |
-| sNII | 21.34x | **24.39x** | 21.34x – 30.81x | 94% |
+| NII | 17.37x | **22.99x** | 18.86x – 28.03x | 95% |
+| QIB | 0.06x | **0.12x** | 0.09x – 0.14x | 94% |
+| RETAIL | 9.16x | **9.16x** | 9.16x – 10.02x | 97% |
+| bNII | 14.31x | **20.88x** | 16.98x – 25.68x | 95% |
+| sNII | 23.49x | **28.20x** | 23.49x – 34.10x | 96% |
 
-_Score weighting right now: demand 22.7%, valuation 16.7%, financials 18.6% — demand earns influence as the book fills._
+_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
 
 ## Listing expectation
 
 - Central estimate: **+0.0%**
-- Likely range: -15.9% to +0.0%
+- Likely range: -15.7% to +0.0%
 - Probability of a positive listing: **0%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 20.2% | 11 |
-| RETAIL | 13 | ₹194,480 | lottery | 20.2% | 11 |
-| sNII | 14 | ₹209,440 | lottery | 57.4% | 32 |
+| RETAIL | 1 | ₹14,960 | lottery | 19.1% | 11 |
+| RETAIL | 13 | ₹194,480 | lottery | 19.1% | 11 |
+| sNII | 14 | ₹209,440 | lottery | 49.6% | 27 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -77,19 +77,19 @@ _Score weighting right now: demand 22.7%, valuation 16.7%, financials 18.6% — 
 
 ## Execution
 
-- Phase: **early**, 24h 15m to the UPI mandate cut-off
+- Phase: **final_day_morning**, 15h 58m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 29 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 24h 15m
+  - time to cut-off: 15h 58m
 
 ## Why it scores where it does
 
 - RoNW 25.8% - strong returns on capital
 - High-Spread Compounder: RoNW (25.8%) exceeds Cost of Equity (13.7%) by 12.1pp
-- QIB book weak (0.11x) - institutions are passing
-- heavy retail demand (8.7x) - allotment will be a lottery
+- QIB book weak (0.12x) - institutions are passing
+- heavy retail demand (9.2x) - allotment will be a lottery
 - strong grey market premium (+29.4%)
 - mostly fresh capital (79%) into the business
 - anchor book could not be read from the RHP
@@ -101,7 +101,7 @@ _Score weighting right now: demand 22.7%, valuation 16.7%, financials 18.6% — 
 
 - priced at 51.6x vs 32x benchmark - demanding
 - EPS CAGR +16%
-- DEMAND COLLAPSE - QIB 0.11x with 79% of the window gone; the market has declined this issue
+- DEMAND COLLAPSE - QIB 0.12x with 80% of the window gone; the market has declined this issue
 
 ---
-*Generated 28 Sep 2026 16:47 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 01:03 by IPO Radar. Analysis only — not investment advice.*
