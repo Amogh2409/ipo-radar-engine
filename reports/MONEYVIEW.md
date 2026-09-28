@@ -1,6 +1,6 @@
 # Moneyview Limited (MONEYVIEW)
 
-**NEUTRAL** · score **56/100** · confidence 79%
+**STRONG APPLY** · score **74/100** · confidence 80%
 
 ## Issue
 
@@ -30,11 +30,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 50,230,380 | 773,896,347 | 15.41x | 27.01x |
-| QIB | 65,089,575 | 16,582,482 | 0.25x | 0.61x |
-| RETAIL | 117,204,220 | 606,682,377 | 5.18x | 6.75x |
-| bNII | 33,486,920 | 479,957,499 | 14.33x | 27.60x |
-| sNII | 16,743,460 | 293,938,848 | 17.56x | 28.06x |
+| NII | 50,230,380 | 5,792,424,309 | 115.32x | 115.32x |
+| QIB | 65,089,575 | 14,804,683,992 | 227.45x | 227.45x |
+| RETAIL | 117,204,220 | 2,246,766,669 | 19.17x | 19.17x |
+| bNII | 33,486,920 | 4,404,889,251 | 131.54x | 131.54x |
+| sNII | 16,743,460 | 1,387,535,058 | 82.87x | 82.87x |
 
 Grey market premium: **₹14** (+41.2%) via ipowatch
 
@@ -44,59 +44,66 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 15.41x | **27.01x** | 21.24x – 34.36x | 93% |
-| QIB | 0.25x | **0.61x** | 0.46x – 0.80x | 92% |
-| RETAIL | 5.18x | **6.75x** | 5.49x – 8.29x | 95% |
-| bNII | 14.33x | **27.60x** | 21.49x – 35.44x | 93% |
-| sNII | 17.56x | **28.06x** | 22.26x – 35.37x | 94% |
+| NII | 115.32x | **115.32x** | 115.32x – 140.14x | 96% |
+| QIB | 227.45x | **227.45x** | 227.45x – 278.44x | 95% |
+| RETAIL | 19.17x | **19.17x** | 19.17x – 19.62x | 96% |
+| bNII | 131.54x | **131.54x** | 131.54x – 160.25x | 96% |
+| sNII | 82.87x | **82.87x** | 82.87x – 100.49x | 96% |
 
-_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+0.0%**
-- Likely range: -19.2% to +0.0%
-- Probability of a positive listing: **0%**
+- Central estimate: **+41.8%**
+- Likely range: +16.3% to +67.3%
+- Probability of a positive listing: **95%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,994 | lottery | 27.2% | 120 |
-| RETAIL | 13 | ₹194,922 | lottery | 27.2% | 120 |
-| sNII | 14 | ₹209,916 | lottery | 49.9% | 220 |
+| RETAIL | 1 | ₹14,994 | lottery | 9.9% | 44 |
+| RETAIL | 13 | ₹194,922 | lottery | 9.9% | 44 |
+| sNII | 14 | ₹209,916 | lottery | 16.9% | 75 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **85.2/100**, stress 0.04
+- India 10y **6.91%** · +19bp vs baseline · spread 1.77pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **56.6/100**, stress 0.39
+  - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
+  - NIFTY 50 -1.56% - risk-off tape
 
 ## Execution
 
-- Phase: **early**, 18h 15m to the UPI mandate cut-off
+- Phase: **final_call**, 17m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-28T17:00+05:30 IST** (NSE issue circular)
-- Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 28 Sep 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 18h 15m
+- Call: **APPLY** — RETAIL × 1 lot(s), ₹14,994 blocked
+- Price: Tick CUT-OFF. It accepts whatever price is discovered, so your bid stays valid if the issue prices at the cap.
+- PLACE THE BID NOW, accept the UPI mandate IMMEDIATELY. Hard cut-off 17:00 IST (17m left). Accepting the mandate is a separate step in your banking app - a placed bid with an unaccepted mandate is not an application.
+  - lottery: lottery for 1 lot; ~1.90 mean lots/application against 19.17x
+  - ~10% chance of allotment, 4.15% return on the cash blocked
+  - extra lots on this PAN would not raise the odds - only extra PANs do
+  - final call: place the bid and accept the mandate now
 
 ## Why it scores where it does
 
-- QIB book weak (0.61x) - institutions are passing
+- institutional book strong at 227.5x projected QIB
+- heavy retail demand (19.2x) - allotment will be a lottery
 - strong grey market premium (+41.2%)
 - mostly fresh capital (95%) into the business
 - anchor book could not be read from the RHP
 - anchors came in at the full cap price
+- credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
+- NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average
 
 ## Risks
 
 - RoNW 17.9% - modest returns on capital
 - EPS CAGR +15%
-- RoNW (17.9%) only just clears Cost of Equity (13.8%) - thin economic spread
-- DEMAND COLLAPSE - QIB 0.61x with 80% of the window gone; the market has declined this issue
+- RoNW (17.9%) only just clears Cost of Equity (13.9%) - thin economic spread
 
 ---
-*Generated 27 Sep 2026 22:48 by IPO Radar. Analysis only — not investment advice.*
+*Generated 28 Sep 2026 16:47 by IPO Radar. Analysis only — not investment advice.*

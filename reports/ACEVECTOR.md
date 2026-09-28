@@ -1,6 +1,6 @@
 # AceVector Limited (ACEVECTOR)
 
-**AVOID** · score **42/100** · confidence 46%
+**AVOID** · score **41/100** · confidence 54%
 
 ## Issue
 
@@ -28,11 +28,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 20,584,374 | 8,663,616 | 0.42x | 1.64x |
-| QIB | 39,921,876 | 0 | 0.00x | 12.93x |
-| RETAIL | 13,722,916 | 8,557,848 | 0.62x | 1.21x |
-| bNII | 13,722,916 | 3,820,752 | 0.28x | 1.36x |
-| sNII | 6,861,458 | 4,842,864 | 0.71x | 2.19x |
+| NII | 20,584,374 | 24,033,672 | 1.17x | 1.83x |
+| QIB | 39,921,876 | 41,193,360 | 1.03x | 2.28x |
+| RETAIL | 13,722,916 | 17,723,160 | 1.29x | 1.43x |
+| bNII | 13,722,916 | 14,618,916 | 1.07x | 1.70x |
+| sNII | 6,861,458 | 9,414,756 | 1.37x | 2.15x |
 
 Grey market premium: **₹2** (+6.2%) via ipowatch
 
@@ -42,47 +42,52 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 0.42x | **1.64x** | 1.15x – 2.34x | 87% |
-| QIB | 0.00x | **12.93x** | 2.02x – 82.90x | 19% |
-| RETAIL | 0.62x | **1.21x** | 0.96x – 1.53x | 94% |
-| bNII | 0.28x | **1.36x** | 0.92x – 2.00x | 85% |
-| sNII | 0.71x | **2.19x** | 1.58x – 3.03x | 88% |
+| NII | 1.17x | **1.83x** | 1.44x – 2.34x | 93% |
+| QIB | 1.03x | **2.28x** | 1.62x – 3.21x | 88% |
+| RETAIL | 1.29x | **1.43x** | 1.29x – 1.74x | 96% |
+| bNII | 1.07x | **1.70x** | 1.32x – 2.20x | 93% |
+| sNII | 1.37x | **2.15x** | 1.70x – 2.71x | 94% |
 
-_Score weighting right now: demand 18.4%, valuation 18.8%, financials 20.8% — demand earns influence as the book fills._
+_Score weighting right now: demand 22.7%, valuation 16.7%, financials 18.6% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+8.4%**
-- Likely range: -5.6% to +22.4%
-- Probability of a positive listing: **72%**
+- Central estimate: **+4.8%**
+- Likely range: -4.9% to +14.4%
+- Probability of a positive listing: **69%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,976 | proportionate | 100.0% | 468 |
-| RETAIL | 13 | ₹194,688 | proportionate | 100.0% | 4,680 |
+| RETAIL | 1 | ₹14,976 | lottery | 96.7% | 453 |
+| RETAIL | 13 | ₹194,688 | lottery | 96.7% | 453 |
 | sNII | 14 | ₹209,664 | proportionate | 100.0% | 2,808 |
+
+> Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **85.2/100**, stress 0.04
+- India 10y **6.91%** · +19bp vs baseline · spread 1.77pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **56.6/100**, stress 0.39
+  - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
+  - NIFTY 50 -1.56% - risk-off tape
 
 ## Execution
 
-- Phase: **early**, 42h 14m to the UPI mandate cut-off
+- Phase: **early**, 24h 16m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 29 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 42h 14m
+  - time to cut-off: 24h 16m
 
 ## Why it scores where it does
 
-- institutional book strong at 12.9x projected QIB
 - mostly fresh capital (100%) into the business
 - anchor book could not be read from the RHP
+- credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
+- NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average
 
 ## Risks
@@ -90,4 +95,4 @@ _Score weighting right now: demand 18.4%, valuation 18.8%, financials 20.8% — 
 - loss-making at the latest reported year
 
 ---
-*Generated 27 Sep 2026 22:48 by IPO Radar. Analysis only — not investment advice.*
+*Generated 28 Sep 2026 16:47 by IPO Radar. Analysis only — not investment advice.*

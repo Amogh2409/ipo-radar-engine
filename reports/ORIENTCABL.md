@@ -1,6 +1,6 @@
 # Orient Cables (India) Limited (ORIENTCABL)
 
-**NEUTRAL** · score **58/100** · confidence 65%
+**AVOID** · score **49/100** · confidence 67%
 
 ## Issue
 
@@ -30,11 +30,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 3,209,302 | 11,148,940 | 3.47x | 12.61x |
-| QIB | 4,279,069 | 58,740 | 0.01x | 0.11x |
-| RETAIL | 7,488,372 | 18,125,360 | 2.42x | 4.52x |
-| bNII | 2,139,535 | 5,464,745 | 2.55x | 11.49x |
-| sNII | 1,069,767 | 5,684,195 | 5.31x | 15.55x |
+| NII | 3,209,302 | 50,634,540 | 15.78x | 19.92x |
+| QIB | 4,279,069 | 231,990 | 0.05x | 0.11x |
+| RETAIL | 7,488,372 | 64,934,210 | 8.67x | 8.67x |
+| bNII | 2,139,535 | 27,803,820 | 13.00x | 18.13x |
+| sNII | 1,069,767 | 22,830,720 | 21.34x | 24.39x |
 
 Grey market premium: **₹80** (+29.4%) via ipowatch
 
@@ -44,58 +44,64 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 3.47x | **12.61x** | 8.84x – 17.99x | 87% |
-| QIB | 0.01x | **0.11x** | 0.07x – 0.18x | 80% |
-| RETAIL | 2.42x | **4.52x** | 3.59x – 5.70x | 94% |
-| bNII | 2.55x | **11.49x** | 7.81x – 16.89x | 85% |
-| sNII | 5.31x | **15.55x** | 11.23x – 21.55x | 88% |
+| NII | 15.78x | **19.92x** | 15.78x – 25.44x | 93% |
+| QIB | 0.05x | **0.11x** | 0.08x – 0.15x | 91% |
+| RETAIL | 8.67x | **8.67x** | 8.67x – 8.98x | 96% |
+| bNII | 13.00x | **18.13x** | 14.02x – 23.43x | 93% |
+| sNII | 21.34x | **24.39x** | 21.34x – 30.81x | 94% |
 
-_Score weighting right now: demand 18.4%, valuation 18.8%, financials 20.8% — demand earns influence as the book fills._
+_Score weighting right now: demand 22.7%, valuation 16.7%, financials 18.6% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+18.2%**
-- Likely range: +1.8% to +34.5%
-- Probability of a positive listing: **87%**
+- Central estimate: **+0.0%**
+- Likely range: -15.9% to +0.0%
+- Probability of a positive listing: **0%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 38.8% | 21 |
-| RETAIL | 13 | ₹194,480 | lottery | 38.8% | 21 |
-| sNII | 14 | ₹209,440 | lottery | 90.0% | 50 |
+| RETAIL | 1 | ₹14,960 | lottery | 20.2% | 11 |
+| RETAIL | 13 | ₹194,480 | lottery | 20.2% | 11 |
+| sNII | 14 | ₹209,440 | lottery | 57.4% | 32 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **85.2/100**, stress 0.04
+- India 10y **6.91%** · +19bp vs baseline · spread 1.77pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **56.6/100**, stress 0.39
+  - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
+  - NIFTY 50 -1.56% - risk-off tape
 
 ## Execution
 
-- Phase: **early**, 42h 13m to the UPI mandate cut-off
+- Phase: **early**, 24h 15m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 29 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 42h 13m
+  - time to cut-off: 24h 15m
 
 ## Why it scores where it does
 
 - RoNW 25.8% - strong returns on capital
-- High-Spread Compounder: RoNW (25.8%) exceeds Cost of Equity (13.6%) by 12.2pp
+- High-Spread Compounder: RoNW (25.8%) exceeds Cost of Equity (13.7%) by 12.1pp
 - QIB book weak (0.11x) - institutions are passing
+- heavy retail demand (8.7x) - allotment will be a lottery
 - strong grey market premium (+29.4%)
 - mostly fresh capital (79%) into the business
 - anchor book could not be read from the RHP
+- credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
+- NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average
 
 ## Risks
 
 - priced at 51.6x vs 32x benchmark - demanding
 - EPS CAGR +16%
+- DEMAND COLLAPSE - QIB 0.11x with 79% of the window gone; the market has declined this issue
 
 ---
-*Generated 27 Sep 2026 22:48 by IPO Radar. Analysis only — not investment advice.*
+*Generated 28 Sep 2026 16:47 by IPO Radar. Analysis only — not investment advice.*

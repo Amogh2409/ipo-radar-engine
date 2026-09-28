@@ -1,6 +1,6 @@
 # Srit India Limited (SRIT)
 
-**STRONG APPLY** · score **81/100** · confidence 45%
+**STRONG APPLY** · score **73/100** · confidence 56%
 
 ## Issue
 
@@ -30,9 +30,15 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 ## Demand
 
-_No bidding data yet._
+| Category | Offered | Bid | Current | Projected final |
+|---|---|---|---|---|
+| NII | 2,520,000 | 2,128,075 | 0.84x | 14.97x |
+| QIB | 3,360,000 | 3,220 | 0.00x | 0.43x |
+| RETAIL | 5,880,000 | 8,960,800 | 1.52x | 6.12x |
+| bNII | 1,680,000 | 844,330 | 0.50x | 14.14x |
+| sNII | 840,000 | 1,283,745 | 1.53x | 16.92x |
 
-Grey market premium: **₹32** (+24.6%) via ipowatch
+Grey market premium: **₹30** (+23.1%) via ipowatch
 
 ## Demand — posterior view
 
@@ -40,54 +46,58 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| QIB | 0.00x | **12.93x** | 2.02x – 82.90x | 19% |
-| NII | 0.00x | **16.16x** | 2.36x – 110.49x | 18% |
-| sNII | 0.00x | **19.39x** | 2.84x – 132.59x | 18% |
-| bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
-| RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
+| NII | 0.84x | **14.97x** | 6.50x – 34.49x | 54% |
+| QIB | 0.00x | **0.43x** | 0.15x – 1.18x | 44% |
+| RETAIL | 1.52x | **6.12x** | 3.98x – 9.41x | 82% |
+| bNII | 0.50x | **14.14x** | 5.68x – 35.23x | 50% |
+| sNII | 1.53x | **16.92x** | 7.92x – 36.14x | 59% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 11.7%, valuation 21.9%, financials 24.3% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+25.6%**
-- Likely range: -3.9% to +55.1%
-- Probability of a positive listing: **81%**
+- Central estimate: **+18.8%**
+- Likely range: -1.5% to +39.0%
+- Probability of a positive listing: **82%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,950 | lottery | 26.4% | 30 |
-| RETAIL | 13 | ₹194,350 | lottery | 26.4% | 30 |
-| sNII | 14 | ₹209,300 | lottery | 72.2% | 83 |
+| RETAIL | 1 | ₹14,950 | lottery | 27.6% | 32 |
+| RETAIL | 13 | ₹194,350 | lottery | 27.6% | 32 |
+| sNII | 14 | ₹209,300 | lottery | 82.7% | 95 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.81%** · +9bp vs baseline · spread 1.36pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **85.2/100**, stress 0.04
+- India 10y **6.91%** · +19bp vs baseline · spread 1.77pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **56.6/100**, stress 0.39
+  - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
+  - NIFTY 50 -1.56% - risk-off tape
 
 ## Execution
 
-- Phase: **pre_open**, 66h 11m to the UPI mandate cut-off
+- Phase: **early**, 48h 13m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-30T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 30 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 66h 11m
+  - time to cut-off: 48h 13m
 
 ## Why it scores where it does
 
 - priced at 13.7x vs 24x benchmark - a discount
 - RoNW 30.2% - strong returns on capital
 - EPS CAGR +33%
-- High-Spread Compounder: RoNW (30.2%) exceeds Cost of Equity (13.8%) by 16.4pp
-- institutional book strong at 12.9x projected QIB
-- demand still early (22% of the bid window elapsed) - projections are indicative only
+- High-Spread Compounder: RoNW (30.2%) exceeds Cost of Equity (13.9%) by 16.3pp
+- QIB book weak (0.43x) - institutions are passing
+- GMP fading - late enthusiasm is cooling
 - anchor book could not be read from the RHP
+- credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
+- NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 27 Sep 2026 22:48 by IPO Radar. Analysis only — not investment advice.*
+*Generated 28 Sep 2026 16:47 by IPO Radar. Analysis only — not investment advice.*
