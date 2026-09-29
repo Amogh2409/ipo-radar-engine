@@ -1,6 +1,6 @@
 # Srit India Limited (SRIT)
 
-**STRONG APPLY** · score **72/100** · confidence 65%
+**APPLY** · score **69/100** · confidence 66%
 
 ## Issue
 
@@ -32,13 +32,13 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 2,520,000 | 10,523,075 | 4.18x | 11.67x |
-| QIB | 3,360,000 | 70,725 | 0.02x | 0.09x |
-| RETAIL | 5,880,000 | 32,148,365 | 5.47x | 7.62x |
-| bNII | 1,680,000 | 4,674,290 | 2.78x | 9.37x |
-| sNII | 840,000 | 5,848,785 | 6.96x | 15.80x |
+| NII | 2,520,000 | 13,233,970 | 5.25x | 12.63x |
+| QIB | 3,360,000 | 104,765 | 0.03x | 0.11x |
+| RETAIL | 5,880,000 | 35,538,220 | 6.04x | 8.34x |
+| bNII | 1,680,000 | 6,071,655 | 3.61x | 10.20x |
+| sNII | 840,000 | 7,162,315 | 8.53x | 17.21x |
 
-Grey market premium: **₹33** (+25.4%) via ipowatch
+Grey market premium: **₹20** (+15.4%) via ipowatch
 
 ## Demand — posterior view
 
@@ -46,27 +46,27 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 4.18x | **11.67x** | 8.21x – 16.59x | 87% |
-| QIB | 0.02x | **0.09x** | 0.06x – 0.14x | 82% |
-| RETAIL | 5.47x | **7.62x** | 6.02x – 9.63x | 94% |
-| bNII | 2.78x | **9.37x** | 6.42x – 13.67x | 85% |
-| sNII | 6.96x | **15.80x** | 11.40x – 21.90x | 88% |
+| NII | 5.25x | **12.63x** | 9.61x – 16.59x | 92% |
+| QIB | 0.03x | **0.11x** | 0.08x – 0.15x | 88% |
+| RETAIL | 6.04x | **8.34x** | 6.89x – 10.09x | 96% |
+| bNII | 3.61x | **10.20x** | 7.61x – 13.66x | 91% |
+| sNII | 8.53x | **17.21x** | 13.34x – 22.18x | 93% |
 
-_Score weighting right now: demand 19.3%, valuation 18.3%, financials 20.3% — demand earns influence as the book fills._
+_Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+19.2%**
-- Likely range: +2.4% to +35.9%
-- Probability of a positive listing: **87%**
+- Central estimate: **+14.3%**
+- Likely range: +0.3% to +28.3%
+- Probability of a positive listing: **85%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,950 | lottery | 22.5% | 26 |
-| RETAIL | 13 | ₹194,350 | lottery | 22.5% | 26 |
-| sNII | 14 | ₹209,300 | lottery | 88.6% | 102 |
+| RETAIL | 1 | ₹14,950 | lottery | 19.6% | 23 |
+| RETAIL | 13 | ₹194,350 | lottery | 19.6% | 23 |
+| sNII | 14 | ₹209,300 | lottery | 81.4% | 94 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -77,12 +77,12 @@ _Score weighting right now: demand 19.3%, valuation 18.3%, financials 20.3% — 
 
 ## Execution
 
-- Phase: **early**, 24h 32m to the UPI mandate cut-off
+- Phase: **early**, 17h 28m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-30T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 30 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 24h 32m
+  - time to cut-off: 17h 28m
 
 ## Why it scores where it does
 
@@ -90,10 +90,11 @@ _Score weighting right now: demand 19.3%, valuation 18.3%, financials 20.3% — 
 - RoNW 30.2% - strong returns on capital
 - EPS CAGR +33%
 - High-Spread Compounder: RoNW (30.2%) exceeds Cost of Equity (13.8%) by 16.4pp
-- QIB book weak (0.09x) - institutions are passing
-- strong grey market premium (+25.4%)
+- QIB book weak (0.11x) - institutions are passing
+- heavy retail demand (8.3x) - allotment will be a lottery
+- GMP fading - late enthusiasm is cooling
 - anchor book could not be read from the RHP
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 29 Sep 2026 16:29 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 23:32 by IPO Radar. Analysis only — not investment advice.*

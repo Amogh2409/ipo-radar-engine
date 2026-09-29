@@ -1,6 +1,6 @@
 # German Green Steel and Power Limited (GERMAN)
 
-**APPLY** · score **71/100** · confidence 68%
+**APPLY** · score **69/100** · confidence 69%
 
 ## Issue
 
@@ -28,13 +28,13 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 3,445,455 | 185,808,389 | 53.93x | 53.93x |
+| NII | 3,445,455 | 186,164,592 | 54.03x | 54.03x |
 | QIB | 4,578,030 | 95,805,874 | 20.93x | 20.93x |
-| RETAIL | 8,039,394 | 177,247,319 | 22.05x | 22.05x |
+| RETAIL | 8,039,394 | 183,523,725 | 22.83x | 22.83x |
 | bNII | 2,296,970 | 124,143,647 | 54.05x | 54.05x |
-| sNII | 1,148,485 | 61,664,742 | 53.69x | 53.69x |
+| sNII | 1,148,485 | 62,020,945 | 54.00x | 54.00x |
 
-Grey market premium: **₹25** (+18.0%) via ipowatch
+Grey market premium: **₹10** (+7.2%) via ipowatch
 
 ## Demand — posterior view
 
@@ -42,27 +42,27 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 53.93x | **53.93x** | 53.93x – 64.85x | 96% |
-| QIB | 20.93x | **20.93x** | 20.93x – 25.37x | 96% |
-| RETAIL | 22.05x | **22.05x** | 22.05x – 22.29x | 96% |
-| bNII | 54.05x | **54.05x** | 54.05x – 65.17x | 96% |
-| sNII | 53.69x | **53.69x** | 53.69x – 64.40x | 96% |
+| NII | 54.03x | **54.03x** | 54.03x – 57.61x | 100% |
+| QIB | 20.93x | **20.93x** | 20.93x – 22.31x | 100% |
+| RETAIL | 22.83x | **22.83x** | 22.83x – 24.34x | 100% |
+| bNII | 54.05x | **54.05x** | 54.05x – 57.62x | 100% |
+| sNII | 54.00x | **54.00x** | 54.00x – 57.58x | 100% |
 
 _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+23.6%**
-- Likely range: +6.1% to +41.1%
-- Probability of a positive listing: **91%**
+- Central estimate: **+18.2%**
+- Likely range: +3.5% to +32.9%
+- Probability of a positive listing: **89%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,873 | lottery | 8.7% | 9 |
-| RETAIL | 13 | ₹193,349 | lottery | 8.7% | 9 |
-| sNII | 14 | ₹208,222 | lottery | 26.1% | 28 |
+| RETAIL | 1 | ₹14,873 | lottery | 8.4% | 9 |
+| RETAIL | 13 | ₹193,349 | lottery | 8.4% | 9 |
+| sNII | 14 | ₹208,222 | lottery | 25.9% | 28 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -73,21 +73,18 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 ## Execution
 
-- Phase: **decision_window**, 35m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
-- Call: **APPLY** — RETAIL × 1 lot(s), ₹14,873 blocked
-- Price: Tick CUT-OFF. It accepts whatever price is discovered, so your bid stays valid if the issue prices at the cap.
-- PLACE THE BID NOW, accept the UPI mandate by 16:40 IST. Hard cut-off 17:00 IST (35m left). Accepting the mandate is a separate step in your banking app - a placed bid with an unaccepted mandate is not an application.
-  - lottery: lottery for 1 lot; ~1.92 mean lots/application against 22.05x
-  - ~9% chance of allotment, 2.05% return on the cash blocked
-  - extra lots on this PAN would not raise the odds - only extra PANs do
+- Call: **WAIT**
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
 - RoNW 18.9% - strong returns on capital
 - High-Spread Compounder: RoNW (18.9%) exceeds Cost of Equity (12.0%) by 6.8pp
 - institutional book strong at 20.9x projected QIB
-- heavy retail demand (22.0x) - allotment will be a lottery
+- heavy retail demand (22.8x) - allotment will be a lottery
 - GMP fading - late enthusiasm is cooling
 - mostly fresh capital (100%) into the business
 - anchor book could not be read from the RHP
@@ -96,4 +93,4 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 29 Sep 2026 16:29 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 23:32 by IPO Radar. Analysis only — not investment advice.*

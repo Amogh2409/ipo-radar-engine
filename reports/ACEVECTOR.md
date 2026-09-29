@@ -1,6 +1,6 @@
 # AceVector Limited (ACEVECTOR)
 
-**AVOID** · score **48/100** · confidence 55%
+**AVOID** · score **48/100** · confidence 56%
 
 ## Issue
 
@@ -28,11 +28,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 20,584,374 | 166,497,552 | 8.09x | 8.09x |
+| NII | 20,584,374 | 167,937,120 | 8.16x | 8.16x |
 | QIB | 39,921,876 | 134,853,264 | 3.38x | 3.38x |
-| RETAIL | 13,722,916 | 58,687,200 | 4.28x | 4.28x |
+| RETAIL | 13,722,916 | 63,352,692 | 4.62x | 4.62x |
 | bNII | 13,722,916 | 122,401,656 | 8.92x | 8.92x |
-| sNII | 6,861,458 | 44,095,896 | 6.43x | 6.43x |
+| sNII | 6,861,458 | 45,535,464 | 6.64x | 6.64x |
 
 Grey market premium: **₹2** (+6.2%) via ipowatch
 
@@ -42,26 +42,26 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 8.09x | **8.09x** | 8.09x – 9.73x | 96% |
-| QIB | 3.38x | **3.38x** | 3.38x – 4.13x | 95% |
-| RETAIL | 4.28x | **4.28x** | 4.28x – 4.32x | 96% |
-| bNII | 8.92x | **8.92x** | 8.92x – 10.75x | 96% |
-| sNII | 6.43x | **6.43x** | 6.43x – 7.71x | 96% |
+| NII | 8.16x | **8.16x** | 8.16x – 8.70x | 100% |
+| QIB | 3.38x | **3.38x** | 3.38x – 3.60x | 100% |
+| RETAIL | 4.62x | **4.62x** | 4.62x – 4.92x | 100% |
+| bNII | 8.92x | **8.92x** | 8.92x – 9.51x | 100% |
+| sNII | 6.64x | **6.64x** | 6.64x – 7.08x | 100% |
 
 _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+7.5%**
-- Likely range: -3.0% to +18.0%
-- Probability of a positive listing: **76%**
+- Central estimate: **+7.6%**
+- Likely range: -2.7% to +17.8%
+- Probability of a positive listing: **77%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,976 | lottery | 36.1% | 169 |
-| RETAIL | 13 | ₹194,688 | lottery | 36.1% | 169 |
+| RETAIL | 1 | ₹14,976 | lottery | 33.8% | 158 |
+| RETAIL | 13 | ₹194,688 | lottery | 33.8% | 158 |
 | sNII | 14 | ₹209,664 | proportionate | 100.0% | 936 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
@@ -73,11 +73,11 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 ## Execution
 
-- Phase: **decision_window**, 36m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
-- Call: **AVOID**
-- Cut-off 17:00 IST
-  - composite verdict is AVOID
+- Call: **WAIT**
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
@@ -90,4 +90,4 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - loss-making at the latest reported year
 
 ---
-*Generated 29 Sep 2026 16:29 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 23:32 by IPO Radar. Analysis only — not investment advice.*
