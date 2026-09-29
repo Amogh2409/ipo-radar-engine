@@ -1,6 +1,6 @@
 # German Green Steel and Power Limited (GERMAN)
 
-**APPLY** · score **66/100** · confidence 68%
+**APPLY** · score **71/100** · confidence 68%
 
 ## Issue
 
@@ -28,13 +28,13 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 3,445,455 | 26,954,156 | 7.82x | 11.89x |
-| QIB | 4,578,030 | 6,112,482 | 1.34x | 3.48x |
-| RETAIL | 8,039,394 | 49,446,840 | 6.15x | 6.15x |
-| bNII | 2,296,970 | 14,914,944 | 6.49x | 11.67x |
-| sNII | 1,148,485 | 12,039,212 | 10.48x | 12.85x |
+| NII | 3,445,455 | 185,808,389 | 53.93x | 53.93x |
+| QIB | 4,578,030 | 95,805,874 | 20.93x | 20.93x |
+| RETAIL | 8,039,394 | 177,247,319 | 22.05x | 22.05x |
+| bNII | 2,296,970 | 124,143,647 | 54.05x | 54.05x |
+| sNII | 1,148,485 | 61,664,742 | 53.69x | 53.69x |
 
-Grey market premium: **₹29** (+20.9%) via ipowatch
+Grey market premium: **₹25** (+18.0%) via ipowatch
 
 ## Demand — posterior view
 
@@ -42,57 +42,58 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 7.82x | **11.89x** | 9.75x – 14.49x | 95% |
-| QIB | 1.34x | **3.48x** | 2.78x – 4.36x | 94% |
-| RETAIL | 6.15x | **6.15x** | 6.15x – 6.83x | 97% |
-| bNII | 6.49x | **11.67x** | 9.49x – 14.35x | 95% |
-| sNII | 10.48x | **12.85x** | 10.63x – 15.54x | 96% |
+| NII | 53.93x | **53.93x** | 53.93x – 64.85x | 96% |
+| QIB | 20.93x | **20.93x** | 20.93x – 25.37x | 96% |
+| RETAIL | 22.05x | **22.05x** | 22.05x – 22.29x | 96% |
+| bNII | 54.05x | **54.05x** | 54.05x – 65.17x | 96% |
+| sNII | 53.69x | **53.69x** | 53.69x – 64.40x | 96% |
 
-_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+18.3%**
-- Likely range: +3.1% to +33.6%
-- Probability of a positive listing: **88%**
+- Central estimate: **+23.6%**
+- Likely range: +6.1% to +41.1%
+- Probability of a positive listing: **91%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,873 | lottery | 27.0% | 29 |
-| RETAIL | 13 | ₹193,349 | lottery | 27.0% | 29 |
-| sNII | 14 | ₹208,222 | proportionate | 100.0% | 107 |
+| RETAIL | 1 | ₹14,873 | lottery | 8.7% | 9 |
+| RETAIL | 13 | ₹193,349 | lottery | 8.7% | 9 |
+| sNII | 14 | ₹208,222 | lottery | 26.1% | 28 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.91%** · +19bp vs baseline · spread 1.77pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **56.6/100**, stress 0.39
-  - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
-  - NIFTY 50 -1.56% - risk-off tape
+- India 10y **6.85%** · +13bp vs baseline · spread 1.04pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.9/100**, stress 0.03
 
 ## Execution
 
-- Phase: **final_day_morning**, 15h 58m to the UPI mandate cut-off
+- Phase: **decision_window**, 35m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
-- Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 29 Sep 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 15h 58m
+- Call: **APPLY** — RETAIL × 1 lot(s), ₹14,873 blocked
+- Price: Tick CUT-OFF. It accepts whatever price is discovered, so your bid stays valid if the issue prices at the cap.
+- PLACE THE BID NOW, accept the UPI mandate by 16:40 IST. Hard cut-off 17:00 IST (35m left). Accepting the mandate is a separate step in your banking app - a placed bid with an unaccepted mandate is not an application.
+  - lottery: lottery for 1 lot; ~1.92 mean lots/application against 22.05x
+  - ~9% chance of allotment, 2.05% return on the cash blocked
+  - extra lots on this PAN would not raise the odds - only extra PANs do
 
 ## Why it scores where it does
 
 - RoNW 18.9% - strong returns on capital
-- High-Spread Compounder: RoNW (18.9%) exceeds Cost of Equity (12.1%) by 6.8pp
+- High-Spread Compounder: RoNW (18.9%) exceeds Cost of Equity (12.0%) by 6.8pp
+- institutional book strong at 20.9x projected QIB
+- heavy retail demand (22.0x) - allotment will be a lottery
+- GMP fading - late enthusiasm is cooling
 - mostly fresh capital (100%) into the business
 - anchor book could not be read from the RHP
 - anchors came in at the full cap price
 - offer priced close to recent insider cost (0.51x)
-- credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
-- NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 29 Sep 2026 01:03 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 16:29 by IPO Radar. Analysis only — not investment advice.*

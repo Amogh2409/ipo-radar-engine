@@ -1,6 +1,6 @@
 # Srit India Limited (SRIT)
 
-**STRONG APPLY** · score **73/100** · confidence 60%
+**STRONG APPLY** · score **72/100** · confidence 65%
 
 ## Issue
 
@@ -32,13 +32,13 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 2,520,000 | 2,265,730 | 0.90x | 13.89x |
-| QIB | 3,360,000 | 3,220 | 0.00x | 0.16x |
-| RETAIL | 5,880,000 | 9,460,935 | 1.61x | 5.93x |
-| bNII | 1,680,000 | 882,855 | 0.53x | 12.91x |
-| sNII | 840,000 | 1,382,875 | 1.65x | 15.96x |
+| NII | 2,520,000 | 10,523,075 | 4.18x | 11.67x |
+| QIB | 3,360,000 | 70,725 | 0.02x | 0.09x |
+| RETAIL | 5,880,000 | 32,148,365 | 5.47x | 7.62x |
+| bNII | 1,680,000 | 4,674,290 | 2.78x | 9.37x |
+| sNII | 840,000 | 5,848,785 | 6.96x | 15.80x |
 
-Grey market premium: **₹30** (+23.1%) via ipowatch
+Grey market premium: **₹33** (+25.4%) via ipowatch
 
 ## Demand — posterior view
 
@@ -46,58 +46,54 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 0.90x | **13.89x** | 7.49x – 25.75x | 68% |
-| QIB | 0.00x | **0.16x** | 0.08x – 0.36x | 57% |
-| RETAIL | 1.61x | **5.93x** | 4.34x – 8.09x | 90% |
-| bNII | 0.53x | **12.91x** | 6.53x – 25.51x | 64% |
-| sNII | 1.65x | **15.96x** | 9.16x – 27.82x | 73% |
+| NII | 4.18x | **11.67x** | 8.21x – 16.59x | 87% |
+| QIB | 0.02x | **0.09x** | 0.06x – 0.14x | 82% |
+| RETAIL | 5.47x | **7.62x** | 6.02x – 9.63x | 94% |
+| bNII | 2.78x | **9.37x** | 6.42x – 13.67x | 85% |
+| sNII | 6.96x | **15.80x** | 11.40x – 21.90x | 88% |
 
-_Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — demand earns influence as the book fills._
+_Score weighting right now: demand 19.3%, valuation 18.3%, financials 20.3% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+18.2%**
-- Likely range: -0.3% to +36.6%
-- Probability of a positive listing: **84%**
+- Central estimate: **+19.2%**
+- Likely range: +2.4% to +35.9%
+- Probability of a positive listing: **87%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,950 | lottery | 28.5% | 33 |
-| RETAIL | 13 | ₹194,350 | lottery | 28.5% | 33 |
-| sNII | 14 | ₹209,300 | lottery | 87.7% | 101 |
+| RETAIL | 1 | ₹14,950 | lottery | 22.5% | 26 |
+| RETAIL | 13 | ₹194,350 | lottery | 22.5% | 26 |
+| sNII | 14 | ₹209,300 | lottery | 88.6% | 102 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.91%** · +19bp vs baseline · spread 1.77pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **56.6/100**, stress 0.39
-  - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
-  - NIFTY 50 -1.56% - risk-off tape
+- India 10y **6.85%** · +13bp vs baseline · spread 1.04pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.9/100**, stress 0.03
 
 ## Execution
 
-- Phase: **early**, 39h 56m to the UPI mandate cut-off
+- Phase: **early**, 24h 32m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-30T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 30 Sep 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 39h 56m
+  - time to cut-off: 24h 32m
 
 ## Why it scores where it does
 
 - priced at 13.7x vs 24x benchmark - a discount
 - RoNW 30.2% - strong returns on capital
 - EPS CAGR +33%
-- High-Spread Compounder: RoNW (30.2%) exceeds Cost of Equity (13.9%) by 16.3pp
-- QIB book weak (0.16x) - institutions are passing
-- GMP fading - late enthusiasm is cooling
+- High-Spread Compounder: RoNW (30.2%) exceeds Cost of Equity (13.8%) by 16.4pp
+- QIB book weak (0.09x) - institutions are passing
+- strong grey market premium (+25.4%)
 - anchor book could not be read from the RHP
-- credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
-- NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 29 Sep 2026 01:03 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 16:29 by IPO Radar. Analysis only — not investment advice.*

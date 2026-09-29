@@ -1,6 +1,6 @@
 # Orient Cables (India) Limited (ORIENTCABL)
 
-**AVOID** · score **49/100** · confidence 68%
+**APPLY** · score **69/100** · confidence 68%
 
 ## Issue
 
@@ -30,13 +30,13 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 3,209,302 | 55,742,280 | 17.37x | 22.99x |
-| QIB | 4,279,069 | 245,520 | 0.06x | 0.12x |
-| RETAIL | 7,488,372 | 68,558,765 | 9.16x | 9.16x |
-| bNII | 2,139,535 | 30,611,790 | 14.31x | 20.88x |
-| sNII | 1,069,767 | 25,130,490 | 23.49x | 28.20x |
+| NII | 3,209,302 | 370,257,855 | 115.37x | 115.37x |
+| QIB | 4,279,069 | 782,053,085 | 182.76x | 182.76x |
+| RETAIL | 7,488,372 | 219,117,855 | 29.26x | 29.26x |
+| bNII | 2,139,535 | 263,545,535 | 123.18x | 123.18x |
+| sNII | 1,069,767 | 106,712,320 | 99.75x | 99.75x |
 
-Grey market premium: **₹80** (+29.4%) via ipowatch
+Grey market premium: **₹72** (+26.5%) via ipowatch
 
 ## Demand — posterior view
 
@@ -44,64 +44,62 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 17.37x | **22.99x** | 18.86x – 28.03x | 95% |
-| QIB | 0.06x | **0.12x** | 0.09x – 0.14x | 94% |
-| RETAIL | 9.16x | **9.16x** | 9.16x – 10.02x | 97% |
-| bNII | 14.31x | **20.88x** | 16.98x – 25.68x | 95% |
-| sNII | 23.49x | **28.20x** | 23.49x – 34.10x | 96% |
+| NII | 115.37x | **115.37x** | 115.37x – 138.73x | 96% |
+| QIB | 182.76x | **182.76x** | 182.76x – 221.58x | 96% |
+| RETAIL | 29.26x | **29.26x** | 29.26x – 29.59x | 96% |
+| bNII | 123.18x | **123.18x** | 123.18x – 148.52x | 96% |
+| sNII | 99.75x | **99.75x** | 99.75x – 119.64x | 96% |
 
-_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+0.0%**
-- Likely range: -15.7% to +0.0%
-- Probability of a positive listing: **0%**
+- Central estimate: **+33.8%**
+- Likely range: +11.9% to +55.7%
+- Probability of a positive listing: **94%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 19.1% | 11 |
-| RETAIL | 13 | ₹194,480 | lottery | 19.1% | 11 |
-| sNII | 14 | ₹209,440 | lottery | 49.6% | 27 |
+| RETAIL | 1 | ₹14,960 | lottery | 6.6% | 4 |
+| RETAIL | 13 | ₹194,480 | lottery | 6.6% | 4 |
+| sNII | 14 | ₹209,440 | lottery | 14.0% | 8 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.91%** · +19bp vs baseline · spread 1.77pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **56.6/100**, stress 0.39
-  - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
-  - NIFTY 50 -1.56% - risk-off tape
+- India 10y **6.85%** · +13bp vs baseline · spread 1.04pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.9/100**, stress 0.03
 
 ## Execution
 
-- Phase: **final_day_morning**, 15h 58m to the UPI mandate cut-off
+- Phase: **decision_window**, 34m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-29T17:00+05:30 IST** (NSE issue circular)
-- Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 29 Sep 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 15h 58m
+- Call: **APPLY** — RETAIL × 1 lot(s), ₹14,960 blocked
+- Price: Tick CUT-OFF. It accepts whatever price is discovered, so your bid stays valid if the issue prices at the cap.
+- PLACE THE BID NOW, accept the UPI mandate by 16:40 IST. Hard cut-off 17:00 IST (34m left). Accepting the mandate is a separate step in your banking app - a placed bid with an unaccepted mandate is not an application.
+  - lottery: lottery for 1 lot; ~1.94 mean lots/application against 29.26x
+  - ~7% chance of allotment, 2.24% return on the cash blocked
+  - extra lots on this PAN would not raise the odds - only extra PANs do
 
 ## Why it scores where it does
 
 - RoNW 25.8% - strong returns on capital
-- High-Spread Compounder: RoNW (25.8%) exceeds Cost of Equity (13.7%) by 12.1pp
-- QIB book weak (0.12x) - institutions are passing
-- heavy retail demand (9.2x) - allotment will be a lottery
-- strong grey market premium (+29.4%)
+- High-Spread Compounder: RoNW (25.8%) exceeds Cost of Equity (13.7%) by 12.2pp
+- institutional book strong at 182.8x projected QIB
+- heavy retail demand (29.3x) - allotment will be a lottery
+- strong grey market premium (+26.5%)
+- GMP fading - late enthusiasm is cooling
 - mostly fresh capital (79%) into the business
 - anchor book could not be read from the RHP
-- credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
-- NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average
 
 ## Risks
 
 - priced at 51.6x vs 32x benchmark - demanding
 - EPS CAGR +16%
-- DEMAND COLLAPSE - QIB 0.12x with 80% of the window gone; the market has declined this issue
 
 ---
-*Generated 29 Sep 2026 01:03 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 16:29 by IPO Radar. Analysis only — not investment advice.*

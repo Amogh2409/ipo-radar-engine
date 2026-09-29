@@ -1,6 +1,6 @@
 # Vishal Nirmiti Limited (VNL)
 
-**AVOID** · score **44/100** · confidence 36%
+**AVOID** · score **47/100** · confidence 36%
 
 ## Issue
 
@@ -27,7 +27,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 _No bidding data yet._
 
-Grey market premium: **₹0** (+0.0%) via ipowatch
+Grey market premium: **₹2** (+0.9%) via ipowatch
 
 ## Demand — posterior view
 
@@ -45,46 +45,42 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+10.0%**
-- Likely range: -8.6% to +28.6%
-- Probability of a positive listing: **70%**
+- Central estimate: **+10.5%**
+- Likely range: -8.5% to +29.4%
+- Probability of a positive listing: **71%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 18.6% | 13 |
-| RETAIL | 13 | ₹194,480 | lottery | 18.6% | 13 |
+| RETAIL | 1 | ₹14,960 | lottery | 19.0% | 13 |
+| RETAIL | 13 | ₹194,480 | lottery | 19.0% | 13 |
 | sNII | 14 | ₹209,440 | lottery | 72.2% | 49 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.91%** · +19bp vs baseline · spread 1.77pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **56.6/100**, stress 0.39
-  - credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
-  - NIFTY 50 -1.56% - risk-off tape
+- India 10y **6.85%** · +13bp vs baseline · spread 1.04pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.9/100**, stress 0.03
 
 ## Execution
 
-- Phase: **pre_open**, 159h 56m to the UPI mandate cut-off
+- Phase: **pre_open**, 144h 30m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-05T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 159h 56m
+  - time to cut-off: 144h 30m
 
 ## Why it scores where it does
 
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- grey market flat or negative
+- GMP firming into close
 - anchor book could not be read from the RHP
 - selling holders exiting at 7.0x their cost
-- credit spread +56bp wider (G-Sec term spread 10y-2y (proxy))
-- NIFTY 50 -1.56% - risk-off tape
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 29 Sep 2026 01:03 by IPO Radar. Analysis only — not investment advice.*
+*Generated 29 Sep 2026 16:29 by IPO Radar. Analysis only — not investment advice.*

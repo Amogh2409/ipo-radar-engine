@@ -1,22 +1,25 @@
-# Eventions Limited (EVENTIONS)
+# Nityas Gems and Jewellery Limited (NITYAS)
 
-**NEUTRAL** · score **51/100** · confidence 36%
+**APPLY** · score **63/100** · confidence 36%
 
 ## Issue
 
 | | |
 |---|---|
-| Price band | ₹112 – ₹118 |
-| Lot size | — |
-| Issue size | ₹38 Cr |
+| Price band | ₹70 – ₹75 |
+| Lot size | 200 shares (₹15,000) |
+| Issue size | ₹108 Cr |
 | Dates | 2026-09-30 → 2026-10-05 |
-| Registrar | Mudra RTA Ventures Private Limited |
-| Lead managers | Corporate Professionals Capital Private Limited |
+| Registrar | Bigshare Services Private Limited |
+| Lead managers | Choice Capital Advisors Private Limited |
 
 ## Valuation
 
 | Metric | Value |
 |---|---|
+| P/B at cap price | 4.96x |
+| RoNW (latest FY) | 43.75% |
+| NAV per share | ₹15.13 |
 
 _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
@@ -24,7 +27,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 _No bidding data yet._
 
-Grey market premium: **₹0** (+0.0%) via ipowatch
+Grey market premium: **₹9** (+12.0%) via ipowatch
 
 ## Demand — posterior view
 
@@ -42,14 +45,19 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+11.0%**
-- Likely range: -8.3% to +30.4%
-- Probability of a positive listing: **72%**
+- Central estimate: **+17.7%**
+- Likely range: -6.3% to +41.6%
+- Probability of a positive listing: **77%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
+| RETAIL | 1 | ₹15,000 | lottery | 23.4% | 47 |
+| RETAIL | 13 | ₹195,000 | lottery | 23.4% | 47 |
+| sNII | 14 | ₹210,000 | lottery | 72.2% | 144 |
+
+> Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
@@ -58,18 +66,19 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **pre_open**, 144h 32m to the UPI mandate cut-off
+- Phase: **pre_open**, 144h 31m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-05T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 144h 32m
+  - time to cut-off: 144h 31m
 
 ## Why it scores where it does
 
+- RoNW 43.8% - strong returns on capital
+- High-Spread Compounder: RoNW (43.8%) exceeds Cost of Equity (13.8%) by 29.9pp
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- grey market flat or negative
 - anchor book could not be read from the RHP
 - recent IPOs listed +7.6% on average
 
