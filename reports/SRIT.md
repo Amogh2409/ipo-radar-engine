@@ -1,6 +1,6 @@
 # Srit India Limited (SRIT)
 
-**STRONG APPLY** · score **82/100** · confidence 67%
+**STRONG APPLY** · score **83/100** · confidence 69%
 
 ## Issue
 
@@ -32,11 +32,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 2,520,000 | 785,211,605 | 311.59x | 311.59x |
+| NII | 2,520,000 | 788,735,205 | 312.99x | 312.99x |
 | QIB | 3,360,000 | 308,570,990 | 91.84x | 91.84x |
-| RETAIL | 5,880,000 | 339,732,080 | 57.78x | 57.78x |
+| RETAIL | 5,880,000 | 374,579,610 | 63.70x | 63.70x |
 | bNII | 1,680,000 | 597,740,330 | 355.80x | 355.80x |
-| sNII | 840,000 | 187,471,275 | 223.18x | 223.18x |
+| sNII | 840,000 | 190,994,875 | 227.37x | 227.37x |
 
 Grey market premium: **₹31** (+23.9%) via ipowatch
 
@@ -46,27 +46,27 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 311.59x | **311.59x** | 311.59x – 384.68x | 95% |
-| QIB | 91.84x | **91.84x** | 91.84x – 114.68x | 94% |
-| RETAIL | 57.78x | **57.78x** | 57.78x – 59.50x | 96% |
-| bNII | 355.80x | **355.80x** | 355.80x – 441.03x | 95% |
-| sNII | 223.18x | **223.18x** | 223.18x – 274.40x | 95% |
+| NII | 312.99x | **312.99x** | 312.99x – 333.70x | 100% |
+| QIB | 91.84x | **91.84x** | 91.84x – 97.91x | 100% |
+| RETAIL | 63.70x | **63.70x** | 63.70x – 67.92x | 100% |
+| bNII | 355.80x | **355.80x** | 355.80x – 379.34x | 100% |
+| sNII | 227.37x | **227.37x** | 227.37x – 242.42x | 100% |
 
 _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+35.1%**
-- Likely range: +12.4% to +57.8%
-- Probability of a positive listing: **94%**
+- Central estimate: **+35.2%**
+- Likely range: +13.3% to +57.1%
+- Probability of a positive listing: **95%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,950 | lottery | 3.4% | 4 |
-| RETAIL | 13 | ₹194,350 | lottery | 3.4% | 4 |
-| sNII | 14 | ₹209,300 | lottery | 6.3% | 7 |
+| RETAIL | 1 | ₹14,950 | lottery | 3.1% | 4 |
+| RETAIL | 13 | ₹194,350 | lottery | 3.1% | 4 |
+| sNII | 14 | ₹209,300 | lottery | 6.2% | 7 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -77,14 +77,11 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 ## Execution
 
-- Phase: **decision_window**, 45m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-30T17:00+05:30 IST** (NSE issue circular)
-- Call: **APPLY** — RETAIL × 1 lot(s), ₹14,950 blocked
-- Price: Tick CUT-OFF. It accepts whatever price is discovered, so your bid stays valid if the issue prices at the cap.
-- PLACE THE BID NOW, accept the UPI mandate by 16:40 IST. Hard cut-off 17:00 IST (45m left). Accepting the mandate is a separate step in your banking app - a placed bid with an unaccepted mandate is not an application.
-  - lottery: lottery for 1 lot; ~1.95 mean lots/application against 57.78x
-  - ~3% chance of allotment, 1.18% return on the cash blocked
-  - extra lots on this PAN would not raise the odds - only extra PANs do
+- Call: **WAIT**
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
@@ -93,9 +90,9 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - EPS CAGR +33%
 - High-Spread Compounder: RoNW (30.2%) exceeds Cost of Equity (13.8%) by 16.4pp
 - institutional book strong at 91.8x projected QIB
-- heavy retail demand (57.8x) - allotment will be a lottery
+- heavy retail demand (63.7x) - allotment will be a lottery
 - anchor book could not be read from the RHP
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 30 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 30 Sep 2026 23:26 by IPO Radar. Analysis only — not investment advice.*

@@ -1,6 +1,6 @@
 # Shah Investor's Home Limited (SHAHINVEST)
 
-**NEUTRAL** · score **59/100** · confidence 67%
+**NEUTRAL** · score **59/100** · confidence 69%
 
 ## Issue
 
@@ -27,11 +27,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 809,880 | 77,071,115 | 95.16x | 95.16x |
+| NII | 809,880 | 77,375,415 | 95.54x | 95.54x |
 | QIB | 1,079,840 | 30,289,750 | 28.05x | 28.05x |
-| RETAIL | 1,889,720 | 31,723,105 | 16.79x | 16.79x |
+| RETAIL | 1,889,720 | 36,394,875 | 19.26x | 19.26x |
 | bNII | 539,920 | 56,772,435 | 105.15x | 105.15x |
-| sNII | 269,960 | 20,298,680 | 75.19x | 75.19x |
+| sNII | 269,960 | 20,602,980 | 76.32x | 76.32x |
 
 Grey market premium: **₹15** (+9.0%) via ipowatch
 
@@ -41,27 +41,27 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 95.16x | **95.16x** | 95.16x – 117.48x | 95% |
-| QIB | 28.05x | **28.05x** | 28.05x – 35.03x | 94% |
-| RETAIL | 16.79x | **16.79x** | 16.79x – 17.29x | 96% |
-| bNII | 105.15x | **105.15x** | 105.15x – 130.34x | 95% |
-| sNII | 75.19x | **75.19x** | 75.19x – 92.45x | 95% |
+| NII | 95.54x | **95.54x** | 95.54x – 101.86x | 100% |
+| QIB | 28.05x | **28.05x** | 28.05x – 29.91x | 100% |
+| RETAIL | 19.26x | **19.26x** | 19.26x – 20.53x | 100% |
+| bNII | 105.15x | **105.15x** | 105.15x – 112.11x | 100% |
+| sNII | 76.32x | **76.32x** | 76.32x – 81.37x | 100% |
 
 _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+19.2%**
-- Likely range: +3.5% to +35.0%
-- Probability of a positive listing: **89%**
+- Central estimate: **+19.3%**
+- Likely range: +4.2% to +34.5%
+- Probability of a positive listing: **90%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,195 | lottery | 11.2% | 10 |
-| RETAIL | 14 | ₹198,730 | lottery | 11.2% | 10 |
-| sNII | 15 | ₹212,925 | lottery | 19.9% | 17 |
+| RETAIL | 1 | ₹14,195 | lottery | 9.9% | 8 |
+| RETAIL | 14 | ₹198,730 | lottery | 9.9% | 8 |
+| sNII | 15 | ₹212,925 | lottery | 19.7% | 17 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -72,17 +72,16 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 
 ## Execution
 
-- Phase: **decision_window**, 46m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-30T17:00+05:30 IST** (NSE issue circular)
-- Call: **AVOID**
-- Cut-off 17:00 IST
-  - Value Trap: RoNW 7.3% is below cost of equity 13.8%; composite capped at 59
-  - the speculative-flip exception was not met, so there is no case for blocking capital here
+- Call: **WAIT**
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
 - institutional book strong at 28.1x projected QIB
-- heavy retail demand (16.8x) - allotment will be a lottery
+- heavy retail demand (19.3x) - allotment will be a lottery
 - GMP firming into close
 - anchor book could not be read from the RHP
 - anchors came in at the full cap price
@@ -95,4 +94,4 @@ _Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — 
 - Value Trap: RoNW (7.3%) is below estimated Cost of Equity (13.8%)
 
 ---
-*Generated 30 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 30 Sep 2026 23:26 by IPO Radar. Analysis only — not investment advice.*

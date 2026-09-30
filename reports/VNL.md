@@ -1,6 +1,6 @@
 # Vishal Nirmiti Limited (VNL)
 
-**AVOID** · score **48/100** · confidence 42%
+**AVOID** · score **48/100** · confidence 45%
 
 ## Issue
 
@@ -27,11 +27,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 2,456,635 | 21,148 | 0.01x | 2.29x |
-| QIB | 84,710 | 80,920 | 0.96x | 37.67x |
-| RETAIL | 5,929,808 | 332,724 | 0.06x | 0.74x |
-| bNII | 1,637,757 | 4,692 | 0.00x | 2.01x |
-| sNII | 818,878 | 16,456 | 0.02x | 2.25x |
+| NII | 2,456,635 | 22,100 | 0.01x | 1.42x |
+| QIB | 84,710 | 80,920 | 0.96x | 78.87x |
+| RETAIL | 5,929,808 | 358,700 | 0.06x | 0.60x |
+| bNII | 1,637,757 | 4,692 | 0.00x | 1.14x |
+| sNII | 818,878 | 17,408 | 0.02x | 1.44x |
 
 Grey market premium: **₹6** (+2.7%) via ipowatch
 
@@ -41,19 +41,19 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 0.01x | **2.29x** | 0.72x – 7.26x | 38% |
-| QIB | 0.96x | **37.67x** | 10.16x – 139.67x | 32% |
-| RETAIL | 0.06x | **0.74x** | 0.41x – 1.32x | 70% |
-| bNII | 0.00x | **2.01x** | 0.58x – 6.96x | 35% |
-| sNII | 0.02x | **2.25x** | 0.77x – 6.55x | 42% |
+| NII | 0.01x | **1.42x** | 0.57x – 3.50x | 50% |
+| QIB | 0.96x | **78.87x** | 26.44x – 235.22x | 41% |
+| RETAIL | 0.06x | **0.60x** | 0.39x – 0.93x | 82% |
+| bNII | 0.00x | **1.14x** | 0.42x – 3.06x | 46% |
+| sNII | 0.02x | **1.44x** | 0.63x – 3.27x | 55% |
 
-_Score weighting right now: demand 6.9%, valuation 24.2%, financials 26.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 7.4%, valuation 24.0%, financials 26.6% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+10.9%**
-- Likely range: -6.1% to +27.9%
-- Probability of a positive listing: **74%**
+- Central estimate: **+12.4%**
+- Likely range: -4.5% to +29.2%
+- Probability of a positive listing: **77%**
 
 ## Allotment odds
 
@@ -61,7 +61,7 @@ _Score weighting right now: demand 6.9%, valuation 24.2%, financials 26.9% — d
 |---|---|---|---|---|---|
 | RETAIL | 1 | ₹14,960 | full | 100.0% | 68 |
 | RETAIL | 13 | ₹194,480 | full | 100.0% | 884 |
-| sNII | 14 | ₹209,440 | proportionate | 100.0% | 408 |
+| sNII | 14 | ₹209,440 | proportionate | 100.0% | 612 |
 
 ## Macro regime
 
@@ -70,21 +70,20 @@ _Score weighting right now: demand 6.9%, valuation 24.2%, financials 26.9% — d
 
 ## Execution
 
-- Phase: **early**, 120h 44m to the UPI mandate cut-off
+- Phase: **early**, 113h 33m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-05T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 120h 44m
+  - time to cut-off: 113h 33m
 
 ## Why it scores where it does
 
-- institutional book strong at 37.7x projected QIB
-- demand still early (45% of the bid window elapsed) - projections are indicative only
+- institutional book strong at 78.9x projected QIB
 - GMP firming into close
 - anchor book could not be read from the RHP
 - selling holders exiting at 7.0x their cost
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 30 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 30 Sep 2026 23:26 by IPO Radar. Analysis only — not investment advice.*

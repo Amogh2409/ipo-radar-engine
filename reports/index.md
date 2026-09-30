@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_30 Sep 2026 16:15_
+_30 Sep 2026 23:26_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -8,19 +8,19 @@ _30 Sep 2026 16:15_
 
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
-| [SRIT](SRIT.md) | 2026-09-30 | 82 | STRONG APPLY | +35.1% | 3% |
+| [SRIT](SRIT.md) | 2026-09-30 | 83 | STRONG APPLY | +35.2% | 3% |
 | [NITYAS](NITYAS.md) | 2026-10-05 | 60 | NEUTRAL | +13.3% | 33% |
-| [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | 59 | NEUTRAL | +19.2% | 11% |
+| [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | 59 | NEUTRAL | +19.3% | 10% |
 | [EVENTIONS](EVENTIONS.md) | 2026-10-05 | 52 | NEUTRAL | +11.0% | — |
-| [VNL](VNL.md) | 2026-10-05 | 48 | AVOID | +10.9% | 100% |
+| [VNL](VNL.md) | 2026-10-05 | 48 | AVOID | +12.4% | 100% |
 
 ## Suggested applications
 
 | PAN | IPO | Category | Lots | Capital | P(allot) | E[profit] |
 |---|---|---|---|---|---|---|
-| #1 | SRIT | RETAIL | 1 | ₹14,950 | 3% | ₹177 |
+| #1 | SRIT | RETAIL | 1 | ₹14,950 | 3% | ₹161 |
 
-Capital deployed **₹14,950** of ₹500,000, expected profit **₹177** (1.18% on blocked funds).
+Capital deployed **₹14,950** of ₹500,000, expected profit **₹161** (1.08% on blocked funds).
 
 ### Cash flow projection
 
