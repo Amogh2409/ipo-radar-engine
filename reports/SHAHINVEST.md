@@ -1,6 +1,6 @@
 # Shah Investor's Home Limited (SHAHINVEST)
 
-**NEUTRAL** · score **51/100** · confidence 66%
+**NEUTRAL** · score **59/100** · confidence 67%
 
 ## Issue
 
@@ -27,13 +27,13 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 809,880 | 1,290,045 | 1.59x | 3.73x |
-| QIB | 1,079,840 | 1,170,110 | 1.08x | 4.99x |
-| RETAIL | 1,889,720 | 1,694,135 | 0.90x | 1.22x |
-| bNII | 539,920 | 738,225 | 1.37x | 3.51x |
-| sNII | 269,960 | 551,820 | 2.04x | 4.30x |
+| NII | 809,880 | 77,071,115 | 95.16x | 95.16x |
+| QIB | 1,079,840 | 30,289,750 | 28.05x | 28.05x |
+| RETAIL | 1,889,720 | 31,723,105 | 16.79x | 16.79x |
+| bNII | 539,920 | 56,772,435 | 105.15x | 105.15x |
+| sNII | 269,960 | 20,298,680 | 75.19x | 75.19x |
 
-Grey market premium: **₹13** (+7.8%) via ipowatch
+Grey market premium: **₹15** (+9.0%) via ipowatch
 
 ## Demand — posterior view
 
@@ -41,44 +41,49 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 1.59x | **3.73x** | 2.84x – 4.90x | 92% |
-| QIB | 1.08x | **4.99x** | 3.58x – 6.95x | 88% |
-| RETAIL | 0.90x | **1.22x** | 1.01x – 1.47x | 96% |
-| bNII | 1.37x | **3.51x** | 2.62x – 4.70x | 91% |
-| sNII | 2.04x | **4.30x** | 3.33x – 5.54x | 93% |
+| NII | 95.16x | **95.16x** | 95.16x – 117.48x | 95% |
+| QIB | 28.05x | **28.05x** | 28.05x – 35.03x | 94% |
+| RETAIL | 16.79x | **16.79x** | 16.79x – 17.29x | 96% |
+| bNII | 105.15x | **105.15x** | 105.15x – 130.34x | 95% |
+| sNII | 75.19x | **75.19x** | 75.19x – 92.45x | 95% |
 
-_Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+9.4%**
-- Likely range: -2.4% to +21.1%
-- Probability of a positive listing: **79%**
+- Central estimate: **+19.2%**
+- Likely range: +3.5% to +35.0%
+- Probability of a positive listing: **89%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,195 | proportionate | 100.0% | 85 |
-| RETAIL | 14 | ₹198,730 | proportionate | 100.0% | 935 |
-| sNII | 15 | ₹212,925 | proportionate | 100.0% | 255 |
+| RETAIL | 1 | ₹14,195 | lottery | 11.2% | 10 |
+| RETAIL | 14 | ₹198,730 | lottery | 11.2% | 10 |
+| sNII | 15 | ₹212,925 | lottery | 19.9% | 17 |
+
+> Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.85%** · +13bp vs baseline · spread 1.04pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **85.9/100**, stress 0.03
+- India 10y **6.83%** · +11bp vs baseline · spread 1.29pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **86.3/100**, stress 0.02
 
 ## Execution
 
-- Phase: **early**, 17h 29m to the UPI mandate cut-off
+- Phase: **decision_window**, 46m to the UPI mandate cut-off
 - Mandate cut-off: **2026-09-30T17:00+05:30 IST** (NSE issue circular)
-- Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 30 Sep 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 17h 29m
+- Call: **AVOID**
+- Cut-off 17:00 IST
+  - Value Trap: RoNW 7.3% is below cost of equity 13.8%; composite capped at 59
+  - the speculative-flip exception was not met, so there is no case for blocking capital here
 
 ## Why it scores where it does
 
+- institutional book strong at 28.1x projected QIB
+- heavy retail demand (16.8x) - allotment will be a lottery
+- GMP firming into close
 - anchor book could not be read from the RHP
 - anchors came in at the full cap price
 - recent IPOs listed +7.6% on average
@@ -90,4 +95,4 @@ _Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — 
 - Value Trap: RoNW (7.3%) is below estimated Cost of Equity (13.8%)
 
 ---
-*Generated 29 Sep 2026 23:32 by IPO Radar. Analysis only — not investment advice.*
+*Generated 30 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

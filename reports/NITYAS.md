@@ -1,6 +1,6 @@
 # Nityas Gems and Jewellery Limited (NITYAS)
 
-**APPLY** · score **63/100** · confidence 36%
+**NEUTRAL** · score **60/100** · confidence 41%
 
 ## Issue
 
@@ -25,9 +25,16 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 ## Demand
 
-_No bidding data yet._
+| Category | Offered | Bid | Current | Projected final |
+|---|---|---|---|---|
+| EMPLOYEE | 100,000 | 51,000 | 0.51x | 2.95x |
+| NII | 2,153,400 | 200,000 | 0.09x | 10.08x |
+| QIB | 7,178,000 | 0 | 0.00x | 9.05x |
+| RETAIL | 5,024,600 | 2,431,600 | 0.48x | 4.29x |
+| bNII | 1,435,600 | 73,600 | 0.05x | 10.55x |
+| sNII | 717,800 | 126,400 | 0.18x | 9.87x |
 
-Grey market premium: **₹9** (+12.0%) via ipowatch
+Grey market premium: **₹5** (+6.7%) via ipowatch
 
 ## Demand — posterior view
 
@@ -35,52 +42,53 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| QIB | 0.00x | **12.93x** | 2.02x – 82.90x | 19% |
-| NII | 0.00x | **16.16x** | 2.36x – 110.49x | 18% |
-| sNII | 0.00x | **19.39x** | 2.84x – 132.59x | 18% |
-| bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
-| RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
+| EMPLOYEE | 0.51x | **2.95x** | 1.56x – 5.58x | 67% |
+| NII | 0.09x | **10.08x** | 3.18x – 31.91x | 38% |
+| QIB | 0.00x | **9.05x** | 1.70x – 48.21x | 23% |
+| RETAIL | 0.48x | **4.29x** | 2.39x – 7.71x | 70% |
+| bNII | 0.05x | **10.55x** | 3.04x – 36.61x | 35% |
+| sNII | 0.18x | **9.87x** | 3.39x – 28.73x | 42% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 6.9%, valuation 24.2%, financials 26.9% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+17.7%**
-- Likely range: -6.3% to +41.6%
-- Probability of a positive listing: **77%**
+- Central estimate: **+13.3%**
+- Likely range: -5.5% to +32.2%
+- Probability of a positive listing: **76%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹15,000 | lottery | 23.4% | 47 |
-| RETAIL | 13 | ₹195,000 | lottery | 23.4% | 47 |
-| sNII | 14 | ₹210,000 | lottery | 72.2% | 144 |
+| RETAIL | 1 | ₹15,000 | lottery | 32.6% | 65 |
+| RETAIL | 13 | ₹195,000 | lottery | 32.6% | 65 |
+| sNII | 14 | ₹210,000 | proportionate | 100.0% | 200 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Macro regime
 
-- India 10y **6.85%** · +13bp vs baseline · spread 1.04pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **85.9/100**, stress 0.03
+- India 10y **6.83%** · +11bp vs baseline · spread 1.29pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **86.3/100**, stress 0.02
 
 ## Execution
 
-- Phase: **pre_open**, 137h 27m to the UPI mandate cut-off
+- Phase: **early**, 120h 44m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-05T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 137h 27m
+  - time to cut-off: 120h 44m
 
 ## Why it scores where it does
 
 - RoNW 43.8% - strong returns on capital
 - High-Spread Compounder: RoNW (43.8%) exceeds Cost of Equity (13.8%) by 29.9pp
-- institutional book strong at 12.9x projected QIB
-- demand still early (22% of the bid window elapsed) - projections are indicative only
+- demand still early (42% of the bid window elapsed) - projections are indicative only
+- GMP fading - late enthusiasm is cooling
 - anchor book could not be read from the RHP
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 29 Sep 2026 23:32 by IPO Radar. Analysis only — not investment advice.*
+*Generated 30 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*

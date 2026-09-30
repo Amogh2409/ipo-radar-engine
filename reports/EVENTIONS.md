@@ -1,6 +1,6 @@
 # Eventions Limited (EVENTIONS)
 
-**NEUTRAL** · score **51/100** · confidence 36%
+**NEUTRAL** · score **52/100** · confidence 36%
 
 ## Issue
 
@@ -38,7 +38,7 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 6.9%, valuation 24.2%, financials 26.9% — demand earns influence as the book fills._
 
 ## Listing expectation
 
@@ -53,17 +53,17 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Macro regime
 
-- India 10y **6.85%** · +13bp vs baseline · spread 1.04pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **85.9/100**, stress 0.03
+- India 10y **6.83%** · +11bp vs baseline · spread 1.29pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **86.3/100**, stress 0.02
 
 ## Execution
 
-- Phase: **pre_open**, 137h 28m to the UPI mandate cut-off
+- Phase: **early**, 120h 45m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-05T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 137h 28m
+  - time to cut-off: 120h 45m
 
 ## Why it scores where it does
 
@@ -74,4 +74,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - recent IPOs listed +7.6% on average
 
 ---
-*Generated 29 Sep 2026 23:32 by IPO Radar. Analysis only — not investment advice.*
+*Generated 30 Sep 2026 16:15 by IPO Radar. Analysis only — not investment advice.*
