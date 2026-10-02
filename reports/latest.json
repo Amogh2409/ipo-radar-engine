@@ -1,17 +1,17 @@
 [
   {
     "symbol": "NITYAS",
-    "ts": "2026-10-01T23:50:49",
-    "score": 59.9,
+    "ts": "2026-10-02T16:13:40",
+    "score": 59.1,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - moderate upside",
     "stance_longterm": "average - no strong long-term case",
-    "confidence": 0.5,
+    "confidence": 0.52,
     "factors": {
       "valuation": 45.0,
       "financials": 77.0,
-      "demand": 71.7,
-      "gmp": 51.2,
+      "demand": 69.3,
+      "gmp": 46.1,
       "structure": 55.0,
       "regime": 69.0,
       "qualitative": 50.0
@@ -26,196 +26,196 @@
       "recent IPOs listed +12.2% on average"
     ],
     "risks": [],
-    "expected_listing_gain_pct": 12.5,
+    "expected_listing_gain_pct": 9.6,
     "listing_gain_range": [
-      -2.3,
-      27.3
+      -3.0,
+      22.3
     ],
-    "p_positive_listing": 0.801,
+    "p_positive_listing": 0.778,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
-        "subscription_x": 4.53339022923685,
+        "subscription_x": 3.8121794589983184,
         "lots_applied": 1,
         "ticket_value": 15000.0,
-        "p_single": 0.3079707053721095,
-        "expected_lots": 0.3079707053721095,
-        "p_any_multi": 0.30797070537210947,
-        "expected_lots_multi": 0.3079707053721095,
+        "p_single": 0.34829923802863283,
+        "expected_lots": 0.34829923802863283,
+        "p_any_multi": 0.34829923802863283,
+        "expected_lots_multi": 0.34829923802863283,
         "mechanism": "lottery",
         "max_allottees": 25123.0,
-        "est_applications": 23526.818305427907,
-        "note": "lottery for 1 lot; ~1.40 mean lots/application against 4.53x"
+        "est_applications": 24738.299847045888,
+        "note": "lottery for 1 lot; ~1.33 mean lots/application against 3.81x"
       },
       "RETAIL:13": {
         "category": "RETAIL",
-        "subscription_x": 4.53339022923685,
+        "subscription_x": 3.8121794589983184,
         "lots_applied": 13,
         "ticket_value": 195000.0,
-        "p_single": 0.3079707053721095,
-        "expected_lots": 0.3079707053721095,
-        "p_any_multi": 0.30797070537210947,
-        "expected_lots_multi": 0.3079707053721095,
+        "p_single": 0.34829923802863283,
+        "expected_lots": 0.34829923802863283,
+        "p_any_multi": 0.34829923802863283,
+        "expected_lots_multi": 0.34829923802863283,
         "mechanism": "lottery",
         "max_allottees": 25123.0,
-        "est_applications": 23526.818305427907,
-        "note": "lottery for 1 lot; ~1.40 mean lots/application against 4.53x"
+        "est_applications": 24738.299847045888,
+        "note": "lottery for 1 lot; ~1.33 mean lots/application against 3.81x"
       },
       "sNII:14": {
         "category": "sNII",
-        "subscription_x": 4.870375820615458,
+        "subscription_x": 3.290756046376674,
         "lots_applied": 14,
         "ticket_value": 210000.0,
         "p_single": 1.0,
-        "expected_lots": 2,
+        "expected_lots": 4,
         "p_any_multi": 1.0,
-        "expected_lots_multi": 2,
+        "expected_lots_multi": 4,
         "mechanism": "proportionate",
         "max_allottees": 3589.0,
         "est_applications": 125.42857142857143,
-        "note": "proportionate with 1-lot floor (~2 of 14 lots)"
+        "note": "proportionate with 1-lot floor (~4 of 14 lots)"
       }
     },
     "projected_subscription": {
-      "EMPLOYEE": 2.97,
-      "NII": 4.23,
-      "QIB": 8.89,
-      "RETAIL": 4.53,
-      "bNII": 3.83,
-      "sNII": 4.87
+      "EMPLOYEE": 2.49,
+      "NII": 2.65,
+      "QIB": 5.74,
+      "RETAIL": 3.81,
+      "bNII": 2.25,
+      "sNII": 3.29
     },
     "llm": {},
     "posteriors": {
       "EMPLOYEE": {
         "category": "EMPLOYEE",
-        "median": 2.97,
-        "mean": 3.05,
-        "p10": 2.21,
-        "p90": 3.99,
+        "median": 2.49,
+        "mean": 2.53,
+        "p10": 1.93,
+        "p90": 3.2,
         "ci80": [
-          2.21,
-          3.99
+          1.93,
+          3.2
         ],
-        "log_sd": 0.231,
-        "confidence": 0.904,
+        "log_sd": 0.197,
+        "confidence": 0.928,
         "observed": 0.95,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 4.09,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 1.307,
           "momentum_adj": 0.236,
-          "velocity_proj": 1.34
+          "velocity_proj": 1.15
         }
       },
       "NII": {
         "category": "NII",
-        "median": 4.23,
-        "mean": 4.57,
-        "p10": 2.55,
-        "p90": 7.01,
+        "median": 2.65,
+        "mean": 2.78,
+        "p10": 1.77,
+        "p90": 3.94,
         "ci80": [
-          2.55,
-          7.01
+          1.77,
+          3.94
         ],
-        "log_sd": 0.394,
-        "confidence": 0.763,
+        "log_sd": 0.312,
+        "confidence": 0.837,
         "observed": 0.27,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 20.47,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 1.307,
           "momentum_adj": 0.236,
-          "velocity_proj": 0.43
+          "velocity_proj": 0.35
         }
       },
       "QIB": {
         "category": "QIB",
-        "median": 8.89,
-        "mean": 10.31,
-        "p10": 4.42,
-        "p90": 17.87,
+        "median": 5.74,
+        "mean": 6.25,
+        "p10": 3.38,
+        "p90": 9.75,
         "ci80": [
-          4.42,
-          17.87
+          3.38,
+          9.75
         ],
-        "log_sd": 0.545,
-        "confidence": 0.627,
+        "log_sd": 0.413,
+        "confidence": 0.745,
         "observed": 0.38,
-        "n_updates": 3,
+        "n_updates": 4,
         "prior_median": 16.38,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 1.307,
           "momentum_adj": 0.236,
-          "velocity_proj": 0.71
+          "velocity_proj": 0.55
         }
       },
       "RETAIL": {
         "category": "RETAIL",
-        "median": 4.53,
-        "mean": 4.63,
-        "p10": 3.5,
-        "p90": 5.87,
+        "median": 3.81,
+        "mean": 3.87,
+        "p10": 3.04,
+        "p90": 4.79,
         "ci80": [
-          3.5,
-          5.87
+          3.04,
+          4.79
         ],
-        "log_sd": 0.202,
-        "confidence": 0.925,
+        "log_sd": 0.178,
+        "confidence": 0.941,
         "observed": 1.31,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 8.86,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 1.307,
           "momentum_adj": 0.315,
-          "velocity_proj": 2.04
+          "velocity_proj": 1.68
         }
       },
       "bNII": {
         "category": "bNII",
-        "median": 3.83,
-        "mean": 4.2,
-        "p10": 2.2,
-        "p90": 6.65,
+        "median": 2.25,
+        "mean": 2.38,
+        "p10": 1.45,
+        "p90": 3.47,
         "ci80": [
-          2.2,
-          6.65
+          1.45,
+          3.47
         ],
-        "log_sd": 0.431,
-        "confidence": 0.729,
+        "log_sd": 0.34,
+        "confidence": 0.812,
         "observed": 0.16,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 18.42,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 1.307,
           "momentum_adj": 0.236,
-          "velocity_proj": 0.27
+          "velocity_proj": 0.22
         }
       },
       "sNII": {
         "category": "sNII",
-        "median": 4.87,
-        "mean": 5.19,
-        "p10": 3.09,
-        "p90": 7.69,
+        "median": 3.29,
+        "mean": 3.43,
+        "p10": 2.29,
+        "p90": 4.73,
         "ci80": [
-          3.09,
-          7.69
+          2.29,
+          4.73
         ],
-        "log_sd": 0.356,
-        "confidence": 0.798,
+        "log_sd": 0.284,
+        "confidence": 0.861,
         "observed": 0.49,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 24.56,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 1.307,
           "momentum_adj": 0.236,
-          "velocity_proj": 0.77
+          "velocity_proj": 0.63
         }
       }
     },
@@ -224,13 +224,13 @@
       "symbol": "NITYAS",
       "name": "Nityas Gems and Jewellery Limited",
       "clock": {
-        "now_ist": "2026-10-01T23:50:49+05:30",
+        "now_ist": "2026-10-02T16:13:40+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-10-05T17:00+05:30",
         "submit_by": "2026-10-05T16:00+05:30",
         "mandate_by": "2026-10-05T16:40+05:30",
-        "countdown": "89h 09m",
+        "countdown": "72h 46m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -246,16 +246,16 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 89h 09m"
+          "time to cut-off: 72h 46m"
         ]
       },
       "alerts": [],
       "max_level": "INFO"
     },
     "weights_used": {
-      "demand": 12.0,
-      "valuation": 21.8,
-      "financials": 24.2
+      "demand": 15.7,
+      "valuation": 20.1,
+      "financials": 22.3
     },
     "valuation": {
       "sector_key": "unclassified",
@@ -296,7 +296,7 @@
         "yield_change_bp": 11.1,
         "spread_change_bp": 100.4,
         "index_change_pct": -0.88,
-        "baseline_days": 74,
+        "baseline_days": 76,
         "drivers": [
           "credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))",
           "NIFTY 50 -0.88% - risk-off tape"
@@ -327,7 +327,7 @@
   },
   {
     "symbol": "RKFAL",
-    "ts": "2026-10-01T23:51:53",
+    "ts": "2026-10-02T16:14:23",
     "score": 58.8,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - moderate upside",
@@ -476,13 +476,13 @@
       "symbol": "RKFAL",
       "name": "R.K. Fashion Accessories Limited",
       "clock": {
-        "now_ist": "2026-10-01T23:51:53+05:30",
+        "now_ist": "2026-10-02T16:14:23+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-10-07T17:00+05:30",
         "submit_by": "2026-10-07T16:00+05:30",
         "mandate_by": "2026-10-07T16:40+05:30",
-        "countdown": "137h 08m",
+        "countdown": "120h 45m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -498,7 +498,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 07 Oct 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 137h 08m"
+          "time to cut-off: 120h 45m"
         ]
       },
       "alerts": [],
@@ -548,7 +548,7 @@
         "yield_change_bp": 11.1,
         "spread_change_bp": 100.4,
         "index_change_pct": -0.88,
-        "baseline_days": 74,
+        "baseline_days": 76,
         "drivers": [
           "credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))",
           "NIFTY 50 -0.88% - risk-off tape"
@@ -579,23 +579,23 @@
   },
   {
     "symbol": "VNL",
-    "ts": "2026-10-01T23:51:33",
-    "score": 52.4,
+    "ts": "2026-10-02T16:14:09",
+    "score": 52.5,
     "grade": "NEUTRAL",
-    "stance_listing": "apply for listing gains - attractive risk/reward",
+    "stance_listing": "apply for listing gains - moderate upside",
     "stance_longterm": "average - no strong long-term case",
-    "confidence": 0.5,
+    "confidence": 0.52,
     "factors": {
       "valuation": 29.0,
       "financials": 45.0,
-      "demand": 74.7,
-      "gmp": 85.8,
+      "demand": 75.4,
+      "gmp": 75.6,
       "structure": 41.0,
       "regime": 69.0,
       "qualitative": 50.0
     },
     "reasons": [
-      "institutional book strong at 56.6x projected QIB",
+      "institutional book strong at 29.6x projected QIB",
       "GMP firming into close",
       "anchor book could not be read from the RHP",
       "selling holders exiting at 7.0x their cost",
@@ -604,16 +604,16 @@
       "recent IPOs listed +12.2% on average"
     ],
     "risks": [],
-    "expected_listing_gain_pct": 19.5,
+    "expected_listing_gain_pct": 14.3,
     "listing_gain_range": [
-      1.1,
-      37.8
+      -0.7,
+      29.2
     ],
-    "p_positive_listing": 0.856,
+    "p_positive_listing": 0.83,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
-        "subscription_x": 1.1929225037257227,
+        "subscription_x": 1.1368006002603672,
         "lots_applied": 1,
         "ticket_value": 14960.0,
         "p_single": 1.0,
@@ -622,83 +622,83 @@
         "expected_lots_multi": 1.0,
         "mechanism": "proportionate",
         "max_allottees": 87203.05882352941,
-        "est_applications": 25767.04821933577,
+        "est_applications": 28111.003571867004,
         "note": "proportionate with 1-lot floor (~1 of 1 lots)"
       },
       "RETAIL:13": {
         "category": "RETAIL",
-        "subscription_x": 1.1929225037257227,
+        "subscription_x": 1.1368006002603672,
         "lots_applied": 13,
         "ticket_value": 194480.0,
         "p_single": 1.0,
-        "expected_lots": 10,
+        "expected_lots": 11,
         "p_any_multi": 1.0,
-        "expected_lots_multi": 10,
+        "expected_lots_multi": 11,
         "mechanism": "proportionate",
         "max_allottees": 87203.05882352941,
-        "est_applications": 25767.04821933577,
-        "note": "proportionate with 1-lot floor (~10 of 13 lots)"
+        "est_applications": 28111.003571867004,
+        "note": "proportionate with 1-lot floor (~11 of 13 lots)"
       },
       "sNII:14": {
         "category": "sNII",
-        "subscription_x": 2.003782686080106,
+        "subscription_x": 1.6173237308888755,
         "lots_applied": 14,
         "ticket_value": 209440.0,
         "p_single": 1.0,
-        "expected_lots": 6,
+        "expected_lots": 8,
         "p_any_multi": 1.0,
-        "expected_lots_multi": 6,
+        "expected_lots_multi": 8,
         "mechanism": "proportionate",
         "max_allottees": 12042.323529411764,
         "est_applications": 264.7857142857143,
-        "note": "proportionate with 1-lot floor (~6 of 14 lots)"
+        "note": "proportionate with 1-lot floor (~8 of 14 lots)"
       }
     },
     "projected_subscription": {
-      "NII": 5.04,
-      "QIB": 56.61,
-      "RETAIL": 1.19,
-      "bNII": 7.07,
-      "sNII": 2.0
+      "NII": 4.59,
+      "QIB": 29.56,
+      "RETAIL": 1.14,
+      "bNII": 6.91,
+      "sNII": 1.62
     },
     "llm": {},
     "posteriors": {
       "NII": {
         "category": "NII",
-        "median": 5.04,
-        "mean": 5.45,
-        "p10": 3.04,
-        "p90": 8.35,
+        "median": 4.59,
+        "mean": 4.82,
+        "p10": 3.08,
+        "p90": 6.85,
         "ci80": [
-          3.04,
-          8.35
+          3.08,
+          6.85
         ],
-        "log_sd": 0.394,
-        "confidence": 0.763,
+        "log_sd": 0.312,
+        "confidence": 0.837,
         "observed": 0.8,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 11.13,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 0.469,
           "momentum_adj": -0.373,
-          "velocity_proj": 1.51
+          "velocity_proj": 1.16
         }
       },
       "QIB": {
         "category": "QIB",
-        "median": 56.61,
-        "mean": 65.4,
-        "p10": 28.43,
-        "p90": 112.7,
+        "median": 29.56,
+        "mean": 32.32,
+        "p10": 17.21,
+        "p90": 50.78,
         "ci80": [
-          28.43,
-          112.7
+          17.21,
+          50.78
         ],
-        "log_sd": 0.537,
-        "confidence": 0.634,
+        "log_sd": 0.422,
+        "confidence": 0.737,
         "observed": 0.96,
-        "n_updates": 4,
+        "n_updates": 5,
         "prior_median": 8.9,
         "drivers": {
           "size_small": 0.48,
@@ -708,68 +708,68 @@
       },
       "RETAIL": {
         "category": "RETAIL",
-        "median": 1.19,
-        "mean": 1.22,
-        "p10": 0.92,
-        "p90": 1.55,
+        "median": 1.14,
+        "mean": 1.15,
+        "p10": 0.91,
+        "p90": 1.43,
         "ci80": [
-          0.92,
-          1.55
+          0.91,
+          1.43
         ],
-        "log_sd": 0.202,
-        "confidence": 0.925,
+        "log_sd": 0.178,
+        "confidence": 0.941,
         "observed": 0.47,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 3.93,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 0.469,
           "momentum_adj": -0.498,
-          "velocity_proj": 0.83
+          "velocity_proj": 0.66
         }
       },
       "bNII": {
         "category": "bNII",
-        "median": 7.07,
-        "mean": 7.76,
-        "p10": 4.07,
-        "p90": 12.28,
+        "median": 6.91,
+        "mean": 7.33,
+        "p10": 4.47,
+        "p90": 10.69,
         "ci80": [
-          4.07,
-          12.28
+          4.47,
+          10.69
         ],
-        "log_sd": 0.431,
-        "confidence": 0.729,
+        "log_sd": 0.34,
+        "confidence": 0.812,
         "observed": 1.05,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 10.01,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 0.469,
           "momentum_adj": -0.373,
-          "velocity_proj": 1.98
+          "velocity_proj": 1.53
         }
       },
       "sNII": {
         "category": "sNII",
-        "median": 2.0,
-        "mean": 2.14,
-        "p10": 1.27,
-        "p90": 3.16,
+        "median": 1.62,
+        "mean": 1.68,
+        "p10": 1.12,
+        "p90": 2.33,
         "ci80": [
-          1.27,
-          3.16
+          1.12,
+          2.33
         ],
-        "log_sd": 0.356,
-        "confidence": 0.798,
+        "log_sd": 0.284,
+        "confidence": 0.861,
         "observed": 0.31,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 13.35,
         "drivers": {
           "size_small": 0.48,
           "day1_retail": 0.469,
           "momentum_adj": -0.373,
-          "velocity_proj": 0.56
+          "velocity_proj": 0.44
         }
       }
     },
@@ -778,13 +778,13 @@
       "symbol": "VNL",
       "name": "Vishal Nirmiti Limited",
       "clock": {
-        "now_ist": "2026-10-01T23:51:33+05:30",
+        "now_ist": "2026-10-02T16:14:09+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-10-05T17:00+05:30",
         "submit_by": "2026-10-05T16:00+05:30",
         "mandate_by": "2026-10-05T16:40+05:30",
-        "countdown": "89h 08m",
+        "countdown": "72h 45m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -800,16 +800,16 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 89h 08m"
+          "time to cut-off: 72h 45m"
         ]
       },
       "alerts": [],
       "max_level": "INFO"
     },
     "weights_used": {
-      "demand": 12.0,
-      "valuation": 21.8,
-      "financials": 24.2
+      "demand": 15.7,
+      "valuation": 20.1,
+      "financials": 22.3
     },
     "valuation": {
       "sector_key": "unclassified",
@@ -849,7 +849,7 @@
         "yield_change_bp": 11.1,
         "spread_change_bp": 100.4,
         "index_change_pct": -0.88,
-        "baseline_days": 74,
+        "baseline_days": 76,
         "drivers": [
           "credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))",
           "NIFTY 50 -0.88% - risk-off tape"
@@ -880,8 +880,8 @@
   },
   {
     "symbol": "EVENTIONS",
-    "ts": "2026-10-01T23:50:14",
-    "score": 51.5,
+    "ts": "2026-10-02T16:13:16",
+    "score": 52.3,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - moderate upside",
     "stance_longterm": "average - no strong long-term case",
@@ -1027,13 +1027,13 @@
       "symbol": "EVENTIONS",
       "name": "Eventions Limited",
       "clock": {
-        "now_ist": "2026-10-01T23:50:14+05:30",
+        "now_ist": "2026-10-02T16:13:16+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-10-05T17:00+05:30",
         "submit_by": "2026-10-05T16:00+05:30",
         "mandate_by": "2026-10-05T16:40+05:30",
-        "countdown": "89h 09m",
+        "countdown": "72h 46m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -1049,16 +1049,16 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 89h 09m"
+          "time to cut-off: 72h 46m"
         ]
       },
       "alerts": [],
       "max_level": "INFO"
     },
     "weights_used": {
-      "demand": 12.0,
-      "valuation": 21.8,
-      "financials": 24.2
+      "demand": 15.7,
+      "valuation": 20.1,
+      "financials": 22.3
     },
     "valuation": {
       "sector_key": "unclassified",
@@ -1097,7 +1097,7 @@
         "yield_change_bp": 11.1,
         "spread_change_bp": 100.4,
         "index_change_pct": -0.88,
-        "baseline_days": 74,
+        "baseline_days": 76,
         "drivers": [
           "credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))",
           "NIFTY 50 -0.88% - risk-off tape"
@@ -1128,7 +1128,7 @@
   },
   {
     "symbol": "SMCG04",
-    "ts": "2026-10-01T23:51:53",
+    "ts": "2026-10-02T16:14:23",
     "score": 49.9,
     "grade": "AVOID",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -1275,13 +1275,13 @@
       "symbol": "SMCG04",
       "name": "SMC Global Securities Limited",
       "clock": {
-        "now_ist": "2026-10-01T23:51:53+05:30",
+        "now_ist": "2026-10-02T16:14:23+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-10-16T17:00+05:30",
         "submit_by": "2026-10-16T16:00+05:30",
         "mandate_by": "2026-10-16T16:40+05:30",
-        "countdown": "353h 08m",
+        "countdown": "336h 45m",
         "source": "close date + 17:00 IST"
       },
       "spikes": {},
@@ -1297,7 +1297,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 16 Oct 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 353h 08m"
+          "time to cut-off: 336h 45m"
         ]
       },
       "alerts": [],
@@ -1345,7 +1345,7 @@
         "yield_change_bp": 11.1,
         "spread_change_bp": 100.4,
         "index_change_pct": -0.88,
-        "baseline_days": 74,
+        "baseline_days": 76,
         "drivers": [
           "credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))",
           "NIFTY 50 -0.88% - risk-off tape"

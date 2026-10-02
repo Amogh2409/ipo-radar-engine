@@ -1,6 +1,6 @@
 # Nityas Gems and Jewellery Limited (NITYAS)
 
-**NEUTRAL** · score **60/100** · confidence 50%
+**NEUTRAL** · score **59/100** · confidence 52%
 
 ## Issue
 
@@ -27,14 +27,14 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| EMPLOYEE | 100,000 | 94,800 | 0.95x | 2.97x |
-| NII | 2,153,400 | 587,600 | 0.27x | 4.23x |
-| QIB | 7,178,000 | 2,716,200 | 0.38x | 8.89x |
-| RETAIL | 5,024,600 | 6,569,400 | 1.31x | 4.53x |
-| bNII | 1,435,600 | 236,400 | 0.16x | 3.83x |
-| sNII | 717,800 | 351,200 | 0.49x | 4.87x |
+| EMPLOYEE | 100,000 | 94,800 | 0.95x | 2.49x |
+| NII | 2,153,400 | 587,600 | 0.27x | 2.65x |
+| QIB | 7,178,000 | 2,716,200 | 0.38x | 5.74x |
+| RETAIL | 5,024,600 | 6,569,400 | 1.31x | 3.81x |
+| bNII | 1,435,600 | 236,400 | 0.16x | 2.25x |
+| sNII | 717,800 | 351,200 | 0.49x | 3.29x |
 
-Grey market premium: **₹5** (+6.7%) via ipowatch
+Grey market premium: **₹3** (+4.0%) via ipowatch
 
 ## Demand — posterior view
 
@@ -42,28 +42,28 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| EMPLOYEE | 0.95x | **2.97x** | 2.21x – 3.99x | 90% |
-| NII | 0.27x | **4.23x** | 2.55x – 7.01x | 76% |
-| QIB | 0.38x | **8.89x** | 4.42x – 17.87x | 63% |
-| RETAIL | 1.31x | **4.53x** | 3.50x – 5.87x | 92% |
-| bNII | 0.16x | **3.83x** | 2.20x – 6.65x | 73% |
-| sNII | 0.49x | **4.87x** | 3.09x – 7.69x | 80% |
+| EMPLOYEE | 0.95x | **2.49x** | 1.93x – 3.20x | 93% |
+| NII | 0.27x | **2.65x** | 1.77x – 3.94x | 84% |
+| QIB | 0.38x | **5.74x** | 3.38x – 9.75x | 74% |
+| RETAIL | 1.31x | **3.81x** | 3.04x – 4.79x | 94% |
+| bNII | 0.16x | **2.25x** | 1.45x – 3.47x | 81% |
+| sNII | 0.49x | **3.29x** | 2.29x – 4.73x | 86% |
 
-_Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — demand earns influence as the book fills._
+_Score weighting right now: demand 15.7%, valuation 20.1%, financials 22.3% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+12.5%**
-- Likely range: -2.3% to +27.3%
-- Probability of a positive listing: **80%**
+- Central estimate: **+9.6%**
+- Likely range: -3.0% to +22.3%
+- Probability of a positive listing: **78%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹15,000 | lottery | 30.8% | 62 |
-| RETAIL | 13 | ₹195,000 | lottery | 30.8% | 62 |
-| sNII | 14 | ₹210,000 | proportionate | 100.0% | 400 |
+| RETAIL | 1 | ₹15,000 | lottery | 34.8% | 70 |
+| RETAIL | 13 | ₹195,000 | lottery | 34.8% | 70 |
+| sNII | 14 | ₹210,000 | proportionate | 100.0% | 800 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -76,12 +76,12 @@ _Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — 
 
 ## Execution
 
-- Phase: **early**, 89h 09m to the UPI mandate cut-off
+- Phase: **early**, 72h 46m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-05T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 89h 09m
+  - time to cut-off: 72h 46m
 
 ## Why it scores where it does
 
@@ -94,4 +94,4 @@ _Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — 
 - recent IPOs listed +12.2% on average
 
 ---
-*Generated 01 Oct 2026 23:51 by IPO Radar. Analysis only — not investment advice.*
+*Generated 02 Oct 2026 16:14 by IPO Radar. Analysis only — not investment advice.*
