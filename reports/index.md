@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_02 Oct 2026 16:14_
+_02 Oct 2026 23:16_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -8,10 +8,10 @@ _02 Oct 2026 16:14_
 
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
-| [NITYAS](NITYAS.md) | 2026-10-05 | 59 | NEUTRAL | +9.6% | 35% |
+| [NITYAS](NITYAS.md) | 2026-10-05 | 59 | NEUTRAL | +9.2% | 38% |
 | [RKFAL](RKFAL.md) | 2026-10-07 | 59 | NEUTRAL | +11.9% | — |
-| [VNL](VNL.md) | 2026-10-05 | 52 | NEUTRAL | +14.3% | 100% |
 | [EVENTIONS](EVENTIONS.md) | 2026-10-05 | 52 | NEUTRAL | +11.0% | — |
+| [VNL](VNL.md) | 2026-10-05 | 52 | NEUTRAL | +13.4% | 100% |
 | [SMCG04](SMCG04.md) | 2026-10-16 | 50 | AVOID | +31.0% | — |
 
 ## Closed and listed
