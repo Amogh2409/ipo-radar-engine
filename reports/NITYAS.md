@@ -27,12 +27,12 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| EMPLOYEE | 100,000 | 94,800 | 0.95x | 1.93x |
-| NII | 2,153,400 | 587,600 | 0.27x | 1.43x |
-| QIB | 7,178,000 | 2,716,200 | 0.38x | 3.91x |
-| RETAIL | 5,024,600 | 6,569,400 | 1.31x | 2.93x |
-| bNII | 1,435,600 | 236,400 | 0.16x | 1.31x |
-| sNII | 717,800 | 351,200 | 0.49x | 1.96x |
+| EMPLOYEE | 100,000 | 94,800 | 0.95x | 1.79x |
+| NII | 2,153,400 | 587,600 | 0.27x | 1.24x |
+| QIB | 7,178,000 | 2,716,200 | 0.38x | 2.81x |
+| RETAIL | 5,024,600 | 6,569,400 | 1.31x | 2.69x |
+| bNII | 1,435,600 | 236,400 | 0.16x | 0.96x |
+| sNII | 717,800 | 351,200 | 0.49x | 1.72x |
 
 Grey market premium: **₹3** (+4.0%) via ipowatch
 
@@ -42,28 +42,28 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| EMPLOYEE | 0.95x | **1.93x** | 1.58x – 2.36x | 95% |
-| NII | 0.27x | **1.43x** | 1.08x – 1.89x | 91% |
-| QIB | 0.38x | **3.91x** | 2.69x – 5.68x | 86% |
-| RETAIL | 1.31x | **2.93x** | 2.43x – 3.53x | 96% |
-| bNII | 0.16x | **1.31x** | 0.96x – 1.79x | 89% |
-| sNII | 0.49x | **1.96x** | 1.52x – 2.54x | 92% |
+| EMPLOYEE | 0.95x | **1.79x** | 1.50x – 2.14x | 96% |
+| NII | 0.27x | **1.24x** | 0.97x – 1.58x | 93% |
+| QIB | 0.38x | **2.81x** | 2.07x – 3.83x | 90% |
+| RETAIL | 1.31x | **2.69x** | 2.27x – 3.19x | 97% |
+| bNII | 0.16x | **0.96x** | 0.74x – 1.25x | 92% |
+| sNII | 0.49x | **1.72x** | 1.37x – 2.16x | 94% |
 
-_Score weighting right now: demand 19.1%, valuation 18.4%, financials 20.5% — demand earns influence as the book fills._
+_Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+8.2%**
-- Likely range: -3.1% to +19.5%
-- Probability of a positive listing: **77%**
+- Central estimate: **+7.4%**
+- Likely range: -3.3% to +18.1%
+- Probability of a positive listing: **76%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹15,000 | lottery | 45.3% | 91 |
-| RETAIL | 13 | ₹195,000 | lottery | 45.3% | 91 |
-| sNII | 14 | ₹210,000 | proportionate | 100.0% | 1,400 |
+| RETAIL | 1 | ₹15,000 | lottery | 49.3% | 99 |
+| RETAIL | 13 | ₹195,000 | lottery | 49.3% | 99 |
+| sNII | 14 | ₹210,000 | proportionate | 100.0% | 1,600 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
@@ -76,12 +76,12 @@ _Score weighting right now: demand 19.1%, valuation 18.4%, financials 20.5% — 
 
 ## Execution
 
-- Phase: **early**, 49h 27m to the UPI mandate cut-off
+- Phase: **early**, 43h 25m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-05T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 49h 27m
+  - time to cut-off: 43h 25m
 
 ## Why it scores where it does
 
@@ -94,4 +94,4 @@ _Score weighting right now: demand 19.1%, valuation 18.4%, financials 20.5% — 
 - recent IPOs listed +12.2% on average
 
 ---
-*Generated 03 Oct 2026 15:33 by IPO Radar. Analysis only — not investment advice.*
+*Generated 03 Oct 2026 21:35 by IPO Radar. Analysis only — not investment advice.*
