@@ -27,11 +27,11 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| NII | 2,456,635 | 1,975,196 | 0.80x | 2.14x |
-| QIB | 84,710 | 80,920 | 0.96x | 4.09x |
-| RETAIL | 5,929,808 | 2,779,092 | 0.47x | 0.78x |
-| bNII | 1,637,757 | 1,723,120 | 1.05x | 3.18x |
-| sNII | 818,878 | 252,076 | 0.31x | 0.73x |
+| NII | 2,456,635 | 1,975,196 | 0.80x | 1.79x |
+| QIB | 84,710 | 80,920 | 0.96x | 3.07x |
+| RETAIL | 5,929,808 | 2,779,092 | 0.47x | 0.71x |
+| bNII | 1,637,757 | 1,723,120 | 1.05x | 2.61x |
+| sNII | 818,878 | 252,076 | 0.31x | 0.62x |
 
 Grey market premium: **₹20** (+9.1%) via ipowatch
 
@@ -41,18 +41,18 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| NII | 0.80x | **2.14x** | 1.73x – 2.64x | 95% |
-| QIB | 0.96x | **4.09x** | 3.20x – 5.22x | 93% |
-| RETAIL | 0.47x | **0.78x** | 0.65x – 0.92x | 96% |
-| bNII | 1.05x | **3.18x** | 2.54x – 3.98x | 94% |
-| sNII | 0.31x | **0.73x** | 0.59x – 0.89x | 95% |
+| NII | 0.80x | **1.79x** | 1.50x – 2.15x | 96% |
+| QIB | 0.96x | **3.07x** | 2.50x – 3.75x | 95% |
+| RETAIL | 0.47x | **0.71x** | 0.61x – 0.83x | 97% |
+| bNII | 1.05x | **2.61x** | 2.16x – 3.15x | 96% |
+| sNII | 0.31x | **0.62x** | 0.52x – 0.74x | 96% |
 
-_Score weighting right now: demand 23.2%, valuation 16.5%, financials 18.3% — demand earns influence as the book fills._
+_Score weighting right now: demand 23.6%, valuation 16.3%, financials 18.1% — demand earns influence as the book fills._
 
 ## Listing expectation
 
 - Central estimate: **+0.0%**
-- Likely range: -11.2% to +0.0%
+- Likely range: -10.7% to +0.0%
 - Probability of a positive listing: **0%**
 
 ## Allotment odds
@@ -72,12 +72,12 @@ _Score weighting right now: demand 23.2%, valuation 16.5%, financials 18.3% — 
 
 ## Execution
 
-- Phase: **early**, 24h 43m to the UPI mandate cut-off
+- Phase: **early**, 18h 44m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-05T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 05 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 24h 43m
+  - time to cut-off: 18h 44m
 
 ## Why it scores where it does
 
@@ -90,7 +90,7 @@ _Score weighting right now: demand 23.2%, valuation 16.5%, financials 18.3% — 
 
 ## Risks
 
-- DEMAND COLLAPSE - total book 0.57x with 82% of the window gone; the market has declined this issue
+- DEMAND COLLAPSE - total book 0.57x with 83% of the window gone; the market has declined this issue
 
 ---
-*Generated 04 Oct 2026 16:16 by IPO Radar. Analysis only — not investment advice.*
+*Generated 04 Oct 2026 22:15 by IPO Radar. Analysis only — not investment advice.*
