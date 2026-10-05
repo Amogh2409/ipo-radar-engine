@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_05 Oct 2026 17:19_
+_06 Oct 2026 02:08_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -9,9 +9,6 @@ _05 Oct 2026 17:19_
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
 | [RKFAL](RKFAL.md) | 2026-10-07 | 61 | NEUTRAL | +11.9% | — |
-| [NITYAS](NITYAS.md) | 2026-10-05 | 58 | NEUTRAL | +6.4% | 38% |
-| [EVENTIONS](EVENTIONS.md) | 2026-10-05 | 56 | NEUTRAL | +11.0% | — |
-| [VNL](VNL.md) | 2026-10-05 | 52 | NEUTRAL | +7.0% | 87% |
 | [SMCG04](SMCG04.md) | 2026-10-16 | 51 | NEUTRAL | +31.0% | — |
 
 ## Closed and listed
@@ -20,6 +17,9 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 
 | IPO | Closed | Issue price | Our call | Predicted | Listed | Listing price | Listing gain | Current price | Now vs issue |
 |---|---|---|---|---|---|---|---|---|---|
+| [EVENTIONS](EVENTIONS.md) | 2026-10-05 | ₹118.00 | NEUTRAL | +11.0% | awaiting | — | — | — | — |
+| [NITYAS](NITYAS.md) | 2026-10-05 | ₹75.00 | NEUTRAL | +6.4% | awaiting | — | — | — | — |
+| [VNL](VNL.md) | 2026-10-05 | ₹220.00 | NEUTRAL | +7.0% | awaiting | — | — | — | — |
 | [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | ₹167.00 | NEUTRAL | +19.3% | awaiting | — | — | — | — |
 | [SRIT](SRIT.md) | 2026-09-30 | ₹130.00 | STRONG APPLY | +35.2% | awaiting | — | — | — | — |
 | [ACEVECTOR](ACEVECTOR.md) | 2026-09-29 | ₹32.00 | AVOID | +7.6% | 2026-10-05 | ₹28.32 | -11.5% | ₹26.08 | -18.5% |
