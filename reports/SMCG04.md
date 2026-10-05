@@ -1,6 +1,6 @@
 # SMC Global Securities Limited (SMCG04)
 
-**AVOID** · score **50/100** · confidence 28%
+**NEUTRAL** · score **51/100** · confidence 28%
 
 ## Issue
 
@@ -50,19 +50,17 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Macro regime
 
-- India 10y **6.83%** · +11bp vs baseline · spread 2.21pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **62.9/100**, stress 0.31
-  - credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))
-  - NIFTY 50 -0.88% - risk-off tape
+- India 10y **6.86%** · +14bp vs baseline · spread 1.13pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.6/100**, stress 0.03
 
 ## Execution
 
-- Phase: **pre_open**, 282h 44m to the UPI mandate cut-off
+- Phase: **early**, 263h 40m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-16T17:00+05:30 IST** (close date + 17:00 IST)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 16 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 282h 44m
+  - time to cut-off: 263h 40m
 
 ## Why it scores where it does
 
@@ -70,9 +68,7 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - demand still early (22% of the bid window elapsed) - projections are indicative only
 - no GMP observed
 - anchor book could not be read from the RHP
-- credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))
-- NIFTY 50 -0.88% - risk-off tape
-- recent IPOs listed +12.2% on average
+- recent IPOs listed +12.7% on average
 
 ---
-*Generated 04 Oct 2026 22:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 05 Oct 2026 17:19 by IPO Radar. Analysis only — not investment advice.*

@@ -1,6 +1,6 @@
 # R.K. Fashion Accessories Limited (RKFAL)
 
-**NEUTRAL** · score **59/100** · confidence 36%
+**NEUTRAL** · score **61/100** · confidence 36%
 
 ## Issue
 
@@ -41,7 +41,7 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — demand earns influence as the book fills._
 
 ## Listing expectation
 
@@ -56,31 +56,27 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Macro regime
 
-- India 10y **6.83%** · +11bp vs baseline · spread 2.21pp (G-Sec term spread 10y-2y (proxy))
-- Regime score **62.9/100**, stress 0.31
-  - credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))
-  - NIFTY 50 -0.88% - risk-off tape
+- India 10y **6.86%** · +14bp vs baseline · spread 1.13pp (G-Sec term spread 10y-2y (proxy))
+- Regime score **85.6/100**, stress 0.03
 
 ## Execution
 
-- Phase: **pre_open**, 66h 44m to the UPI mandate cut-off
+- Phase: **early**, 47h 40m to the UPI mandate cut-off
 - Mandate cut-off: **2026-10-07T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 07 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 66h 44m
+  - time to cut-off: 47h 40m
 
 ## Why it scores where it does
 
 - RoNW 38.9% - strong returns on capital
-- High-Spread Compounder: RoNW (38.9%) exceeds Cost of Equity (15.9%) by 23.0pp
+- High-Spread Compounder: RoNW (38.9%) exceeds Cost of Equity (16.0%) by 22.9pp
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
 - grey market flat or negative
 - anchor book could not be read from the RHP
-- credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))
-- NIFTY 50 -0.88% - risk-off tape
-- recent IPOs listed +12.2% on average
+- recent IPOs listed +12.7% on average
 
 ---
-*Generated 04 Oct 2026 22:15 by IPO Radar. Analysis only — not investment advice.*
+*Generated 05 Oct 2026 17:19 by IPO Radar. Analysis only — not investment advice.*
