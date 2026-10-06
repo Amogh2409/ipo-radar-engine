@@ -1,33 +1,27 @@
-# R.K. Fashion Accessories Limited (RKFAL)
+# Grace Cancer Foundation - ZCZP (GCFZCZP)
 
-**NEUTRAL** · score **60/100** · confidence 36%
+**NEUTRAL** · score **50/100** · confidence 28%
 
 ## Issue
 
 | | |
 |---|---|
-| Price band | ₹77 – ₹82 |
+| Price band | ₹10 – ₹10 |
 | Lot size | — |
-| Issue size | ₹35 Cr |
-| Dates | 2026-10-05 → 2026-10-07 |
-| Registrar | Cameo Corporate Service Limited |
-| Lead managers | Affinity Global Capital Market Private Limited |
+| Issue size | ₹1 Cr |
+| Dates | 2026-10-07 → 2026-10-09 |
+| Registrar | KFin Technologies Limited |
 
 ## Valuation
 
 | Metric | Value |
 |---|---|
-| P/B at cap price | 5.71x |
-| RoNW (latest FY) | 38.90% |
-| NAV per share | ₹14.37 |
 
-_Valuation basis: P/E only - lenders are valued on book and returns, not EBITDA._
+_Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 ## Demand
 
 _No bidding data yet._
-
-Grey market premium: **₹0** (+0.0%) via ipowatch
 
 ## Demand — posterior view
 
@@ -41,13 +35,13 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.1% — demand earns influence as the book fills._
+_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+11.9%**
-- Likely range: -8.0% to +31.9%
-- Probability of a positive listing: **72%**
+- Central estimate: **+31.5%**
+- Likely range: -2.1% to +65.2%
+- Probability of a positive listing: **83%**
 
 ## Allotment odds
 
@@ -62,20 +56,18 @@ _Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.1% — 
 
 ## Execution
 
-- Phase: **early**, 24h 01m to the UPI mandate cut-off
-- Mandate cut-off: **2026-10-07T17:00+05:30 IST** (NSE issue circular)
+- Phase: **pre_open**, 72h 01m to the UPI mandate cut-off
+- Mandate cut-off: **2026-10-09T17:00+05:30 IST** (close date + 17:00 IST)
 - Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 07 Oct 17:00 IST.
+- Decide from 14:00 IST on the closing day; mandate cut-off 09 Oct 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 24h 01m
+  - time to cut-off: 72h 01m
 
 ## Why it scores where it does
 
-- RoNW 38.9% - strong returns on capital
-- High-Spread Compounder: RoNW (38.9%) exceeds Cost of Equity (15.9%) by 23.0pp
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- grey market flat or negative
+- no GMP observed
 - anchor book could not be read from the RHP
 - credit spread +100bp wider (G-Sec term spread 10y-2y (proxy))
 - recent IPOs listed +12.2% on average
