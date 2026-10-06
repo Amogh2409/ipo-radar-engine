@@ -1,7 +1,7 @@
 [
   {
     "symbol": "RKFAL",
-    "ts": "2026-10-06T16:58:58",
+    "ts": "2026-10-06T23:41:42",
     "score": 60.3,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - moderate upside",
@@ -149,13 +149,13 @@
       "symbol": "RKFAL",
       "name": "R.K. Fashion Accessories Limited",
       "clock": {
-        "now_ist": "2026-10-06T16:58:58+05:30",
+        "now_ist": "2026-10-06T23:41:42+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-10-07T17:00+05:30",
         "submit_by": "2026-10-07T16:00+05:30",
         "mandate_by": "2026-10-07T16:40+05:30",
-        "countdown": "24h 01m",
+        "countdown": "17h 18m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -171,7 +171,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 07 Oct 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 24h 01m"
+          "time to cut-off: 17h 18m"
         ]
       },
       "alerts": [],
@@ -180,7 +180,7 @@
     "weights_used": {
       "demand": 19.9,
       "valuation": 18.0,
-      "financials": 20.1
+      "financials": 20.0
     },
     "valuation": {
       "sector_key": "internet",
@@ -251,7 +251,7 @@
   },
   {
     "symbol": "SMCG04",
-    "ts": "2026-10-06T16:58:58",
+    "ts": "2026-10-06T23:41:42",
     "score": 51.0,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -397,13 +397,13 @@
       "symbol": "SMCG04",
       "name": "SMC Global Securities Limited",
       "clock": {
-        "now_ist": "2026-10-06T16:58:58+05:30",
+        "now_ist": "2026-10-06T23:41:42+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-10-16T17:00+05:30",
         "submit_by": "2026-10-16T16:00+05:30",
         "mandate_by": "2026-10-16T16:40+05:30",
-        "countdown": "240h 01m",
+        "countdown": "233h 18m",
         "source": "close date + 17:00 IST"
       },
       "spikes": {},
@@ -419,7 +419,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 16 Oct 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 240h 01m"
+          "time to cut-off: 233h 18m"
         ]
       },
       "alerts": [],
@@ -497,7 +497,7 @@
   },
   {
     "symbol": "GCFZCZP",
-    "ts": "2026-10-06T16:58:58",
+    "ts": "2026-10-06T23:41:42",
     "score": 50.5,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -643,13 +643,13 @@
       "symbol": "GCFZCZP",
       "name": "Grace Cancer Foundation - ZCZP",
       "clock": {
-        "now_ist": "2026-10-06T16:58:58+05:30",
+        "now_ist": "2026-10-06T23:41:42+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-10-09T17:00+05:30",
         "submit_by": "2026-10-09T16:00+05:30",
         "mandate_by": "2026-10-09T16:40+05:30",
-        "countdown": "72h 01m",
+        "countdown": "65h 18m",
         "source": "close date + 17:00 IST"
       },
       "spikes": {},
@@ -665,7 +665,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 09 Oct 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 72h 01m"
+          "time to cut-off: 65h 18m"
         ]
       },
       "alerts": [],
