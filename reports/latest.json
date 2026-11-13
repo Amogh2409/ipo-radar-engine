@@ -1,7 +1,7 @@
 [
   {
     "symbol": "CRYSTALCROPPROTECTIO",
-    "ts": "2026-11-13T18:03:29",
+    "ts": "2026-11-14T00:58:41",
     "score": 49.3,
     "grade": "AVOID",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -189,13 +189,13 @@
       "symbol": "CRYSTALCROPPROTECTIO",
       "name": "Crystal Crop Protection Ltd.",
       "clock": {
-        "now_ist": "2026-11-13T18:03:29+05:30",
+        "now_ist": "2026-11-14T00:58:41+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-11-20T17:00+05:30",
         "submit_by": "2026-11-20T16:00+05:30",
         "mandate_by": "2026-11-20T16:40+05:30",
-        "countdown": "166h 56m",
+        "countdown": "160h 01m",
         "source": "close date + 17:00 IST"
       },
       "spikes": {},
@@ -211,7 +211,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 166h 56m"
+          "time to cut-off: 160h 01m"
         ]
       },
       "alerts": [],
