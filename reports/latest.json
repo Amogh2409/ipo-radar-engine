@@ -1,1 +1,273 @@
-[]
+[
+  {
+    "symbol": "CRYSTALCROPPROTECTIO",
+    "ts": "2026-11-13T18:03:29",
+    "score": 49.3,
+    "grade": "AVOID",
+    "stance_listing": "apply for listing gains - attractive risk/reward",
+    "stance_longterm": "average - no strong long-term case",
+    "confidence": 0.28,
+    "factors": {
+      "valuation": 45.0,
+      "financials": 45.0,
+      "demand": 68.0,
+      "gmp": 50.0,
+      "structure": 55.0,
+      "regime": 59.0,
+      "qualitative": 50.0
+    },
+    "reasons": [
+      "institutional book strong at 12.9x projected QIB",
+      "demand still early (22% of the bid window elapsed) - projections are indicative only",
+      "no GMP observed",
+      "anchor book could not be read from the RHP",
+      "recent IPOs listed +8.1% on average"
+    ],
+    "risks": [],
+    "expected_listing_gain_pct": 28.7,
+    "listing_gain_range": [
+      -3.0,
+      60.3
+    ],
+    "p_positive_listing": 0.817,
+    "allotment": {
+      "RETAIL:1": {
+        "category": "RETAIL",
+        "subscription_x": 6.464297608771573,
+        "lots_applied": 1,
+        "ticket_value": 14960.0,
+        "p_single": 0.18563501754184228,
+        "expected_lots": 0.18563501754184228,
+        "p_any_multi": 0.1856350175418423,
+        "expected_lots_multi": 0.18563501754184228,
+        "mechanism": "lottery",
+        "max_allottees": null,
+        "est_applications": null,
+        "note": "lottery for 1 lot; ~1.20 mean lots/application against 6.46x"
+      },
+      "RETAIL:13": {
+        "category": "RETAIL",
+        "subscription_x": 6.464297608771573,
+        "lots_applied": 13,
+        "ticket_value": 194480.0,
+        "p_single": 0.18563501754184228,
+        "expected_lots": 0.18563501754184228,
+        "p_any_multi": 0.1856350175418423,
+        "expected_lots_multi": 0.18563501754184228,
+        "mechanism": "lottery",
+        "max_allottees": null,
+        "est_applications": null,
+        "note": "lottery for 1 lot; ~1.20 mean lots/application against 6.46x"
+      },
+      "sNII:14": {
+        "category": "sNII",
+        "subscription_x": 19.39289282631472,
+        "lots_applied": 14,
+        "ticket_value": 209440.0,
+        "p_single": 0.7219139571071643,
+        "expected_lots": 0.7219139571071643,
+        "p_any_multi": 0.7219139571071643,
+        "expected_lots_multi": 0.7219139571071643,
+        "mechanism": "lottery",
+        "max_allottees": null,
+        "est_applications": null,
+        "note": "lottery for 1 lot; ~14.00 mean lots/application against 19.39x"
+      }
+    },
+    "projected_subscription": {
+      "QIB": 12.93,
+      "NII": 16.16,
+      "sNII": 19.39,
+      "bNII": 14.54,
+      "RETAIL": 6.46
+    },
+    "llm": {},
+    "posteriors": {
+      "QIB": {
+        "category": "QIB",
+        "median": 12.93,
+        "mean": 36.99,
+        "p10": 2.02,
+        "p90": 82.9,
+        "ci80": [
+          2.02,
+          82.9
+        ],
+        "log_sd": 1.45,
+        "confidence": 0.192,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 12.93,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "NII": {
+        "category": "NII",
+        "median": 16.16,
+        "mean": 49.78,
+        "p10": 2.36,
+        "p90": 110.49,
+        "ci80": [
+          2.36,
+          110.49
+        ],
+        "log_sd": 1.5,
+        "confidence": 0.182,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 16.16,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "sNII": {
+        "category": "sNII",
+        "median": 19.39,
+        "mean": 59.73,
+        "p10": 2.84,
+        "p90": 132.59,
+        "ci80": [
+          2.84,
+          132.59
+        ],
+        "log_sd": 1.5,
+        "confidence": 0.182,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 19.39,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "bNII": {
+        "category": "bNII",
+        "median": 14.54,
+        "mean": 48.35,
+        "p10": 2.0,
+        "p90": 106.02,
+        "ci80": [
+          2.0,
+          106.02
+        ],
+        "log_sd": 1.55,
+        "confidence": 0.172,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 14.54,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "RETAIL": {
+        "category": "RETAIL",
+        "median": 6.46,
+        "mean": 11.22,
+        "p10": 1.68,
+        "p90": 24.83,
+        "ci80": [
+          1.68,
+          24.83
+        ],
+        "log_sd": 1.05,
+        "confidence": 0.312,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 6.46,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      }
+    },
+    "guardrails": {},
+    "tday": {
+      "symbol": "CRYSTALCROPPROTECTIO",
+      "name": "Crystal Crop Protection Ltd.",
+      "clock": {
+        "now_ist": "2026-11-13T18:03:29+05:30",
+        "phase": "pre_open",
+        "is_final_day": false,
+        "cutoff_at": "2026-11-20T17:00+05:30",
+        "submit_by": "2026-11-20T16:00+05:30",
+        "mandate_by": "2026-11-20T16:40+05:30",
+        "countdown": "166h 56m",
+        "source": "close date + 17:00 IST"
+      },
+      "spikes": {},
+      "advice": {
+        "action": "WAIT",
+        "category": null,
+        "lots": null,
+        "shares": null,
+        "capital": null,
+        "bid_price_instruction": "",
+        "p_allot": null,
+        "expected_profit": null,
+        "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.",
+        "rationale": [
+          "QIB demand lands late - the book is not yet informative enough to commit against",
+          "time to cut-off: 166h 56m"
+        ]
+      },
+      "alerts": [],
+      "max_level": "INFO"
+    },
+    "weights_used": {
+      "demand": 5.0,
+      "valuation": 25.1,
+      "financials": 27.9
+    },
+    "valuation": {
+      "sector_key": "unclassified",
+      "capital_intensity": 0.45,
+      "ev_status": "missing EPS or PAT",
+      "pe": null,
+      "pb": null,
+      "ronw_pct": null,
+      "loss_making": false,
+      "eps_cagr_pct": null,
+      "benchmark_pe": 24.0,
+      "benchmark_source": "sector heuristic",
+      "pe_vs_benchmark": null,
+      "pe_score": 45.0,
+      "ev_weight": 0.0,
+      "valuation_basis": "P/E only - EV/EBITDA unavailable (missing EPS or PAT)",
+      "valuation_score": 45.0,
+      "valuation_score_raw": 45.0,
+      "risk_free_pct": 6.75,
+      "beta": 1.07,
+      "risk_free_source": "fallback assumption",
+      "cash_conversion_status": "CFO not disclosed in parsed sections",
+      "cost_of_equity_pct": 13.74,
+      "eva_verdict": "unknown",
+      "eva_note": "RoNW not available - EVA gate not applied",
+      "quality_score": 45.0,
+      "quality_score_raw": 45.0
+    },
+    "regime": {
+      "recent_listing_avg_pct": 8.1,
+      "recent_listing_n": 21
+    },
+    "anchors": {
+      "total": 0,
+      "compounders": [],
+      "flippers": [],
+      "neutral": [],
+      "compounder_ratio": 0.0,
+      "flipper_ratio": 0.0,
+      "quality_score": 50.0,
+      "overhang_risk": "UNKNOWN",
+      "flags": [
+        "anchor book could not be read from the RHP"
+      ],
+      "dropped": 0,
+      "day30": {}
+    },
+    "veto": {}
+  }
+]
