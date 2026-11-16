@@ -1,35 +1,41 @@
 [
   {
-    "symbol": "CRYSTALCROPPROTECTIO",
-    "ts": "2026-11-14T00:58:41",
-    "score": 49.3,
-    "grade": "AVOID",
-    "stance_listing": "apply for listing gains - attractive risk/reward",
-    "stance_longterm": "average - no strong long-term case",
-    "confidence": 0.28,
+    "symbol": "CRYSTALCP",
+    "ts": "2026-11-16T18:36:39",
+    "score": 51.0,
+    "grade": "NEUTRAL",
+    "stance_listing": "not worth the blocked capital - fails its cost of capital and the flip bar was not met",
+    "stance_longterm": "AVOID - Value Trap: Fails to earn its Cost of Capital. Do not hold post-listing.",
+    "confidence": 0.36,
     "factors": {
-      "valuation": 45.0,
-      "financials": 45.0,
+      "valuation": 54.2,
+      "financials": 39.1,
       "demand": 68.0,
       "gmp": 50.0,
-      "structure": 55.0,
+      "structure": 65.0,
       "regime": 59.0,
       "qualitative": 50.0
     },
     "reasons": [
+      "EPS CAGR +28%",
       "institutional book strong at 12.9x projected QIB",
       "demand still early (22% of the bid window elapsed) - projections are indicative only",
       "no GMP observed",
+      "mostly fresh capital (75%) into the business",
       "anchor book could not be read from the RHP",
       "recent IPOs listed +8.1% on average"
     ],
-    "risks": [],
-    "expected_listing_gain_pct": 28.7,
-    "listing_gain_range": [
-      -3.0,
-      60.3
+    "risks": [
+      "Score capped at 59 - a business earning below its cost of capital cannot be an APPLY for long-term capital",
+      "RoNW 7.1% - modest returns on capital",
+      "Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)"
     ],
-    "p_positive_listing": 0.817,
+    "expected_listing_gain_pct": 28.9,
+    "listing_gain_range": [
+      -2.9,
+      60.7
+    ],
+    "p_positive_listing": 0.818,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
@@ -186,17 +192,17 @@
     },
     "guardrails": {},
     "tday": {
-      "symbol": "CRYSTALCROPPROTECTIO",
-      "name": "Crystal Crop Protection Ltd.",
+      "symbol": "CRYSTALCP",
+      "name": "Crystal Crop Protection Limited",
       "clock": {
-        "now_ist": "2026-11-14T00:58:41+05:30",
+        "now_ist": "2026-11-16T18:36:39+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-11-20T17:00+05:30",
         "submit_by": "2026-11-20T16:00+05:30",
         "mandate_by": "2026-11-20T16:40+05:30",
-        "countdown": "160h 01m",
-        "source": "close date + 17:00 IST"
+        "countdown": "94h 23m",
+        "source": "NSE issue circular"
       },
       "spikes": {},
       "advice": {
@@ -211,7 +217,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 160h 01m"
+          "time to cut-off: 94h 23m"
         ]
       },
       "alerts": [],
@@ -225,29 +231,313 @@
     "valuation": {
       "sector_key": "unclassified",
       "capital_intensity": 0.45,
-      "ev_status": "missing EPS or PAT",
-      "pe": null,
-      "pb": null,
-      "ronw_pct": null,
+      "ev_scale_assumed": "Rs million",
+      "ronw_implied_pct": 7.14,
+      "offer_pct_of_mcap": 14.7,
+      "shares_outstanding": 118795276,
+      "net_worth_cr": 1901.1,
+      "net_debt_source": "net-debt-to-equity x net worth",
+      "market_cap_cr": 3231.2,
+      "net_debt_cr": 779.4,
+      "enterprise_value_cr": 4010.7,
+      "ev_status": "ok",
+      "ebitda_cr": 241.8,
+      "ev_ebitda": 16.59,
+      "pe": 24.59,
+      "pb": 1.7,
+      "ronw_pct": 7.14,
       "loss_making": false,
-      "eps_cagr_pct": null,
+      "eps_cagr_pct": 27.601141382243455,
       "benchmark_pe": 24.0,
       "benchmark_source": "sector heuristic",
-      "pe_vs_benchmark": null,
-      "pe_score": 45.0,
-      "ev_weight": 0.0,
-      "valuation_basis": "P/E only - EV/EBITDA unavailable (missing EPS or PAT)",
-      "valuation_score": 45.0,
-      "valuation_score_raw": 45.0,
+      "pe_vs_benchmark": 1.02,
+      "peg": 0.89,
+      "pb_implied_pe": 23.8,
+      "ev_ebitda_benchmark": 13.0,
+      "ev_vs_benchmark": 1.28,
+      "ev_ebitda_score": 43.0,
+      "pe_score": 64.3,
+      "ev_weight": 0.47,
+      "valuation_basis": "52% P/E + 48% EV/EBITDA (unclassified, capital intensity 0.45)",
+      "valuation_score": 54.2,
+      "valuation_score_raw": 54.2,
+      "eps_trend": "rising every year",
       "risk_free_pct": 6.75,
       "beta": 1.07,
       "risk_free_source": "fallback assumption",
-      "cash_conversion_status": "CFO not disclosed in parsed sections",
+      "cfo_cr": 256.4,
+      "cash_conversion": 1.06,
+      "cash_conversion_status": "healthy (106% of EBITDA)",
       "cost_of_equity_pct": 13.74,
-      "eva_verdict": "unknown",
-      "eva_note": "RoNW not available - EVA gate not applied",
-      "quality_score": 45.0,
-      "quality_score_raw": 45.0
+      "eva_spread_pct": -6.6,
+      "post_issue_ronw_pct": 6.02,
+      "post_issue_eva_spread_pct": -7.72,
+      "eva_verdict": "value destroyer",
+      "eva_flag": "Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)",
+      "eva_risk_flags": [
+        "Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)"
+      ],
+      "quality_score": 39.1,
+      "quality_score_raw": 39.1,
+      "implied_pe_note": "24.6x FY2026 diluted EPS"
+    },
+    "regime": {
+      "recent_listing_avg_pct": 8.1,
+      "recent_listing_n": 21
+    },
+    "anchors": {
+      "total": 0,
+      "compounders": [],
+      "flippers": [],
+      "neutral": [],
+      "compounder_ratio": 0.0,
+      "flipper_ratio": 0.0,
+      "quality_score": 50.0,
+      "overhang_risk": "UNKNOWN",
+      "flags": [
+        "anchor book could not be read from the RHP"
+      ],
+      "dropped": 0,
+      "day30": {}
+    },
+    "veto": {
+      "value_trap": true,
+      "speculative_flip": false,
+      "ceiling": 59.0,
+      "cost_of_equity_pct": 13.74,
+      "ronw_pct": 7.14,
+      "eva_spread_pct": -6.6,
+      "projection_confidence": 0.221,
+      "expected_gain_pct": 28.9,
+      "projected_qib_x": 12.928595217543144,
+      "min_gain_pct": 20.0,
+      "min_qib_x": 5.0,
+      "min_composite": 61.0,
+      "composite_before_veto": 51.0,
+      "reason": "Value Trap: RoNW 7.1% is below cost of equity 13.7%; composite capped at 59"
+    }
+  },
+  {
+    "symbol": "WATRANA",
+    "ts": "2026-11-16T18:37:00",
+    "score": 50.1,
+    "grade": "NEUTRAL",
+    "stance_listing": "apply for listing gains - attractive risk/reward",
+    "stance_longterm": "good business, rich price - consider buying post-listing dips",
+    "confidence": 0.36,
+    "factors": {
+      "valuation": 6.4,
+      "financials": 82.8,
+      "demand": 68.0,
+      "gmp": 50.0,
+      "structure": 55.0,
+      "regime": 59.0,
+      "qualitative": 50.0
+    },
+    "reasons": [
+      "RoNW 34.1% - strong returns on capital",
+      "High-Spread Compounder: RoNW (34.1%) exceeds Cost of Equity (15.8%) by 18.2pp",
+      "institutional book strong at 12.9x projected QIB",
+      "demand still early (22% of the bid window elapsed) - projections are indicative only",
+      "no GMP observed",
+      "anchor book could not be read from the RHP",
+      "recent IPOs listed +8.1% on average"
+    ],
+    "risks": [
+      "priced at 81.7x vs 45x benchmark - demanding",
+      "EPS CAGR +19%"
+    ],
+    "expected_listing_gain_pct": 30.3,
+    "listing_gain_range": [
+      -2.5,
+      63.1
+    ],
+    "p_positive_listing": 0.822,
+    "allotment": {},
+    "projected_subscription": {
+      "QIB": 12.93,
+      "NII": 16.16,
+      "sNII": 19.39,
+      "bNII": 14.54,
+      "RETAIL": 6.46
+    },
+    "llm": {},
+    "posteriors": {
+      "QIB": {
+        "category": "QIB",
+        "median": 12.93,
+        "mean": 36.99,
+        "p10": 2.02,
+        "p90": 82.9,
+        "ci80": [
+          2.02,
+          82.9
+        ],
+        "log_sd": 1.45,
+        "confidence": 0.192,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 12.93,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "NII": {
+        "category": "NII",
+        "median": 16.16,
+        "mean": 49.78,
+        "p10": 2.36,
+        "p90": 110.49,
+        "ci80": [
+          2.36,
+          110.49
+        ],
+        "log_sd": 1.5,
+        "confidence": 0.182,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 16.16,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "sNII": {
+        "category": "sNII",
+        "median": 19.39,
+        "mean": 59.73,
+        "p10": 2.84,
+        "p90": 132.59,
+        "ci80": [
+          2.84,
+          132.59
+        ],
+        "log_sd": 1.5,
+        "confidence": 0.182,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 19.39,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "bNII": {
+        "category": "bNII",
+        "median": 14.54,
+        "mean": 48.35,
+        "p10": 2.0,
+        "p90": 106.02,
+        "ci80": [
+          2.0,
+          106.02
+        ],
+        "log_sd": 1.55,
+        "confidence": 0.172,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 14.54,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "RETAIL": {
+        "category": "RETAIL",
+        "median": 6.46,
+        "mean": 11.22,
+        "p10": 1.68,
+        "p90": 24.83,
+        "ci80": [
+          1.68,
+          24.83
+        ],
+        "log_sd": 1.05,
+        "confidence": 0.312,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 6.46,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      }
+    },
+    "guardrails": {},
+    "tday": {
+      "symbol": "WATRANA",
+      "name": "Watrana Rentals Limited",
+      "clock": {
+        "now_ist": "2026-11-16T18:37:00+05:30",
+        "phase": "pre_open",
+        "is_final_day": false,
+        "cutoff_at": "2026-11-23T17:00+05:30",
+        "submit_by": "2026-11-23T16:00+05:30",
+        "mandate_by": "2026-11-23T16:40+05:30",
+        "countdown": "166h 22m",
+        "source": "NSE issue circular"
+      },
+      "spikes": {},
+      "advice": {
+        "action": "WAIT",
+        "category": null,
+        "lots": null,
+        "shares": null,
+        "capital": null,
+        "bid_price_instruction": "",
+        "p_allot": null,
+        "expected_profit": null,
+        "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.",
+        "rationale": [
+          "QIB demand lands late - the book is not yet informative enough to commit against",
+          "time to cut-off: 166h 22m"
+        ]
+      },
+      "alerts": [],
+      "max_level": "INFO"
+    },
+    "weights_used": {
+      "demand": 5.0,
+      "valuation": 25.1,
+      "financials": 27.9
+    },
+    "valuation": {
+      "sector_key": "internet",
+      "capital_intensity": 0.15,
+      "ev_scale_assumed": "Rs million",
+      "ronw_implied_pct": 34.08,
+      "offer_pct_of_mcap": 18.6,
+      "shares_outstanding": 26371095,
+      "net_worth_cr": 225.4,
+      "ev_status": "no debt data",
+      "market_cap_cr": 646.1,
+      "pe": 81.67,
+      "pb": 2.87,
+      "ronw_pct": 34.08,
+      "loss_making": false,
+      "eps_cagr_pct": 19.33633756657107,
+      "benchmark_pe": 45.0,
+      "benchmark_source": "sector heuristic",
+      "pe_vs_benchmark": 1.81,
+      "peg": 4.22,
+      "pb_implied_pe": 8.4,
+      "pe_score": 6.4,
+      "ev_weight": 0.0,
+      "valuation_basis": "P/E only - EV/EBITDA unavailable (no debt data)",
+      "valuation_score": 6.4,
+      "valuation_score_raw": 6.4,
+      "risk_free_pct": 6.75,
+      "beta": 1.4,
+      "risk_free_source": "fallback assumption",
+      "cash_conversion_status": "CFO not disclosed in parsed sections",
+      "cost_of_equity_pct": 15.85,
+      "eva_spread_pct": 18.23,
+      "eva_verdict": "high-spread compounder",
+      "eva_flag": "High-Spread Compounder: RoNW (34.1%) exceeds Cost of Equity (15.8%) by 18.2pp",
+      "quality_score": 82.8,
+      "quality_score_raw": 84.0,
+      "implied_pe_note": "81.7x FY2026 diluted EPS"
     },
     "regime": {
       "recent_listing_avg_pct": 8.1,
