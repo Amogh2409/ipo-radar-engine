@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_17 Nov 2026 19:18_
+_18 Nov 2026 02:14_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 

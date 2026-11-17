@@ -70,12 +70,12 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **pre_open**, 69h 41m to the UPI mandate cut-off
+- Phase: **early**, 62h 45m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-20T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 69h 41m
+  - time to cut-off: 62h 45m
 
 ## Why it scores where it does
 
@@ -94,4 +94,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)
 
 ---
-*Generated 17 Nov 2026 19:18 by IPO Radar. Analysis only — not investment advice.*
+*Generated 18 Nov 2026 02:14 by IPO Radar. Analysis only — not investment advice.*
