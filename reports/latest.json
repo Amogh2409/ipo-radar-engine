@@ -1,7 +1,7 @@
 [
   {
     "symbol": "CRYSTALCP",
-    "ts": "2026-11-17T03:23:47",
+    "ts": "2026-11-17T19:18:13",
     "score": 51.0,
     "grade": "NEUTRAL",
     "stance_listing": "not worth the blocked capital - fails its cost of capital and the flip bar was not met",
@@ -30,12 +30,12 @@
       "RoNW 7.1% - modest returns on capital",
       "Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)"
     ],
-    "expected_listing_gain_pct": 28.9,
+    "expected_listing_gain_pct": 29.3,
     "listing_gain_range": [
-      -2.9,
-      60.7
+      -2.8,
+      61.5
     ],
-    "p_positive_listing": 0.818,
+    "p_positive_listing": 0.819,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
@@ -195,13 +195,13 @@
       "symbol": "CRYSTALCP",
       "name": "Crystal Crop Protection Limited",
       "clock": {
-        "now_ist": "2026-11-17T03:23:47+05:30",
+        "now_ist": "2026-11-17T19:18:13+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-11-20T17:00+05:30",
         "submit_by": "2026-11-20T16:00+05:30",
         "mandate_by": "2026-11-20T16:40+05:30",
-        "countdown": "85h 36m",
+        "countdown": "69h 41m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -217,7 +217,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 85h 36m"
+          "time to cut-off: 69h 41m"
         ]
       },
       "alerts": [],
@@ -233,7 +233,7 @@
       "capital_intensity": 0.45,
       "ev_scale_assumed": "Rs million",
       "ronw_implied_pct": 7.14,
-      "offer_pct_of_mcap": 14.7,
+      "offer_pct_of_mcap": 10.2,
       "shares_outstanding": 118795276,
       "net_worth_cr": 1901.1,
       "net_debt_source": "net-debt-to-equity x net worth",
@@ -308,7 +308,7 @@
       "ronw_pct": 7.14,
       "eva_spread_pct": -6.6,
       "projection_confidence": 0.221,
-      "expected_gain_pct": 28.9,
+      "expected_gain_pct": 29.3,
       "projected_qib_x": 12.928595217543144,
       "min_gain_pct": 20.0,
       "min_qib_x": 5.0,
@@ -319,7 +319,7 @@
   },
   {
     "symbol": "WATRANA",
-    "ts": "2026-11-17T03:24:14",
+    "ts": "2026-11-17T19:18:36",
     "score": 50.1,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -469,13 +469,13 @@
       "symbol": "WATRANA",
       "name": "Watrana Rentals Limited",
       "clock": {
-        "now_ist": "2026-11-17T03:24:14+05:30",
+        "now_ist": "2026-11-17T19:18:36+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-11-23T17:00+05:30",
         "submit_by": "2026-11-23T16:00+05:30",
         "mandate_by": "2026-11-23T16:40+05:30",
-        "countdown": "157h 35m",
+        "countdown": "141h 41m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -491,7 +491,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 157h 35m"
+          "time to cut-off: 141h 41m"
         ]
       },
       "alerts": [],

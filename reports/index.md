@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_17 Nov 2026 03:24_
+_17 Nov 2026 19:18_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -8,7 +8,7 @@ _17 Nov 2026 03:24_
 
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
-| [CRYSTALCP](CRYSTALCP.md) | 2026-11-20 | 51 | NEUTRAL | +28.9% | 19% |
+| [CRYSTALCP](CRYSTALCP.md) | 2026-11-20 | 51 | NEUTRAL | +29.3% | 19% |
 | [WATRANA](WATRANA.md) | 2026-11-23 | 50 | NEUTRAL | +30.3% | — |
 
 ## Closed and listed
@@ -31,19 +31,19 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 | [GCFZCZP](GCFZCZP.md) | 2026-10-09 | ₹10.00 | NEUTRAL | +31.5% | awaiting | — | — | — | — |
 | [RKFAL](RKFAL.md) | 2026-10-07 | ₹82.00 | NEUTRAL | +11.9% | awaiting | — | — | — | — |
 | [EVENTIONS](EVENTIONS.md) | 2026-10-05 | ₹118.00 | NEUTRAL | +11.0% | awaiting | — | — | — | — |
-| [NITYAS](NITYAS.md) | 2026-10-05 | ₹75.00 | NEUTRAL | +6.4% | 2026-11-05 | ₹68.41 | -8.8% | ₹65.70 | -12.4% |
-| [VNL](VNL.md) | 2026-10-05 | ₹220.00 | NEUTRAL | +7.0% | 2026-11-05 | ₹104.79 | -52.4% | ₹118.08 | -46.3% |
-| [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | ₹167.00 | NEUTRAL | +19.3% | 2026-10-06 | ₹171.00 | +2.4% | ₹142.15 | -14.9% |
-| [SRIT](SRIT.md) | 2026-09-30 | ₹130.00 | STRONG APPLY | +35.2% | 2026-10-06 | ₹148.00 | +13.8% | ₹135.93 | +4.6% |
-| [ACEVECTOR](ACEVECTOR.md) | 2026-09-29 | ₹32.00 | AVOID | +7.6% | 2026-10-05 | ₹28.32 | -11.5% | ₹21.21 | -33.7% |
-| [GERMAN](GERMAN.md) | 2026-09-29 | ₹139.00 | APPLY | +18.2% | 2026-10-05 | ₹142.00 | +2.2% | ₹106.78 | -23.2% |
-| [ORIENTCABL](ORIENTCABL.md) | 2026-09-29 | ₹272.00 | STRONG APPLY | +36.2% | 2026-10-05 | ₹450.00 | +65.4% | ₹404.10 | +48.6% |
-| [RUNWALENTR](RUNWALENTR.md) | 2026-09-29 | ₹302.00 | NEUTRAL | +7.4% | 2026-10-05 | ₹305.00 | +1.0% | ₹232.04 | -23.2% |
-| [AONESTEELS](AONESTEELS.md) | 2026-09-28 | ₹405.00 | NEUTRAL | +14.4% | 2026-10-01 | ₹455.00 | +12.3% | ₹478.05 | +18.0% |
-| [MONEYVIEW](MONEYVIEW.md) | 2026-09-28 | ₹34.00 | STRONG APPLY | +41.8% | 2026-10-01 | ₹55.00 | +61.8% | ₹59.11 | +73.9% |
-| [MANIKA](MANIKA.md) | 2026-09-16 | ₹43.00 | APPLY | +27.2% | 2026-09-21 | ₹43.00 | +0.0% | ₹47.27 | +9.9% |
-| [VEEGALAND](VEEGALAND.md) | 2026-09-15 | ₹140.00 | APPLY | +20.5% | 2026-09-18 | ₹154.00 | +10.0% | ₹137.32 | -1.9% |
-| [ARCIL](ARCIL.md) | 2026-09-11 | ₹139.00 | SPECULATIVE FLIP | +23.0% | 2026-09-17 | ₹139.00 | +0.0% | ₹131.68 | -5.3% |
-| [KARAMTARA](KARAMTARA.md) | 2026-09-11 | ₹254.00 | STRONG APPLY | +34.8% | 2026-09-17 | ₹320.00 | +26.0% | ₹369.95 | +45.6% |
-| [LCCPROJECT](LCCPROJECT.md) | 2026-09-11 | ₹146.00 | STRONG APPLY | +34.9% | 2026-09-18 | ₹159.63 | +9.3% | ₹127.94 | -12.4% |
-| [MPIMANIPAL](MPIMANIPAL.md) | 2026-09-11 | ₹339.00 | NEUTRAL | +4.4% | 2026-09-17 | ₹330.00 | -2.7% | ₹319.70 | -5.7% |
+| [NITYAS](NITYAS.md) | 2026-10-05 | ₹75.00 | NEUTRAL | +6.4% | 2026-11-05 | ₹68.41 | -8.8% | ₹64.30 | -14.3% |
+| [VNL](VNL.md) | 2026-10-05 | ₹220.00 | NEUTRAL | +7.0% | 2026-11-05 | ₹104.79 | -52.4% | ₹117.04 | -46.8% |
+| [SHAHINVEST](SHAHINVEST.md) | 2026-09-30 | ₹167.00 | NEUTRAL | +19.3% | 2026-10-06 | ₹171.00 | +2.4% | ₹139.70 | -16.3% |
+| [SRIT](SRIT.md) | 2026-09-30 | ₹130.00 | STRONG APPLY | +35.2% | 2026-10-06 | ₹148.00 | +13.8% | ₹130.11 | +0.1% |
+| [ACEVECTOR](ACEVECTOR.md) | 2026-09-29 | ₹32.00 | AVOID | +7.6% | 2026-10-05 | ₹28.32 | -11.5% | ₹20.85 | -34.8% |
+| [GERMAN](GERMAN.md) | 2026-09-29 | ₹139.00 | APPLY | +18.2% | 2026-10-05 | ₹142.00 | +2.2% | ₹109.72 | -21.1% |
+| [ORIENTCABL](ORIENTCABL.md) | 2026-09-29 | ₹272.00 | STRONG APPLY | +36.2% | 2026-10-05 | ₹450.00 | +65.4% | ₹395.30 | +45.3% |
+| [RUNWALENTR](RUNWALENTR.md) | 2026-09-29 | ₹302.00 | NEUTRAL | +7.4% | 2026-10-05 | ₹305.00 | +1.0% | ₹232.30 | -23.1% |
+| [AONESTEELS](AONESTEELS.md) | 2026-09-28 | ₹405.00 | NEUTRAL | +14.4% | 2026-10-01 | ₹455.00 | +12.3% | ₹469.50 | +15.9% |
+| [MONEYVIEW](MONEYVIEW.md) | 2026-09-28 | ₹34.00 | STRONG APPLY | +41.8% | 2026-10-01 | ₹55.00 | +61.8% | ₹57.93 | +70.4% |
+| [MANIKA](MANIKA.md) | 2026-09-16 | ₹43.00 | APPLY | +27.2% | 2026-09-21 | ₹43.00 | +0.0% | ₹46.81 | +8.9% |
+| [VEEGALAND](VEEGALAND.md) | 2026-09-15 | ₹140.00 | APPLY | +20.5% | 2026-09-18 | ₹154.00 | +10.0% | ₹138.96 | -0.7% |
+| [ARCIL](ARCIL.md) | 2026-09-11 | ₹139.00 | SPECULATIVE FLIP | +23.0% | 2026-09-17 | ₹139.00 | +0.0% | ₹131.50 | -5.4% |
+| [KARAMTARA](KARAMTARA.md) | 2026-09-11 | ₹254.00 | STRONG APPLY | +34.8% | 2026-09-17 | ₹320.00 | +26.0% | ₹365.45 | +43.9% |
+| [LCCPROJECT](LCCPROJECT.md) | 2026-09-11 | ₹146.00 | STRONG APPLY | +34.9% | 2026-09-18 | ₹159.63 | +9.3% | ₹126.17 | -13.6% |
+| [MPIMANIPAL](MPIMANIPAL.md) | 2026-09-11 | ₹339.00 | NEUTRAL | +4.4% | 2026-09-17 | ₹330.00 | -2.7% | ₹321.45 | -5.2% |

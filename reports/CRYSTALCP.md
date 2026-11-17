@@ -8,7 +8,7 @@
 |---|---|
 | Price band | ₹259 – ₹272 |
 | Lot size | 55 shares (₹14,960) |
-| Issue size | ₹474 Cr |
+| Issue size | ₹331 Cr |
 | Dates | 2026-11-18 → 2026-11-20 |
 | Registrar | MUFG Intime India Private Limited |
 | Lead managers | IIFL Capital Services Limited, DAM Capital Advisors Limited, Motilal Oswal Investment Advisors Limited |
@@ -54,8 +54,8 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+28.9%**
-- Likely range: -2.9% to +60.7%
+- Central estimate: **+29.3%**
+- Likely range: -2.8% to +61.5%
 - Probability of a positive listing: **82%**
 
 ## Allotment odds
@@ -70,12 +70,12 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **pre_open**, 85h 36m to the UPI mandate cut-off
+- Phase: **pre_open**, 69h 41m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-20T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 85h 36m
+  - time to cut-off: 69h 41m
 
 ## Why it scores where it does
 
@@ -94,4 +94,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)
 
 ---
-*Generated 17 Nov 2026 03:24 by IPO Radar. Analysis only — not investment advice.*
+*Generated 17 Nov 2026 19:18 by IPO Radar. Analysis only — not investment advice.*
