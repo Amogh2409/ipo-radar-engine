@@ -1,6 +1,6 @@
 # Crystal Crop Protection Limited (CRYSTALCP)
 
-**NEUTRAL** · score **51/100** · confidence 36%
+**NEUTRAL** · score **54/100** · confidence 45%
 
 ## Issue
 
@@ -38,6 +38,8 @@ _EV/EBITDA is 1.28x the 13.0x sector anchor._
 
 _No bidding data yet._
 
+Grey market premium: **₹19** (+7.3%) via ipowatch
+
 ## Demand — posterior view
 
 _Final subscription as a distribution. The 80% interval is the honest width of what is still unknown._
@@ -50,39 +52,38 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+29.3%**
-- Likely range: -2.8% to +61.5%
-- Probability of a positive listing: **82%**
+- Central estimate: **+14.0%**
+- Likely range: -7.4% to +35.4%
+- Probability of a positive listing: **74%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 18.6% | 10 |
-| RETAIL | 13 | ₹194,480 | lottery | 18.6% | 10 |
+| RETAIL | 1 | ₹14,960 | lottery | 21.9% | 12 |
+| RETAIL | 13 | ₹194,480 | lottery | 21.9% | 12 |
 | sNII | 14 | ₹209,440 | lottery | 72.2% | 40 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Execution
 
-- Phase: **early**, 62h 45m to the UPI mandate cut-off
+- Phase: **early**, 46h 06m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-20T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 62h 45m
+  - time to cut-off: 46h 06m
 
 ## Why it scores where it does
 
 - EPS CAGR +28%
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- no GMP observed
 - mostly fresh capital (75%) into the business
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
@@ -94,4 +95,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)
 
 ---
-*Generated 18 Nov 2026 02:14 by IPO Radar. Analysis only — not investment advice.*
+*Generated 18 Nov 2026 18:54 by IPO Radar. Analysis only — not investment advice.*

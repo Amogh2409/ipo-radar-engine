@@ -1,6 +1,6 @@
 # Watrana Rentals Limited (WATRANA)
 
-**NEUTRAL** · score **50/100** · confidence 36%
+**NEUTRAL** · score **54/100** · confidence 45%
 
 ## Issue
 
@@ -31,6 +31,8 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 _No bidding data yet._
 
+Grey market premium: **₹37** (+15.9%) via ipowatch
+
 ## Demand — posterior view
 
 _Final subscription as a distribution. The 80% interval is the honest width of what is still unknown._
@@ -47,9 +49,9 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+30.3%**
-- Likely range: -2.5% to +63.1%
-- Probability of a positive listing: **82%**
+- Central estimate: **+18.7%**
+- Likely range: -6.0% to +43.4%
+- Probability of a positive listing: **78%**
 
 ## Allotment odds
 
@@ -58,12 +60,12 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **pre_open**, 134h 45m to the UPI mandate cut-off
+- Phase: **pre_open**, 118h 05m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-23T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 134h 45m
+  - time to cut-off: 118h 05m
 
 ## Why it scores where it does
 
@@ -71,7 +73,6 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - High-Spread Compounder: RoNW (34.1%) exceeds Cost of Equity (15.8%) by 18.2pp
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- no GMP observed
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
 
@@ -81,4 +82,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - EPS CAGR +19%
 
 ---
-*Generated 18 Nov 2026 02:14 by IPO Radar. Analysis only — not investment advice.*
+*Generated 18 Nov 2026 18:54 by IPO Radar. Analysis only — not investment advice.*
