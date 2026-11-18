@@ -1,7 +1,7 @@
 [
   {
     "symbol": "MAHACOAL",
-    "ts": "2026-11-18T18:54:12",
+    "ts": "2026-11-19T01:49:56",
     "score": 57.4,
     "grade": "NEUTRAL",
     "stance_listing": "marginal - only worth it if capital is otherwise idle",
@@ -189,15 +189,15 @@
     "guardrails": {},
     "tday": {
       "symbol": "MAHACOAL",
-      "name": "Mahanadi Coalfields Limited",
+      "name": "Mahanadi Coalfields Ltd.",
       "clock": {
-        "now_ist": "2026-11-18T18:54:12+05:30",
-        "phase": "pre_open",
+        "now_ist": "2026-11-19T01:49:56+05:30",
+        "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-11-23T17:00+05:30",
         "submit_by": "2026-11-23T16:00+05:30",
         "mandate_by": "2026-11-23T16:40+05:30",
-        "countdown": "118h 05m",
+        "countdown": "111h 10m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -213,7 +213,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 118h 05m"
+          "time to cut-off: 111h 10m"
         ]
       },
       "alerts": [],
@@ -284,16 +284,16 @@
   },
   {
     "symbol": "CRYSTALCP",
-    "ts": "2026-11-18T18:53:34",
-    "score": 54.5,
+    "ts": "2026-11-19T01:49:50",
+    "score": 55.8,
     "grade": "NEUTRAL",
     "stance_listing": "not worth the blocked capital - fails its cost of capital and the flip bar was not met",
     "stance_longterm": "AVOID - Value Trap: Fails to earn its Cost of Capital. Do not hold post-listing.",
-    "confidence": 0.45,
+    "confidence": 0.56,
     "factors": {
       "valuation": 54.2,
       "financials": 39.1,
-      "demand": 68.0,
+      "demand": 78.4,
       "gmp": 64.5,
       "structure": 65.0,
       "regime": 59.0,
@@ -301,8 +301,7 @@
     },
     "reasons": [
       "EPS CAGR +28%",
-      "institutional book strong at 12.9x projected QIB",
-      "demand still early (22% of the bid window elapsed) - projections are indicative only",
+      "institutional book strong at 48.0x projected QIB",
       "mostly fresh capital (75%) into the business",
       "anchor book could not be read from the RHP",
       "recent IPOs listed +8.1% on average"
@@ -312,178 +311,205 @@
       "RoNW 7.1% - modest returns on capital",
       "Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)"
     ],
-    "expected_listing_gain_pct": 14.0,
+    "expected_listing_gain_pct": 16.6,
     "listing_gain_range": [
-      -7.4,
+      -2.2,
       35.4
     ],
-    "p_positive_listing": 0.743,
+    "p_positive_listing": 0.812,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
-        "subscription_x": 6.464297608771573,
+        "subscription_x": 4.9084054927905525,
         "lots_applied": 1,
         "ticket_value": 14960.0,
-        "p_single": 0.21853331553919608,
-        "expected_lots": 0.21853331553919608,
-        "p_any_multi": 0.21853331553919608,
-        "expected_lots_multi": 0.21853331553919608,
+        "p_single": 0.2878051520298934,
+        "expected_lots": 0.2878051520298934,
+        "p_any_multi": 0.28780515202989343,
+        "expected_lots_multi": 0.2878051520298934,
         "mechanism": "lottery",
-        "max_allottees": null,
-        "est_applications": null,
-        "note": "lottery for 1 lot; ~1.41 mean lots/application against 6.46x"
+        "max_allottees": 110172.67272727273,
+        "est_applications": 100043.5780025186,
+        "note": "lottery for 1 lot; ~1.41 mean lots/application against 4.91x"
       },
       "RETAIL:13": {
         "category": "RETAIL",
-        "subscription_x": 6.464297608771573,
+        "subscription_x": 4.9084054927905525,
         "lots_applied": 13,
         "ticket_value": 194480.0,
-        "p_single": 0.21853331553919608,
-        "expected_lots": 0.21853331553919608,
-        "p_any_multi": 0.21853331553919608,
-        "expected_lots_multi": 0.21853331553919608,
+        "p_single": 0.2878051520298934,
+        "expected_lots": 0.2878051520298934,
+        "p_any_multi": 0.28780515202989343,
+        "expected_lots_multi": 0.2878051520298934,
         "mechanism": "lottery",
-        "max_allottees": null,
-        "est_applications": null,
-        "note": "lottery for 1 lot; ~1.41 mean lots/application against 6.46x"
+        "max_allottees": 110172.67272727273,
+        "est_applications": 100043.5780025186,
+        "note": "lottery for 1 lot; ~1.41 mean lots/application against 4.91x"
       },
       "sNII:14": {
         "category": "sNII",
-        "subscription_x": 19.39289282631472,
+        "subscription_x": 11.029627793284797,
         "lots_applied": 14,
         "ticket_value": 209440.0,
-        "p_single": 0.7219139571071643,
-        "expected_lots": 0.7219139571071643,
-        "p_any_multi": 0.7219139571071643,
-        "expected_lots_multi": 0.7219139571071643,
-        "mechanism": "lottery",
-        "max_allottees": null,
-        "est_applications": null,
-        "note": "lottery for 1 lot; ~14.00 mean lots/application against 19.39x"
+        "p_single": 1.0,
+        "expected_lots": 1.0,
+        "p_any_multi": 1.0,
+        "expected_lots_multi": 1.0,
+        "mechanism": "proportionate",
+        "max_allottees": 15738.945454545454,
+        "est_applications": 1157.4285714285713,
+        "note": "proportionate with 1-lot floor (~1 of 14 lots)"
       }
     },
     "projected_subscription": {
-      "QIB": 12.93,
-      "NII": 16.16,
-      "sNII": 19.39,
-      "bNII": 14.54,
-      "RETAIL": 6.46
+      "EMPLOYEE": 7.48,
+      "NII": 12.14,
+      "QIB": 48.0,
+      "RETAIL": 4.91,
+      "bNII": 14.39,
+      "sNII": 11.03
     },
     "llm": {},
     "posteriors": {
-      "QIB": {
-        "category": "QIB",
-        "median": 12.93,
-        "mean": 36.99,
-        "p10": 2.02,
-        "p90": 82.9,
+      "EMPLOYEE": {
+        "category": "EMPLOYEE",
+        "median": 7.48,
+        "mean": 7.99,
+        "p10": 4.71,
+        "p90": 11.9,
         "ci80": [
-          2.02,
-          82.9
+          4.71,
+          11.9
         ],
-        "log_sd": 1.45,
-        "confidence": 0.192,
-        "observed": 0.0,
-        "n_updates": 0,
-        "prior_median": 12.93,
+        "log_sd": 0.362,
+        "confidence": 0.792,
+        "observed": 2.91,
+        "n_updates": 1,
+        "prior_median": 4.04,
         "drivers": {
           "size_small": 0.48,
-          "prior_only": 1.0
+          "day1_retail": 1.283,
+          "momentum_adj": 0.224
         }
       },
       "NII": {
         "category": "NII",
-        "median": 16.16,
-        "mean": 49.78,
-        "p10": 2.36,
-        "p90": 110.49,
+        "median": 12.14,
+        "mean": 14.82,
+        "p10": 5.4,
+        "p90": 27.29,
         "ci80": [
-          2.36,
-          110.49
+          5.4,
+          27.29
         ],
-        "log_sd": 1.5,
-        "confidence": 0.182,
-        "observed": 0.0,
-        "n_updates": 0,
-        "prior_median": 16.16,
+        "log_sd": 0.632,
+        "confidence": 0.556,
+        "observed": 0.75,
+        "n_updates": 1,
+        "prior_median": 20.22,
         "drivers": {
           "size_small": 0.48,
-          "prior_only": 1.0
+          "day1_retail": 1.283,
+          "momentum_adj": 0.224
         }
       },
-      "sNII": {
-        "category": "sNII",
-        "median": 19.39,
-        "mean": 59.73,
-        "p10": 2.84,
-        "p90": 132.59,
+      "QIB": {
+        "category": "QIB",
+        "median": 48.0,
+        "mean": 64.76,
+        "p10": 17.8,
+        "p90": 129.42,
         "ci80": [
-          2.84,
-          132.59
+          17.8,
+          129.42
         ],
-        "log_sd": 1.5,
-        "confidence": 0.182,
-        "observed": 0.0,
-        "n_updates": 0,
-        "prior_median": 19.39,
+        "log_sd": 0.774,
+        "confidence": 0.455,
+        "observed": 2.07,
+        "n_updates": 1,
+        "prior_median": 16.17,
         "drivers": {
           "size_small": 0.48,
-          "prior_only": 1.0
-        }
-      },
-      "bNII": {
-        "category": "bNII",
-        "median": 14.54,
-        "mean": 48.35,
-        "p10": 2.0,
-        "p90": 106.02,
-        "ci80": [
-          2.0,
-          106.02
-        ],
-        "log_sd": 1.55,
-        "confidence": 0.172,
-        "observed": 0.0,
-        "n_updates": 0,
-        "prior_median": 14.54,
-        "drivers": {
-          "size_small": 0.48,
-          "prior_only": 1.0
+          "day1_retail": 1.283,
+          "momentum_adj": 0.224
         }
       },
       "RETAIL": {
         "category": "RETAIL",
-        "median": 6.46,
-        "mean": 11.22,
-        "p10": 1.68,
-        "p90": 24.83,
+        "median": 4.91,
+        "mean": 5.18,
+        "p10": 3.22,
+        "p90": 7.47,
         "ci80": [
-          1.68,
-          24.83
+          3.22,
+          7.47
         ],
-        "log_sd": 1.05,
-        "confidence": 0.312,
-        "observed": 0.0,
-        "n_updates": 0,
-        "prior_median": 6.46,
+        "log_sd": 0.328,
+        "confidence": 0.823,
+        "observed": 1.28,
+        "n_updates": 1,
+        "prior_median": 8.71,
         "drivers": {
           "size_small": 0.48,
-          "prior_only": 1.0
+          "day1_retail": 1.283,
+          "momentum_adj": 0.299
+        }
+      },
+      "bNII": {
+        "category": "bNII",
+        "median": 14.39,
+        "mean": 18.28,
+        "p10": 5.93,
+        "p90": 34.92,
+        "ci80": [
+          5.93,
+          34.92
+        ],
+        "log_sd": 0.692,
+        "confidence": 0.511,
+        "observed": 0.62,
+        "n_updates": 1,
+        "prior_median": 18.2,
+        "drivers": {
+          "size_small": 0.48,
+          "day1_retail": 1.283,
+          "momentum_adj": 0.224
+        }
+      },
+      "sNII": {
+        "category": "sNII",
+        "median": 11.03,
+        "mean": 13.01,
+        "p10": 5.28,
+        "p90": 23.03,
+        "ci80": [
+          5.28,
+          23.03
+        ],
+        "log_sd": 0.574,
+        "confidence": 0.602,
+        "observed": 1.03,
+        "n_updates": 1,
+        "prior_median": 24.26,
+        "drivers": {
+          "size_small": 0.48,
+          "day1_retail": 1.283,
+          "momentum_adj": 0.224
         }
       }
     },
     "guardrails": {},
     "tday": {
       "symbol": "CRYSTALCP",
-      "name": "Crystal Crop Protection Limited",
+      "name": "Crystal Crop Protection Ltd.",
       "clock": {
-        "now_ist": "2026-11-18T18:53:34+05:30",
+        "now_ist": "2026-11-19T01:49:50+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-11-20T17:00+05:30",
         "submit_by": "2026-11-20T16:00+05:30",
         "mandate_by": "2026-11-20T16:40+05:30",
-        "countdown": "46h 06m",
+        "countdown": "39h 10m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -499,7 +525,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 46h 06m"
+          "time to cut-off: 39h 10m"
         ]
       },
       "alerts": [],
@@ -515,7 +541,7 @@
       "capital_intensity": 0.45,
       "ev_scale_assumed": "Rs million",
       "ronw_implied_pct": 7.14,
-      "offer_pct_of_mcap": 10.2,
+      "offer_pct_of_mcap": 14.1,
       "shares_outstanding": 118795276,
       "net_worth_cr": 1901.1,
       "net_debt_source": "net-debt-to-equity x net worth",
@@ -589,19 +615,19 @@
       "cost_of_equity_pct": 13.74,
       "ronw_pct": 7.14,
       "eva_spread_pct": -6.6,
-      "projection_confidence": 0.221,
-      "expected_gain_pct": 14.0,
-      "projected_qib_x": 12.928595217543144,
+      "projection_confidence": 0.597,
+      "expected_gain_pct": 16.6,
+      "projected_qib_x": 47.99511372743813,
       "min_gain_pct": 20.0,
       "min_qib_x": 5.0,
       "min_composite": 61.0,
-      "composite_before_veto": 54.5,
+      "composite_before_veto": 55.8,
       "reason": "Value Trap: RoNW 7.1% is below cost of equity 13.7%; composite capped at 59"
     }
   },
   {
     "symbol": "WATRANA",
-    "ts": "2026-11-18T18:54:35",
+    "ts": "2026-11-19T01:50:15",
     "score": 54.1,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -750,13 +776,13 @@
       "symbol": "WATRANA",
       "name": "Watrana Rentals Limited",
       "clock": {
-        "now_ist": "2026-11-18T18:54:35+05:30",
-        "phase": "pre_open",
+        "now_ist": "2026-11-19T01:50:15+05:30",
+        "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-11-23T17:00+05:30",
         "submit_by": "2026-11-23T16:00+05:30",
         "mandate_by": "2026-11-23T16:40+05:30",
-        "countdown": "118h 05m",
+        "countdown": "111h 09m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -772,7 +798,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 118h 05m"
+          "time to cut-off: 111h 09m"
         ]
       },
       "alerts": [],

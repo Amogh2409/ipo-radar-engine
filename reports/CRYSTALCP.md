@@ -1,6 +1,6 @@
-# Crystal Crop Protection Limited (CRYSTALCP)
+# Crystal Crop Protection Ltd. (CRYSTALCP)
 
-**NEUTRAL** · score **54/100** · confidence 45%
+**NEUTRAL** · score **56/100** · confidence 56%
 
 ## Issue
 
@@ -8,7 +8,7 @@
 |---|---|
 | Price band | ₹259 – ₹272 |
 | Lot size | 55 shares (₹14,960) |
-| Issue size | ₹331 Cr |
+| Issue size | ₹456 Cr |
 | Dates | 2026-11-18 → 2026-11-20 |
 | Registrar | MUFG Intime India Private Limited |
 | Lead managers | IIFL Capital Services Limited, DAM Capital Advisors Limited, Motilal Oswal Investment Advisors Limited |
@@ -36,7 +36,14 @@ _EV/EBITDA is 1.28x the 13.0x sector anchor._
 
 ## Demand
 
-_No bidding data yet._
+| Category | Offered | Bid | Current | Projected final |
+|---|---|---|---|---|
+| EMPLOYEE | 106,837 | 310,860 | 2.91x | 7.48x |
+| NII | 2,596,928 | 1,956,130 | 0.75x | 12.14x |
+| QIB | 3,406,814 | 7,042,035 | 2.07x | 48.00x |
+| RETAIL | 6,059,497 | 7,773,040 | 1.28x | 4.91x |
+| bNII | 1,731,286 | 1,064,910 | 0.62x | 14.39x |
+| sNII | 865,642 | 891,220 | 1.03x | 11.03x |
 
 Grey market premium: **₹19** (+7.3%) via ipowatch
 
@@ -46,44 +53,44 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| QIB | 0.00x | **12.93x** | 2.02x – 82.90x | 19% |
-| NII | 0.00x | **16.16x** | 2.36x – 110.49x | 18% |
-| sNII | 0.00x | **19.39x** | 2.84x – 132.59x | 18% |
-| bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
-| RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
+| EMPLOYEE | 2.91x | **7.48x** | 4.71x – 11.90x | 79% |
+| NII | 0.75x | **12.14x** | 5.40x – 27.29x | 56% |
+| QIB | 2.07x | **48.00x** | 17.80x – 129.42x | 46% |
+| RETAIL | 1.28x | **4.91x** | 3.22x – 7.47x | 82% |
+| bNII | 0.62x | **14.39x** | 5.93x – 34.92x | 51% |
+| sNII | 1.03x | **11.03x** | 5.28x – 23.03x | 60% |
 
 _Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+14.0%**
-- Likely range: -7.4% to +35.4%
-- Probability of a positive listing: **74%**
+- Central estimate: **+16.6%**
+- Likely range: -2.2% to +35.4%
+- Probability of a positive listing: **81%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 21.9% | 12 |
-| RETAIL | 13 | ₹194,480 | lottery | 21.9% | 12 |
-| sNII | 14 | ₹209,440 | lottery | 72.2% | 40 |
+| RETAIL | 1 | ₹14,960 | lottery | 28.8% | 16 |
+| RETAIL | 13 | ₹194,480 | lottery | 28.8% | 16 |
+| sNII | 14 | ₹209,440 | proportionate | 100.0% | 55 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Execution
 
-- Phase: **early**, 46h 06m to the UPI mandate cut-off
+- Phase: **early**, 39h 10m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-20T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 46h 06m
+  - time to cut-off: 39h 10m
 
 ## Why it scores where it does
 
 - EPS CAGR +28%
-- institutional book strong at 12.9x projected QIB
-- demand still early (22% of the bid window elapsed) - projections are indicative only
+- institutional book strong at 48.0x projected QIB
 - mostly fresh capital (75%) into the business
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
@@ -95,4 +102,4 @@ _Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — 
 - Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)
 
 ---
-*Generated 18 Nov 2026 18:54 by IPO Radar. Analysis only — not investment advice.*
+*Generated 19 Nov 2026 01:50 by IPO Radar. Analysis only — not investment advice.*

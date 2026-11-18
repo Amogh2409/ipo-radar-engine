@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_18 Nov 2026 18:54_
+_19 Nov 2026 01:50_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -9,7 +9,7 @@ _18 Nov 2026 18:54_
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
 | [MAHACOAL](MAHACOAL.md) | 2026-11-23 | 57 | NEUTRAL | +7.1% | 49% |
-| [CRYSTALCP](CRYSTALCP.md) | 2026-11-20 | 54 | NEUTRAL | +14.0% | 22% |
+| [CRYSTALCP](CRYSTALCP.md) | 2026-11-20 | 56 | NEUTRAL | +16.6% | 29% |
 | [WATRANA](WATRANA.md) | 2026-11-23 | 54 | NEUTRAL | +18.7% | — |
 
 ## Closed and listed
