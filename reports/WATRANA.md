@@ -1,6 +1,6 @@
 # Watrana Rentals Limited (WATRANA)
 
-**NEUTRAL** · score **54/100** · confidence 45%
+**NEUTRAL** · score **59/100** · confidence 45%
 
 ## Issue
 
@@ -31,7 +31,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 _No bidding data yet._
 
-Grey market premium: **₹37** (+15.9%) via ipowatch
+Grey market premium: **₹67** (+28.9%) via ipowatch
 
 ## Demand — posterior view
 
@@ -45,13 +45,13 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 13.7%, valuation 21.0%, financials 23.3% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+18.7%**
-- Likely range: -6.0% to +43.4%
-- Probability of a positive listing: **78%**
+- Central estimate: **+25.3%**
+- Likely range: -4.0% to +54.5%
+- Probability of a positive listing: **81%**
 
 ## Allotment odds
 
@@ -60,12 +60,12 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **early**, 111h 09m to the UPI mandate cut-off
+- Phase: **early**, 69h 55m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-23T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 111h 09m
+  - time to cut-off: 69h 55m
 
 ## Why it scores where it does
 
@@ -73,6 +73,8 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - High-Spread Compounder: RoNW (34.1%) exceeds Cost of Equity (15.8%) by 18.2pp
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
+- strong grey market premium (+28.9%)
+- GMP firming into close
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
 
@@ -82,4 +84,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - EPS CAGR +19%
 
 ---
-*Generated 19 Nov 2026 01:50 by IPO Radar. Analysis only — not investment advice.*
+*Generated 20 Nov 2026 19:05 by IPO Radar. Analysis only — not investment advice.*

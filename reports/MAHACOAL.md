@@ -1,6 +1,6 @@
 # Mahanadi Coalfields Ltd. (MAHACOAL)
 
-**NEUTRAL** · score **57/100** · confidence 45%
+**NEUTRAL** · score **56/100** · confidence 58%
 
 ## Issue
 
@@ -29,9 +29,17 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 ## Demand
 
-_No bidding data yet._
+| Category | Offered | Bid | Current | Projected final |
+|---|---|---|---|---|
+| EMPLOYEE | 33,091,815 | 2,990,570 | 0.09x | 0.27x |
+| NII | 84,384,129 | 15,207,060 | 0.18x | 1.83x |
+| QIB | 112,512,171 | 154,362,670 | 1.37x | 15.62x |
+| RETAIL | 196,896,300 | 47,970,670 | 0.24x | 0.73x |
+| SHAREHOLDER | 66,183,630 | 18,307,630 | 0.28x | 0.77x |
+| bNII | 56,256,086 | 7,583,510 | 0.13x | 1.94x |
+| sNII | 28,128,043 | 7,623,550 | 0.27x | 1.91x |
 
-Grey market premium: **₹3** (+2.3%) via ipowatch
+Grey market premium: **₹1** (+0.8%) via ipowatch
 
 ## Demand — posterior view
 
@@ -39,44 +47,45 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| QIB | 0.00x | **5.26x** | 0.82x – 33.71x | 19% |
-| NII | 0.00x | **6.57x** | 0.96x – 44.92x | 18% |
-| sNII | 0.00x | **7.88x** | 1.15x – 53.91x | 18% |
-| bNII | 0.00x | **5.91x** | 0.81x – 43.10x | 17% |
-| RETAIL | 0.00x | **2.63x** | 0.68x – 10.09x | 31% |
+| EMPLOYEE | 0.09x | **0.27x** | 0.18x – 0.41x | 82% |
+| NII | 0.18x | **1.83x** | 0.90x – 3.73x | 62% |
+| QIB | 1.37x | **15.62x** | 6.46x – 37.75x | 51% |
+| RETAIL | 0.24x | **0.73x** | 0.50x – 1.07x | 85% |
+| SHAREHOLDER | 0.28x | **0.77x** | 0.50x – 1.18x | 82% |
+| bNII | 0.13x | **1.94x** | 0.89x – 4.23x | 57% |
+| sNII | 0.27x | **1.91x** | 1.00x – 3.64x | 66% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 13.7%, valuation 21.0%, financials 23.3% — demand earns influence as the book fills._
 
 ## Listing expectation
 
 - Central estimate: **+7.1%**
-- Likely range: -9.5% to +23.6%
-- Probability of a positive listing: **66%**
+- Likely range: -5.8% to +20.0%
+- Probability of a positive listing: **71%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 48.5% | 53 |
-| RETAIL | 13 | ₹194,480 | lottery | 48.5% | 53 |
-| sNII | 14 | ₹209,440 | proportionate | 100.0% | 110 |
-
-> Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
+| RETAIL | 1 | ₹14,960 | full | 100.0% | 110 |
+| RETAIL | 13 | ₹194,480 | full | 100.0% | 1,430 |
+| sNII | 14 | ₹209,440 | proportionate | 100.0% | 770 |
 
 ## Execution
 
-- Phase: **early**, 111h 10m to the UPI mandate cut-off
+- Phase: **early**, 69h 55m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-23T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 111h 10m
+  - time to cut-off: 69h 55m
 
 ## Why it scores where it does
 
 - RoNW 53.8% - strong returns on capital
 - High-Spread Compounder: RoNW (53.8%) exceeds Cost of Equity (13.7%) by 40.0pp
-- demand still early (22% of the bid window elapsed) - projections are indicative only
+- institutional book strong at 15.6x projected QIB
+- GMP fading - late enthusiasm is cooling
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
 
@@ -85,4 +94,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - EPS CAGR -5%
 
 ---
-*Generated 19 Nov 2026 01:50 by IPO Radar. Analysis only — not investment advice.*
+*Generated 20 Nov 2026 19:05 by IPO Radar. Analysis only — not investment advice.*

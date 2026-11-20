@@ -1,6 +1,6 @@
 # Crystal Crop Protection Ltd. (CRYSTALCP)
 
-**NEUTRAL** · score **56/100** · confidence 56%
+**NEUTRAL** · score **59/100** · confidence 69%
 
 ## Issue
 
@@ -38,14 +38,14 @@ _EV/EBITDA is 1.28x the 13.0x sector anchor._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| EMPLOYEE | 106,837 | 310,860 | 2.91x | 7.48x |
-| NII | 2,596,928 | 1,956,130 | 0.75x | 12.14x |
-| QIB | 3,406,814 | 7,042,035 | 2.07x | 48.00x |
-| RETAIL | 6,059,497 | 7,773,040 | 1.28x | 4.91x |
-| bNII | 1,731,286 | 1,064,910 | 0.62x | 14.39x |
-| sNII | 865,642 | 891,220 | 1.03x | 11.03x |
+| EMPLOYEE | 106,837 | 877,250 | 8.21x | 8.21x |
+| NII | 2,596,928 | 97,882,400 | 37.69x | 37.69x |
+| QIB | 3,406,814 | 52,689,065 | 15.47x | 15.47x |
+| RETAIL | 6,059,497 | 56,143,560 | 9.27x | 9.27x |
+| bNII | 1,731,286 | 75,293,735 | 43.49x | 43.49x |
+| sNII | 865,642 | 22,588,665 | 26.09x | 26.09x |
 
-Grey market premium: **₹19** (+7.3%) via ipowatch
+Grey market premium: **₹14** (+5.4%) via ipowatch
 
 ## Demand — posterior view
 
@@ -53,44 +53,45 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| EMPLOYEE | 2.91x | **7.48x** | 4.71x – 11.90x | 79% |
-| NII | 0.75x | **12.14x** | 5.40x – 27.29x | 56% |
-| QIB | 2.07x | **48.00x** | 17.80x – 129.42x | 46% |
-| RETAIL | 1.28x | **4.91x** | 3.22x – 7.47x | 82% |
-| bNII | 0.62x | **14.39x** | 5.93x – 34.92x | 51% |
-| sNII | 1.03x | **11.03x** | 5.28x – 23.03x | 60% |
+| EMPLOYEE | 8.21x | **8.21x** | 8.21x – 8.75x | 100% |
+| NII | 37.69x | **37.69x** | 37.69x – 40.19x | 100% |
+| QIB | 15.47x | **15.47x** | 15.47x – 16.49x | 100% |
+| RETAIL | 9.27x | **9.27x** | 9.27x – 9.88x | 100% |
+| bNII | 43.49x | **43.49x** | 43.49x – 46.37x | 100% |
+| sNII | 26.09x | **26.09x** | 26.09x – 27.82x | 100% |
 
-_Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+16.6%**
-- Likely range: -2.2% to +35.4%
-- Probability of a positive listing: **81%**
+- Central estimate: **+14.5%**
+- Likely range: +1.3% to +27.6%
+- Probability of a positive listing: **86%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,960 | lottery | 28.8% | 16 |
-| RETAIL | 13 | ₹194,480 | lottery | 28.8% | 16 |
-| sNII | 14 | ₹209,440 | proportionate | 100.0% | 55 |
+| RETAIL | 1 | ₹14,960 | lottery | 18.9% | 10 |
+| RETAIL | 13 | ₹194,480 | lottery | 18.9% | 10 |
+| sNII | 14 | ₹209,440 | lottery | 53.7% | 30 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Execution
 
-- Phase: **early**, 39h 10m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-20T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 20 Nov 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 39h 10m
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
 - EPS CAGR +28%
-- institutional book strong at 48.0x projected QIB
+- institutional book strong at 15.5x projected QIB
+- heavy retail demand (9.3x) - allotment will be a lottery
+- GMP fading - late enthusiasm is cooling
 - mostly fresh capital (75%) into the business
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
@@ -102,4 +103,4 @@ _Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — 
 - Value Trap: RoNW (7.1%) is below estimated Cost of Equity (13.7%)
 
 ---
-*Generated 19 Nov 2026 01:50 by IPO Radar. Analysis only — not investment advice.*
+*Generated 20 Nov 2026 19:05 by IPO Radar. Analysis only — not investment advice.*
