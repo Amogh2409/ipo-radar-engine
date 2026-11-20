@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_20 Nov 2026 19:05_
+_21 Nov 2026 01:25_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -9,9 +9,8 @@ _20 Nov 2026 19:05_
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
 | [SHREESIDHI](SHREESIDHI.md) | 2026-11-27 | 66 | APPLY | +12.7% | — |
-| [CRYSTALCP](CRYSTALCP.md) | 2026-11-20 | 59 | NEUTRAL | +14.5% | 19% |
 | [WATRANA](WATRANA.md) | 2026-11-23 | 59 | NEUTRAL | +25.3% | — |
-| [MAHACOAL](MAHACOAL.md) | 2026-11-23 | 56 | NEUTRAL | +7.1% | 100% |
+| [MAHACOAL](MAHACOAL.md) | 2026-11-23 | 56 | NEUTRAL | +7.7% | 100% |
 
 ## Closed and listed
 
@@ -19,6 +18,7 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 
 | IPO | Closed | Issue price | Our call | Predicted | Listed | Listing price | Listing gain | Current price | Now vs issue |
 |---|---|---|---|---|---|---|---|---|---|
+| [CRYSTALCP](CRYSTALCP.md) | 2026-11-20 | ₹272.00 | NEUTRAL | +14.5% | awaiting | — | — | — | — |
 | BOMBAYCOATEDSPECIALS | 2026-11-02 | ₹82.00 | — | — | awaiting | — | — | — | — |
 | MKSONSFINEJEWELS | 2026-10-30 | ₹162.00 | — | — | awaiting | — | — | — | — |
 | BLSPOLYMERS | 2026-10-29 | ₹150.00 | — | — | awaiting | — | — | — | — |
@@ -48,4 +48,3 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 | [ARCIL](ARCIL.md) | 2026-09-11 | ₹139.00 | SPECULATIVE FLIP | +23.0% | 2026-09-17 | ₹139.00 | +0.0% | ₹123.87 | -10.9% |
 | [KARAMTARA](KARAMTARA.md) | 2026-09-11 | ₹254.00 | STRONG APPLY | +34.8% | 2026-09-17 | ₹320.00 | +26.0% | ₹358.65 | +41.2% |
 | [LCCPROJECT](LCCPROJECT.md) | 2026-09-11 | ₹146.00 | STRONG APPLY | +34.9% | 2026-09-18 | ₹159.63 | +9.3% | ₹125.76 | -13.9% |
-| [MPIMANIPAL](MPIMANIPAL.md) | 2026-09-11 | ₹339.00 | NEUTRAL | +4.4% | 2026-09-17 | ₹330.00 | -2.7% | ₹322.80 | -4.8% |
