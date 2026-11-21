@@ -1,6 +1,6 @@
 # Mahanadi Coalfields Ltd. (MAHACOAL)
 
-**NEUTRAL** · score **56/100** · confidence 62%
+**NEUTRAL** · score **54/100** · confidence 65%
 
 ## Issue
 
@@ -31,15 +31,15 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| EMPLOYEE | 33,091,815 | 2,990,570 | 0.09x | 0.25x |
-| NII | 84,384,129 | 15,207,060 | 0.18x | 1.74x |
-| QIB | 112,512,171 | 154,362,670 | 1.37x | 20.79x |
-| RETAIL | 196,896,300 | 47,970,670 | 0.24x | 0.71x |
-| SHAREHOLDER | 66,183,630 | 18,307,630 | 0.28x | 0.76x |
-| bNII | 56,256,086 | 7,583,510 | 0.13x | 1.85x |
-| sNII | 28,128,043 | 7,623,550 | 0.27x | 1.81x |
+| EMPLOYEE | 33,091,815 | 2,990,570 | 0.09x | 0.19x |
+| NII | 84,384,129 | 15,207,060 | 0.18x | 0.97x |
+| QIB | 112,512,171 | 154,362,670 | 1.37x | 12.10x |
+| RETAIL | 196,896,300 | 47,970,670 | 0.24x | 0.56x |
+| SHAREHOLDER | 66,183,630 | 18,307,630 | 0.28x | 0.60x |
+| bNII | 56,256,086 | 7,583,510 | 0.13x | 0.95x |
+| sNII | 28,128,043 | 7,623,550 | 0.27x | 1.11x |
 
-Grey market premium: **₹1** (+0.8%) via ipowatch
+Grey market premium: **₹0** (+0.0%) via ipowatch
 
 ## Demand — posterior view
 
@@ -47,21 +47,21 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| EMPLOYEE | 0.09x | **0.25x** | 0.18x – 0.34x | 90% |
-| NII | 0.18x | **1.74x** | 1.03x – 2.94x | 75% |
-| QIB | 1.37x | **20.79x** | 10.61x – 40.75x | 64% |
-| RETAIL | 0.24x | **0.71x** | 0.54x – 0.94x | 91% |
-| SHAREHOLDER | 0.28x | **0.76x** | 0.56x – 1.04x | 89% |
-| bNII | 0.13x | **1.85x** | 1.04x – 3.31x | 71% |
-| sNII | 0.27x | **1.81x** | 1.13x – 2.90x | 79% |
+| EMPLOYEE | 0.09x | **0.19x** | 0.15x – 0.25x | 93% |
+| NII | 0.18x | **0.97x** | 0.68x – 1.41x | 86% |
+| QIB | 1.37x | **12.10x** | 7.61x – 19.24x | 79% |
+| RETAIL | 0.24x | **0.56x** | 0.45x – 0.70x | 94% |
+| SHAREHOLDER | 0.28x | **0.60x** | 0.47x – 0.77x | 93% |
+| bNII | 0.13x | **0.95x** | 0.64x – 1.42x | 84% |
+| sNII | 0.27x | **1.11x** | 0.80x – 1.56x | 88% |
 
-_Score weighting right now: demand 13.7%, valuation 21.0%, financials 23.3% — demand earns influence as the book fills._
+_Score weighting right now: demand 18.4%, valuation 18.8%, financials 20.8% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+7.7%**
-- Likely range: -4.6% to +20.0%
-- Probability of a positive listing: **74%**
+- Central estimate: **+5.6%**
+- Likely range: -4.9% to +16.0%
+- Probability of a positive listing: **70%**
 
 ## Allotment odds
 
@@ -69,22 +69,23 @@ _Score weighting right now: demand 13.7%, valuation 21.0%, financials 23.3% — 
 |---|---|---|---|---|---|
 | RETAIL | 1 | ₹14,960 | full | 100.0% | 110 |
 | RETAIL | 13 | ₹194,480 | full | 100.0% | 1,430 |
-| sNII | 14 | ₹209,440 | proportionate | 100.0% | 770 |
+| sNII | 14 | ₹209,440 | proportionate | 100.0% | 1,320 |
 
 ## Execution
 
-- Phase: **early**, 63h 35m to the UPI mandate cut-off
+- Phase: **early**, 46h 30m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-23T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 63h 35m
+  - time to cut-off: 46h 30m
 
 ## Why it scores where it does
 
 - RoNW 53.8% - strong returns on capital
 - High-Spread Compounder: RoNW (53.8%) exceeds Cost of Equity (13.7%) by 40.0pp
-- institutional book strong at 20.8x projected QIB
+- institutional book strong at 12.1x projected QIB
+- grey market flat or negative
 - GMP fading - late enthusiasm is cooling
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
@@ -94,4 +95,4 @@ _Score weighting right now: demand 13.7%, valuation 21.0%, financials 23.3% — 
 - EPS CAGR -5%
 
 ---
-*Generated 21 Nov 2026 01:25 by IPO Radar. Analysis only — not investment advice.*
+*Generated 21 Nov 2026 18:30 by IPO Radar. Analysis only — not investment advice.*
