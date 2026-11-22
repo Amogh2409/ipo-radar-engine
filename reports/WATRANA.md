@@ -60,12 +60,12 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 
 ## Execution
 
-- Phase: **early**, 22h 37m to the UPI mandate cut-off
+- Phase: **final_day_morning**, 16h 08m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-23T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 22h 37m
+  - time to cut-off: 16h 08m
 
 ## Why it scores where it does
 
@@ -84,4 +84,4 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 - EPS CAGR +19%
 
 ---
-*Generated 22 Nov 2026 18:22 by IPO Radar. Analysis only — not investment advice.*
+*Generated 23 Nov 2026 00:51 by IPO Radar. Analysis only — not investment advice.*

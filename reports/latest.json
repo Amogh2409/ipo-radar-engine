@@ -1,7 +1,7 @@
 [
   {
     "symbol": "SHREESIDHI",
-    "ts": "2026-11-22T18:22:21",
+    "ts": "2026-11-23T00:51:26",
     "score": 66.2,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - moderate upside",
@@ -149,13 +149,13 @@
       "symbol": "SHREESIDHI",
       "name": "Shree Siddhivinayak Greentech Industries Limited",
       "clock": {
-        "now_ist": "2026-11-22T18:22:21+05:30",
+        "now_ist": "2026-11-23T00:51:26+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-11-27T17:00+05:30",
         "submit_by": "2026-11-27T16:00+05:30",
         "mandate_by": "2026-11-27T16:40+05:30",
-        "countdown": "118h 37m",
+        "countdown": "112h 08m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -171,7 +171,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 27 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 118h 37m"
+          "time to cut-off: 112h 08m"
         ]
       },
       "alerts": [],
@@ -241,7 +241,7 @@
   },
   {
     "symbol": "WATRANA",
-    "ts": "2026-11-22T18:22:01",
+    "ts": "2026-11-23T00:51:10",
     "score": 60.5,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -392,13 +392,13 @@
       "symbol": "WATRANA",
       "name": "Watrana Rentals Limited",
       "clock": {
-        "now_ist": "2026-11-22T18:22:01+05:30",
-        "phase": "early",
-        "is_final_day": false,
+        "now_ist": "2026-11-23T00:51:10+05:30",
+        "phase": "final_day_morning",
+        "is_final_day": true,
         "cutoff_at": "2026-11-23T17:00+05:30",
         "submit_by": "2026-11-23T16:00+05:30",
         "mandate_by": "2026-11-23T16:40+05:30",
-        "countdown": "22h 37m",
+        "countdown": "16h 08m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -414,11 +414,17 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 22h 37m"
+          "time to cut-off: 16h 08m"
         ]
       },
-      "alerts": [],
-      "max_level": "INFO"
+      "alerts": [
+        {
+          "level": "WATCH",
+          "kind": "final_day",
+          "message": "WATRANA: closes today, 16h 08m to cut-off"
+        }
+      ],
+      "max_level": "WATCH"
     },
     "weights_used": {
       "demand": 22.9,
@@ -485,12 +491,12 @@
   },
   {
     "symbol": "MAHACOAL",
-    "ts": "2026-11-22T18:21:39",
+    "ts": "2026-11-23T00:50:51",
     "score": 43.6,
     "grade": "AVOID",
     "stance_listing": "marginal - only worth it if capital is otherwise idle",
     "stance_longterm": "average - no strong long-term case",
-    "confidence": 0.67,
+    "confidence": 0.68,
     "factors": {
       "valuation": 60.3,
       "financials": 59.0,
@@ -514,14 +520,14 @@
     ],
     "expected_listing_gain_pct": 0.0,
     "listing_gain_range": [
-      -8.8,
+      -8.4,
       0.0
     ],
     "p_positive_listing": 0.0,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
-        "subscription_x": 0.4177593992439688,
+        "subscription_x": 0.38385283278709764,
         "lots_applied": 1,
         "ticket_value": 14960.0,
         "p_single": 1.0,
@@ -535,7 +541,7 @@
       },
       "RETAIL:13": {
         "category": "RETAIL",
-        "subscription_x": 0.4177593992439688,
+        "subscription_x": 0.38385283278709764,
         "lots_applied": 13,
         "ticket_value": 194480.0,
         "p_single": 1.0,
@@ -549,7 +555,7 @@
       },
       "sNII:14": {
         "category": "sNII",
-        "subscription_x": 0.6441102336194076,
+        "subscription_x": 0.5607280072543978,
         "lots_applied": 14,
         "ticket_value": 209440.0,
         "p_single": 1.0,
@@ -563,30 +569,30 @@
       }
     },
     "projected_subscription": {
-      "EMPLOYEE": 0.15,
-      "NII": 0.5,
-      "QIB": 5.19,
-      "RETAIL": 0.42,
-      "SHAREHOLDER": 0.46,
-      "bNII": 0.43,
-      "sNII": 0.64
+      "EMPLOYEE": 0.13,
+      "NII": 0.42,
+      "QIB": 4.24,
+      "RETAIL": 0.38,
+      "SHAREHOLDER": 0.42,
+      "bNII": 0.36,
+      "sNII": 0.56
     },
     "llm": {},
     "posteriors": {
       "EMPLOYEE": {
         "category": "EMPLOYEE",
-        "median": 0.15,
-        "mean": 0.15,
-        "p10": 0.12,
-        "p90": 0.18,
+        "median": 0.13,
+        "mean": 0.14,
+        "p10": 0.11,
+        "p90": 0.16,
         "ci80": [
-          0.12,
-          0.18
+          0.11,
+          0.16
         ],
-        "log_sd": 0.152,
-        "confidence": 0.956,
+        "log_sd": 0.127,
+        "confidence": 0.969,
         "observed": 0.09,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 0.67,
         "drivers": {
           "size_large": -0.42,
@@ -596,18 +602,18 @@
       },
       "NII": {
         "category": "NII",
-        "median": 0.5,
-        "mean": 0.51,
-        "p10": 0.39,
-        "p90": 0.63,
+        "median": 0.42,
+        "mean": 0.43,
+        "p10": 0.35,
+        "p90": 0.51,
         "ci80": [
-          0.39,
-          0.63
+          0.35,
+          0.51
         ],
-        "log_sd": 0.185,
-        "confidence": 0.936,
+        "log_sd": 0.151,
+        "confidence": 0.957,
         "observed": 0.18,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 3.33,
         "drivers": {
           "size_large": -0.42,
@@ -617,18 +623,18 @@
       },
       "QIB": {
         "category": "QIB",
-        "median": 5.19,
-        "mean": 5.32,
-        "p10": 3.95,
-        "p90": 6.84,
+        "median": 4.24,
+        "mean": 4.31,
+        "p10": 3.4,
+        "p90": 5.29,
         "ci80": [
-          3.95,
-          6.84
+          3.4,
+          5.29
         ],
-        "log_sd": 0.214,
-        "confidence": 0.916,
+        "log_sd": 0.172,
+        "confidence": 0.944,
         "observed": 1.37,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 2.66,
         "drivers": {
           "size_large": -0.42,
@@ -638,18 +644,18 @@
       },
       "RETAIL": {
         "category": "RETAIL",
-        "median": 0.42,
-        "mean": 0.42,
-        "p10": 0.35,
-        "p90": 0.5,
+        "median": 0.38,
+        "mean": 0.39,
+        "p10": 0.33,
+        "p90": 0.45,
         "ci80": [
-          0.35,
-          0.5
+          0.33,
+          0.45
         ],
-        "log_sd": 0.148,
-        "confidence": 0.958,
+        "log_sd": 0.124,
+        "confidence": 0.97,
         "observed": 0.24,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 1.06,
         "drivers": {
           "size_large": -0.42,
@@ -659,18 +665,18 @@
       },
       "SHAREHOLDER": {
         "category": "SHAREHOLDER",
-        "median": 0.46,
-        "mean": 0.46,
-        "p10": 0.38,
-        "p90": 0.56,
+        "median": 0.42,
+        "mean": 0.43,
+        "p10": 0.36,
+        "p90": 0.5,
         "ci80": [
-          0.38,
-          0.56
+          0.36,
+          0.5
         ],
-        "log_sd": 0.153,
-        "confidence": 0.956,
+        "log_sd": 0.127,
+        "confidence": 0.969,
         "observed": 0.28,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 0.83,
         "drivers": {
           "size_large": -0.42,
@@ -680,18 +686,18 @@
       },
       "bNII": {
         "category": "bNII",
-        "median": 0.43,
-        "mean": 0.44,
-        "p10": 0.34,
-        "p90": 0.56,
+        "median": 0.36,
+        "mean": 0.36,
+        "p10": 0.29,
+        "p90": 0.44,
         "ci80": [
-          0.34,
-          0.56
+          0.29,
+          0.44
         ],
-        "log_sd": 0.194,
-        "confidence": 0.93,
+        "log_sd": 0.158,
+        "confidence": 0.953,
         "observed": 0.13,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 2.99,
         "drivers": {
           "size_large": -0.42,
@@ -701,18 +707,18 @@
       },
       "sNII": {
         "category": "sNII",
-        "median": 0.64,
-        "mean": 0.65,
-        "p10": 0.51,
-        "p90": 0.81,
+        "median": 0.56,
+        "mean": 0.57,
+        "p10": 0.47,
+        "p90": 0.67,
         "ci80": [
-          0.51,
-          0.81
+          0.47,
+          0.67
         ],
-        "log_sd": 0.176,
-        "confidence": 0.942,
+        "log_sd": 0.144,
+        "confidence": 0.96,
         "observed": 0.27,
-        "n_updates": 5,
+        "n_updates": 6,
         "prior_median": 3.99,
         "drivers": {
           "size_large": -0.42,
@@ -726,13 +732,13 @@
       "symbol": "MAHACOAL",
       "name": "Mahanadi Coalfields Ltd.",
       "clock": {
-        "now_ist": "2026-11-22T18:21:39+05:30",
-        "phase": "early",
-        "is_final_day": false,
+        "now_ist": "2026-11-23T00:50:51+05:30",
+        "phase": "final_day_morning",
+        "is_final_day": true,
         "cutoff_at": "2026-11-23T17:00+05:30",
         "submit_by": "2026-11-23T16:00+05:30",
         "mandate_by": "2026-11-23T16:40+05:30",
-        "countdown": "22h 38m",
+        "countdown": "16h 09m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -748,11 +754,17 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 22h 38m"
+          "time to cut-off: 16h 09m"
         ]
       },
-      "alerts": [],
-      "max_level": "INFO"
+      "alerts": [
+        {
+          "level": "WATCH",
+          "kind": "final_day",
+          "message": "MAHACOAL: closes today, 16h 09m to cut-off"
+        }
+      ],
+      "max_level": "WATCH"
     },
     "weights_used": {
       "demand": 22.9,
