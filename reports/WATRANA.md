@@ -45,7 +45,7 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 18.4%, valuation 18.8%, financials 20.8% — demand earns influence as the book fills._
+_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
 
 ## Listing expectation
 
@@ -60,12 +60,12 @@ _Score weighting right now: demand 18.4%, valuation 18.8%, financials 20.8% — 
 
 ## Execution
 
-- Phase: **early**, 40h 29m to the UPI mandate cut-off
+- Phase: **early**, 22h 37m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-23T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 40h 29m
+  - time to cut-off: 22h 37m
 
 ## Why it scores where it does
 
@@ -84,4 +84,4 @@ _Score weighting right now: demand 18.4%, valuation 18.8%, financials 20.8% — 
 - EPS CAGR +19%
 
 ---
-*Generated 22 Nov 2026 00:30 by IPO Radar. Analysis only — not investment advice.*
+*Generated 22 Nov 2026 18:22 by IPO Radar. Analysis only — not investment advice.*

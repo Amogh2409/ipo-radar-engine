@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_22 Nov 2026 00:30_
+_22 Nov 2026 18:22_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -10,7 +10,7 @@ _22 Nov 2026 00:30_
 |---|---|---|---|---|---|
 | [SHREESIDHI](SHREESIDHI.md) | 2026-11-27 | 66 | APPLY | +12.7% | — |
 | [WATRANA](WATRANA.md) | 2026-11-23 | 60 | NEUTRAL | +24.8% | — |
-| [MAHACOAL](MAHACOAL.md) | 2026-11-23 | 54 | NEUTRAL | +5.1% | 100% |
+| [MAHACOAL](MAHACOAL.md) | 2026-11-23 | 44 | AVOID | +0.0% | 100% |
 
 ## Closed and listed
 
