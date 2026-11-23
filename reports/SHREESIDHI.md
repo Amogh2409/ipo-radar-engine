@@ -1,6 +1,6 @@
 # Shree Siddhivinayak Greentech Industries Limited (SHREESIDHI)
 
-**APPLY** · score **66/100** · confidence 45%
+**APPLY** · score **68/100** · confidence 45%
 
 ## Issue
 
@@ -31,7 +31,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 _No bidding data yet._
 
-Grey market premium: **₹0** (+0.0%) via ipowatch
+Grey market premium: **₹5** (+3.8%) via ipowatch
 
 ## Demand — posterior view
 
@@ -49,9 +49,9 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+12.7%**
-- Likely range: -7.8% to +33.2%
-- Probability of a positive listing: **73%**
+- Central estimate: **+14.7%**
+- Likely range: -7.2% to +36.5%
+- Probability of a positive listing: **75%**
 
 ## Allotment odds
 
@@ -60,12 +60,12 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **pre_open**, 112h 08m to the UPI mandate cut-off
+- Phase: **pre_open**, 92h 13m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-27T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 27 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 112h 08m
+  - time to cut-off: 92h 13m
 
 ## Why it scores where it does
 
@@ -73,10 +73,10 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - EPS CAGR +94%
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- grey market flat or negative
+- GMP firming into close
 - anchor book could not be read from the RHP
 - selling holders exiting at 7.1x their cost
 - recent IPOs listed +8.1% on average
 
 ---
-*Generated 23 Nov 2026 00:51 by IPO Radar. Analysis only — not investment advice.*
+*Generated 23 Nov 2026 20:46 by IPO Radar. Analysis only — not investment advice.*

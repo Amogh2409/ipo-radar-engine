@@ -31,7 +31,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 _No bidding data yet._
 
-Grey market premium: **₹65** (+28.0%) via ipowatch
+Grey market premium: **₹40** (+17.2%) via ipowatch
 
 ## Demand — posterior view
 
@@ -45,13 +45,13 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+24.8%**
-- Likely range: -4.1% to +53.8%
-- Probability of a positive listing: **80%**
+- Central estimate: **+19.4%**
+- Likely range: -5.8% to +44.5%
+- Probability of a positive listing: **78%**
 
 ## Allotment odds
 
@@ -60,12 +60,11 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 
 ## Execution
 
-- Phase: **final_day_morning**, 16h 08m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-23T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 16h 08m
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
@@ -73,7 +72,6 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 - High-Spread Compounder: RoNW (34.1%) exceeds Cost of Equity (15.8%) by 18.2pp
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- strong grey market premium (+28.0%)
 - GMP firming into close
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
@@ -84,4 +82,4 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 - EPS CAGR +19%
 
 ---
-*Generated 23 Nov 2026 00:51 by IPO Radar. Analysis only — not investment advice.*
+*Generated 23 Nov 2026 20:46 by IPO Radar. Analysis only — not investment advice.*

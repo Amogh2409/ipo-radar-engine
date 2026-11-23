@@ -1,6 +1,6 @@
 # Mahanadi Coalfields Ltd. (MAHACOAL)
 
-**AVOID** · score **44/100** · confidence 68%
+**NEUTRAL** · score **52/100** · confidence 69%
 
 ## Issue
 
@@ -31,13 +31,13 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 | Category | Offered | Bid | Current | Projected final |
 |---|---|---|---|---|
-| EMPLOYEE | 33,091,815 | 2,990,570 | 0.09x | 0.13x |
-| NII | 84,384,129 | 15,207,060 | 0.18x | 0.42x |
-| QIB | 112,512,171 | 154,362,670 | 1.37x | 4.24x |
-| RETAIL | 196,896,300 | 47,970,670 | 0.24x | 0.38x |
-| SHAREHOLDER | 66,183,630 | 18,307,630 | 0.28x | 0.42x |
-| bNII | 56,256,086 | 7,583,510 | 0.13x | 0.36x |
-| sNII | 28,128,043 | 7,623,550 | 0.27x | 0.56x |
+| EMPLOYEE | 33,091,815 | 7,271,330 | 0.22x | 0.22x |
+| NII | 84,384,129 | 55,766,810 | 0.66x | 0.66x |
+| QIB | 112,512,171 | 556,811,640 | 4.95x | 4.95x |
+| RETAIL | 196,896,300 | 91,449,380 | 0.46x | 0.46x |
+| SHAREHOLDER | 66,183,630 | 37,388,230 | 0.56x | 0.56x |
+| bNII | 56,256,086 | 34,773,090 | 0.62x | 0.62x |
+| sNII | 28,128,043 | 20,993,720 | 0.75x | 0.75x |
 
 Grey market premium: **₹0** (+0.0%) via ipowatch
 
@@ -47,21 +47,21 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 
 | Category | Now | Posterior median | 80% interval | Confidence |
 |---|---|---|---|---|
-| EMPLOYEE | 0.09x | **0.13x** | 0.11x – 0.16x | 97% |
-| NII | 0.18x | **0.42x** | 0.35x – 0.51x | 96% |
-| QIB | 1.37x | **4.24x** | 3.40x – 5.29x | 94% |
-| RETAIL | 0.24x | **0.38x** | 0.33x – 0.45x | 97% |
-| SHAREHOLDER | 0.28x | **0.42x** | 0.36x – 0.50x | 97% |
-| bNII | 0.13x | **0.36x** | 0.29x – 0.44x | 95% |
-| sNII | 0.27x | **0.56x** | 0.47x – 0.67x | 96% |
+| EMPLOYEE | 0.22x | **0.22x** | 0.22x – 0.23x | 100% |
+| NII | 0.66x | **0.66x** | 0.66x – 0.70x | 100% |
+| QIB | 4.95x | **4.95x** | 4.95x – 5.28x | 100% |
+| RETAIL | 0.46x | **0.46x** | 0.46x – 0.50x | 100% |
+| SHAREHOLDER | 0.56x | **0.56x** | 0.56x – 0.60x | 100% |
+| bNII | 0.62x | **0.62x** | 0.62x – 0.66x | 100% |
+| sNII | 0.75x | **0.75x** | 0.75x – 0.80x | 100% |
 
-_Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+0.0%**
-- Likely range: -8.4% to +0.0%
-- Probability of a positive listing: **0%**
+- Central estimate: **+3.3%**
+- Likely range: -5.1% to +11.7%
+- Probability of a positive listing: **65%**
 
 ## Allotment odds
 
@@ -73,12 +73,11 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 
 ## Execution
 
-- Phase: **final_day_morning**, 16h 09m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-23T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 23 Nov 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 16h 09m
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
@@ -92,7 +91,6 @@ _Score weighting right now: demand 22.9%, valuation 16.6%, financials 18.5% — 
 ## Risks
 
 - EPS CAGR -5%
-- DEMAND COLLAPSE - total book 0.48x with 80% of the window gone; the market has declined this issue
 
 ---
-*Generated 23 Nov 2026 00:51 by IPO Radar. Analysis only — not investment advice.*
+*Generated 23 Nov 2026 20:46 by IPO Radar. Analysis only — not investment advice.*
