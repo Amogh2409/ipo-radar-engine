@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_23 Nov 2026 20:46_
+_24 Nov 2026 05:13_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -10,8 +10,6 @@ _23 Nov 2026 20:46_
 |---|---|---|---|---|---|
 | [SHREESIDHI](SHREESIDHI.md) | 2026-11-27 | 68 | APPLY | +14.7% | — |
 | [FOODLINK](FOODLINK.md) | 2026-11-30 | 61 | APPLY | +14.5% | 22% |
-| [WATRANA](WATRANA.md) | 2026-11-23 | 60 | NEUTRAL | +19.4% | — |
-| [MAHACOAL](MAHACOAL.md) | 2026-11-23 | 52 | NEUTRAL | +3.3% | 100% |
 
 ## Suggested applications
 
@@ -36,8 +34,6 @@ _ASBA blocks capital from the close date until roughly T+3 business days, so wha
 ### Skipped
 
 - **SHREESIDHI** — no affordable application plan
-- **WATRANA** — score 60 below cutoff 61
-- **MAHACOAL** — score 52 below cutoff 61
 
 ## Closed and listed
 
@@ -45,6 +41,8 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 
 | IPO | Closed | Issue price | Our call | Predicted | Listed | Listing price | Listing gain | Current price | Now vs issue |
 |---|---|---|---|---|---|---|---|---|---|
+| [MAHACOAL](MAHACOAL.md) | 2026-11-23 | ₹136.00 | NEUTRAL | +3.3% | awaiting | — | — | — | — |
+| [WATRANA](WATRANA.md) | 2026-11-23 | ₹245.00 | NEUTRAL | +19.4% | awaiting | — | — | — | — |
 | [CRYSTALCP](CRYSTALCP.md) | 2026-11-20 | ₹272.00 | NEUTRAL | +14.5% | awaiting | — | — | — | — |
 | BOMBAYCOATEDSPECIALS | 2026-11-02 | ₹82.00 | — | — | awaiting | — | — | — | — |
 | MKSONSFINEJEWELS | 2026-10-30 | ₹162.00 | — | — | awaiting | — | — | — | — |
@@ -73,5 +71,3 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 | [MANIKA](MANIKA.md) | 2026-09-16 | ₹43.00 | APPLY | +27.2% | 2026-09-21 | ₹43.00 | +0.0% | ₹44.57 | +3.7% |
 | [VEEGALAND](VEEGALAND.md) | 2026-09-15 | ₹140.00 | APPLY | +20.5% | 2026-09-18 | ₹154.00 | +10.0% | ₹140.43 | +0.3% |
 | [ARCIL](ARCIL.md) | 2026-09-11 | ₹139.00 | SPECULATIVE FLIP | +23.0% | 2026-09-17 | ₹139.00 | +0.0% | ₹121.02 | -12.9% |
-| [KARAMTARA](KARAMTARA.md) | 2026-09-11 | ₹254.00 | STRONG APPLY | +34.8% | 2026-09-17 | ₹320.00 | +26.0% | ₹351.35 | +38.3% |
-| [LCCPROJECT](LCCPROJECT.md) | 2026-09-11 | ₹146.00 | STRONG APPLY | +34.9% | 2026-09-18 | ₹159.63 | +9.3% | ₹123.68 | -15.3% |
