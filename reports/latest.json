@@ -1,8 +1,8 @@
 [
   {
     "symbol": "SHREESIDHI",
-    "ts": "2026-11-24T05:13:05",
-    "score": 68.4,
+    "ts": "2026-11-24T20:43:29",
+    "score": 69.4,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - moderate upside",
     "stance_longterm": "worth holding - good business at a defensible price",
@@ -11,7 +11,7 @@
       "valuation": 84.6,
       "financials": 75.0,
       "demand": 68.0,
-      "gmp": 65.8,
+      "gmp": 73.1,
       "structure": 41.0,
       "regime": 59.0,
       "qualitative": 50.0
@@ -27,12 +27,12 @@
       "recent IPOs listed +8.1% on average"
     ],
     "risks": [],
-    "expected_listing_gain_pct": 14.7,
+    "expected_listing_gain_pct": 16.6,
     "listing_gain_range": [
-      -7.2,
-      36.5
+      -6.6,
+      39.8
     ],
-    "p_positive_listing": 0.749,
+    "p_positive_listing": 0.763,
     "allotment": {},
     "projected_subscription": {
       "QIB": 12.93,
@@ -149,13 +149,13 @@
       "symbol": "SHREESIDHI",
       "name": "Shree Siddhivinayak Greentech Industries Limited",
       "clock": {
-        "now_ist": "2026-11-24T05:13:05+05:30",
+        "now_ist": "2026-11-24T20:43:29+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-11-27T17:00+05:30",
         "submit_by": "2026-11-27T16:00+05:30",
         "mandate_by": "2026-11-27T16:40+05:30",
-        "countdown": "83h 46m",
+        "countdown": "68h 16m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -171,7 +171,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 27 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 83h 46m"
+          "time to cut-off: 68h 16m"
         ]
       },
       "alerts": [],
@@ -241,8 +241,8 @@
   },
   {
     "symbol": "FOODLINK",
-    "ts": "2026-11-24T05:13:31",
-    "score": 61.2,
+    "ts": "2026-11-24T20:44:05",
+    "score": 62.8,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - moderate upside",
     "stance_longterm": "average - no strong long-term case",
@@ -251,7 +251,7 @@
       "valuation": 46.0,
       "financials": 80.0,
       "demand": 68.0,
-      "gmp": 63.2,
+      "gmp": 75.2,
       "structure": 55.0,
       "regime": 59.0,
       "qualitative": 50.0
@@ -260,6 +260,7 @@
       "EPS CAGR +100%",
       "institutional book strong at 12.9x projected QIB",
       "demand still early (22% of the bid window elapsed) - projections are indicative only",
+      "GMP firming into close",
       "anchor book could not be read from the RHP",
       "recent IPOs listed +8.1% on average"
     ],
@@ -267,40 +268,40 @@
       "RoNW 17.4% - modest returns on capital",
       "RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread"
     ],
-    "expected_listing_gain_pct": 14.5,
+    "expected_listing_gain_pct": 15.6,
     "listing_gain_range": [
-      -7.3,
-      36.2
+      -6.9,
+      38.2
     ],
-    "p_positive_listing": 0.747,
+    "p_positive_listing": 0.756,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 1,
         "ticket_value": 14898.0,
-        "p_single": 0.21582225592383875,
-        "expected_lots": 0.21582225592383875,
-        "p_any_multi": 0.21582225592383875,
-        "expected_lots_multi": 0.21582225592383875,
+        "p_single": 0.2240256025417,
+        "expected_lots": 0.2240256025417,
+        "p_any_multi": 0.2240256025417,
+        "expected_lots_multi": 0.2240256025417,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
-        "note": "lottery for 1 lot; ~1.40 mean lots/application against 6.46x"
+        "note": "lottery for 1 lot; ~1.45 mean lots/application against 6.46x"
       },
       "RETAIL:13": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 13,
         "ticket_value": 193674.0,
-        "p_single": 0.21582225592383875,
-        "expected_lots": 0.21582225592383875,
-        "p_any_multi": 0.21582225592383875,
-        "expected_lots_multi": 0.21582225592383875,
+        "p_single": 0.2240256025417,
+        "expected_lots": 0.2240256025417,
+        "p_any_multi": 0.2240256025417,
+        "expected_lots_multi": 0.2240256025417,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
-        "note": "lottery for 1 lot; ~1.40 mean lots/application against 6.46x"
+        "note": "lottery for 1 lot; ~1.45 mean lots/application against 6.46x"
       },
       "sNII:14": {
         "category": "sNII",
@@ -432,13 +433,13 @@
       "symbol": "FOODLINK",
       "name": "Foodlink F&B Holdings (India) Limited",
       "clock": {
-        "now_ist": "2026-11-24T05:13:31+05:30",
+        "now_ist": "2026-11-24T20:44:05+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-11-30T17:00+05:30",
         "submit_by": "2026-11-30T16:00+05:30",
         "mandate_by": "2026-11-30T16:40+05:30",
-        "countdown": "155h 46m",
+        "countdown": "140h 15m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -454,7 +455,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 30 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 155h 46m"
+          "time to cut-off: 140h 15m"
         ]
       },
       "alerts": [],

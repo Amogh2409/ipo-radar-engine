@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_24 Nov 2026 05:13_
+_24 Nov 2026 20:44_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -8,16 +8,16 @@ _24 Nov 2026 05:13_
 
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
-| [SHREESIDHI](SHREESIDHI.md) | 2026-11-27 | 68 | APPLY | +14.7% | — |
-| [FOODLINK](FOODLINK.md) | 2026-11-30 | 61 | APPLY | +14.5% | 22% |
+| [SHREESIDHI](SHREESIDHI.md) | 2026-11-27 | 69 | APPLY | +16.6% | — |
+| [FOODLINK](FOODLINK.md) | 2026-11-30 | 63 | APPLY | +15.6% | 22% |
 
 ## Suggested applications
 
 | PAN | IPO | Category | Lots | Capital | P(allot) | E[profit] |
 |---|---|---|---|---|---|---|
-| #1 | FOODLINK | RETAIL | 1 | ₹14,898 | 22% | ₹466 |
+| #1 | FOODLINK | RETAIL | 1 | ₹14,898 | 22% | ₹521 |
 
-Capital deployed **₹14,898** of ₹500,000, expected profit **₹466** (3.13% on blocked funds).
+Capital deployed **₹14,898** of ₹500,000, expected profit **₹521** (3.49% on blocked funds).
 
 ### Cash flow projection
 

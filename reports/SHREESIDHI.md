@@ -1,6 +1,6 @@
 # Shree Siddhivinayak Greentech Industries Limited (SHREESIDHI)
 
-**APPLY** · score **68/100** · confidence 45%
+**APPLY** · score **69/100** · confidence 45%
 
 ## Issue
 
@@ -31,7 +31,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 _No bidding data yet._
 
-Grey market premium: **₹5** (+3.8%) via ipowatch
+Grey market premium: **₹10** (+7.7%) via ipowatch
 
 ## Demand — posterior view
 
@@ -49,9 +49,9 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+14.7%**
-- Likely range: -7.2% to +36.5%
-- Probability of a positive listing: **75%**
+- Central estimate: **+16.6%**
+- Likely range: -6.6% to +39.8%
+- Probability of a positive listing: **76%**
 
 ## Allotment odds
 
@@ -60,12 +60,12 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **pre_open**, 83h 46m to the UPI mandate cut-off
+- Phase: **pre_open**, 68h 16m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-27T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 27 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 83h 46m
+  - time to cut-off: 68h 16m
 
 ## Why it scores where it does
 
@@ -79,4 +79,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - recent IPOs listed +8.1% on average
 
 ---
-*Generated 24 Nov 2026 05:13 by IPO Radar. Analysis only — not investment advice.*
+*Generated 24 Nov 2026 20:44 by IPO Radar. Analysis only — not investment advice.*

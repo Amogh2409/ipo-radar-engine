@@ -1,6 +1,6 @@
 # Foodlink F&B Holdings (India) Limited (FOODLINK)
 
-**APPLY** · score **61/100** · confidence 45%
+**APPLY** · score **63/100** · confidence 45%
 
 ## Issue
 
@@ -35,7 +35,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 _No bidding data yet._
 
-Grey market premium: **₹12** (+6.6%) via ipowatch
+Grey market premium: **₹16** (+8.8%) via ipowatch
 
 ## Demand — posterior view
 
@@ -53,34 +53,35 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+14.5%**
-- Likely range: -7.3% to +36.2%
-- Probability of a positive listing: **75%**
+- Central estimate: **+15.6%**
+- Likely range: -6.9% to +38.2%
+- Probability of a positive listing: **76%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,898 | lottery | 21.6% | 17 |
-| RETAIL | 13 | ₹193,674 | lottery | 21.6% | 17 |
+| RETAIL | 1 | ₹14,898 | lottery | 22.4% | 17 |
+| RETAIL | 13 | ₹193,674 | lottery | 22.4% | 17 |
 | sNII | 14 | ₹208,572 | lottery | 72.2% | 56 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Execution
 
-- Phase: **pre_open**, 155h 46m to the UPI mandate cut-off
+- Phase: **pre_open**, 140h 15m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-30T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 30 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 155h 46m
+  - time to cut-off: 140h 15m
 
 ## Why it scores where it does
 
 - EPS CAGR +100%
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
+- GMP firming into close
 - anchor book could not be read from the RHP
 - recent IPOs listed +8.1% on average
 
@@ -90,4 +91,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread
 
 ---
-*Generated 24 Nov 2026 05:13 by IPO Radar. Analysis only — not investment advice.*
+*Generated 24 Nov 2026 20:44 by IPO Radar. Analysis only — not investment advice.*
