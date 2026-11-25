@@ -1,6 +1,6 @@
 # Shree Siddhivinayak Greentech Industries Limited (SHREESIDHI)
 
-**APPLY** · score **69/100** · confidence 45%
+**APPLY** · score **70/100** · confidence 45%
 
 ## Issue
 
@@ -31,7 +31,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 _No bidding data yet._
 
-Grey market premium: **₹10** (+7.7%) via ipowatch
+Grey market premium: **₹20** (+15.4%) via ipowatch
 
 ## Demand — posterior view
 
@@ -45,13 +45,13 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 12.0%, valuation 21.8%, financials 24.2% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+16.6%**
-- Likely range: -6.6% to +39.8%
-- Probability of a positive listing: **76%**
+- Central estimate: **+20.5%**
+- Likely range: -5.5% to +46.5%
+- Probability of a positive listing: **78%**
 
 ## Allotment odds
 
@@ -60,12 +60,12 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **early**, 61h 15m to the UPI mandate cut-off
+- Phase: **early**, 44h 35m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-27T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 27 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 61h 15m
+  - time to cut-off: 44h 35m
 
 ## Why it scores where it does
 
@@ -79,4 +79,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - recent IPOs listed +8.1% on average
 
 ---
-*Generated 25 Nov 2026 03:44 by IPO Radar. Analysis only — not investment advice.*
+*Generated 25 Nov 2026 20:24 by IPO Radar. Analysis only — not investment advice.*

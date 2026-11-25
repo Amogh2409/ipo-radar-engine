@@ -1,6 +1,6 @@
 # Foodlink F&B Holdings (India) Limited (FOODLINK)
 
-**APPLY** · score **63/100** · confidence 45%
+**APPLY** · score **64/100** · confidence 45%
 
 ## Issue
 
@@ -8,7 +8,7 @@
 |---|---|
 | Price band | ₹181 – ₹191 |
 | Lot size | 78 shares (₹14,898) |
-| Issue size | ₹371 Cr |
+| Issue size | ₹200 Cr |
 | Dates | 2026-11-26 → 2026-11-30 |
 | Registrar | MUFG Intime India Private Limited |
 | Lead managers | Equirus Capital Limited (formerly known as Equirus Capital Private Limited), JM Financial Limited |
@@ -35,7 +35,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 _No bidding data yet._
 
-Grey market premium: **₹16** (+8.8%) via ipowatch
+Grey market premium: **₹27** (+14.9%) via ipowatch
 
 ## Demand — posterior view
 
@@ -53,28 +53,28 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+15.6%**
-- Likely range: -6.9% to +38.2%
-- Probability of a positive listing: **76%**
+- Central estimate: **+19.0%**
+- Likely range: -5.9% to +43.9%
+- Probability of a positive listing: **78%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,898 | lottery | 22.4% | 17 |
-| RETAIL | 13 | ₹193,674 | lottery | 22.4% | 17 |
+| RETAIL | 1 | ₹14,898 | lottery | 24.3% | 19 |
+| RETAIL | 13 | ₹193,674 | lottery | 24.3% | 19 |
 | sNII | 14 | ₹208,572 | lottery | 72.2% | 56 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Execution
 
-- Phase: **pre_open**, 133h 15m to the UPI mandate cut-off
+- Phase: **pre_open**, 116h 35m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-30T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 30 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 133h 15m
+  - time to cut-off: 116h 35m
 
 ## Why it scores where it does
 
@@ -91,4 +91,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread
 
 ---
-*Generated 25 Nov 2026 03:44 by IPO Radar. Analysis only — not investment advice.*
+*Generated 25 Nov 2026 20:24 by IPO Radar. Analysis only — not investment advice.*
