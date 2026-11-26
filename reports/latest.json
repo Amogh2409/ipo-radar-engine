@@ -1,7 +1,7 @@
 [
   {
     "symbol": "SHREESIDHI",
-    "ts": "2026-11-26T19:49:14",
+    "ts": "2026-11-27T02:48:02",
     "score": 67.3,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - moderate upside",
@@ -149,13 +149,13 @@
       "symbol": "SHREESIDHI",
       "name": "Shree Siddhivinayak Greentech Industries Limited",
       "clock": {
-        "now_ist": "2026-11-26T19:49:14+05:30",
-        "phase": "early",
-        "is_final_day": false,
+        "now_ist": "2026-11-27T02:48:02+05:30",
+        "phase": "final_day_morning",
+        "is_final_day": true,
         "cutoff_at": "2026-11-27T17:00+05:30",
         "submit_by": "2026-11-27T16:00+05:30",
         "mandate_by": "2026-11-27T16:40+05:30",
-        "countdown": "21h 10m",
+        "countdown": "14h 11m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -171,11 +171,17 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 27 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 21h 10m"
+          "time to cut-off: 14h 11m"
         ]
       },
-      "alerts": [],
-      "max_level": "INFO"
+      "alerts": [
+        {
+          "level": "WATCH",
+          "kind": "final_day",
+          "message": "SHREESIDHI: closes today, 14h 11m to cut-off"
+        }
+      ],
+      "max_level": "WATCH"
     },
     "weights_used": {
       "demand": 19.9,
@@ -241,7 +247,7 @@
   },
   {
     "symbol": "MATANGI",
-    "ts": "2026-11-26T19:50:08",
+    "ts": "2026-11-27T02:49:11",
     "score": 64.1,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -431,13 +437,13 @@
       "symbol": "MATANGI",
       "name": "Matangi Rubber Limited",
       "clock": {
-        "now_ist": "2026-11-26T19:50:08+05:30",
+        "now_ist": "2026-11-27T02:49:11+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-03T17:00+05:30",
         "submit_by": "2026-12-03T16:00+05:30",
         "mandate_by": "2026-12-03T16:40+05:30",
-        "countdown": "165h 09m",
+        "countdown": "158h 10m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -453,7 +459,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 03 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 165h 09m"
+          "time to cut-off: 158h 10m"
         ]
       },
       "alerts": [],
@@ -522,7 +528,7 @@
   },
   {
     "symbol": "MONOMARK",
-    "ts": "2026-11-26T19:50:23",
+    "ts": "2026-11-27T02:49:32",
     "score": 63.5,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -713,13 +719,13 @@
       "symbol": "MONOMARK",
       "name": "Monomark Engineering (India) Limited",
       "clock": {
-        "now_ist": "2026-11-26T19:50:23+05:30",
+        "now_ist": "2026-11-27T02:49:32+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-04T17:00+05:30",
         "submit_by": "2026-12-04T16:00+05:30",
         "mandate_by": "2026-12-04T16:40+05:30",
-        "countdown": "189h 09m",
+        "countdown": "182h 10m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -735,7 +741,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 04 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 189h 09m"
+          "time to cut-off: 182h 10m"
         ]
       },
       "alerts": [],
@@ -798,7 +804,7 @@
   },
   {
     "symbol": "FOODLINK",
-    "ts": "2026-11-26T19:49:35",
+    "ts": "2026-11-27T02:48:30",
     "score": 61.3,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - moderate upside",
@@ -989,13 +995,13 @@
       "symbol": "FOODLINK",
       "name": "Foodlink F&B Holdings (India) Limited",
       "clock": {
-        "now_ist": "2026-11-26T19:49:35+05:30",
+        "now_ist": "2026-11-27T02:48:30+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-11-30T17:00+05:30",
         "submit_by": "2026-11-30T16:00+05:30",
         "mandate_by": "2026-11-30T16:40+05:30",
-        "countdown": "93h 10m",
+        "countdown": "86h 11m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -1011,7 +1017,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 30 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 93h 10m"
+          "time to cut-off: 86h 11m"
         ]
       },
       "alerts": [],
@@ -1084,7 +1090,7 @@
   },
   {
     "symbol": "AJPACK",
-    "ts": "2026-11-26T19:49:46",
+    "ts": "2026-11-27T02:48:45",
     "score": 54.2,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -1231,13 +1237,13 @@
       "symbol": "AJPACK",
       "name": "A J Packaging Limited",
       "clock": {
-        "now_ist": "2026-11-26T19:49:46+05:30",
+        "now_ist": "2026-11-27T02:48:45+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-03T17:00+05:30",
         "submit_by": "2026-12-03T16:00+05:30",
         "mandate_by": "2026-12-03T16:40+05:30",
-        "countdown": "165h 10m",
+        "countdown": "158h 11m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -1253,7 +1259,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 03 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 165h 10m"
+          "time to cut-off: 158h 11m"
         ]
       },
       "alerts": [],
@@ -1319,7 +1325,7 @@
   },
   {
     "symbol": "AIRPRO",
-    "ts": "2026-11-26T19:49:35",
+    "ts": "2026-11-27T02:48:30",
     "score": 48.2,
     "grade": "AVOID",
     "stance_listing": "apply for listing gains - moderate upside",
@@ -1464,13 +1470,13 @@
       "symbol": "AIRPRO",
       "name": "Airpro Technology India Limited",
       "clock": {
-        "now_ist": "2026-11-26T19:49:35+05:30",
-        "phase": "pre_open",
+        "now_ist": "2026-11-27T02:48:30+05:30",
+        "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-12-01T17:00+05:30",
         "submit_by": "2026-12-01T16:00+05:30",
         "mandate_by": "2026-12-01T16:40+05:30",
-        "countdown": "117h 10m",
+        "countdown": "110h 11m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -1486,7 +1492,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 01 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 117h 10m"
+          "time to cut-off: 110h 11m"
         ]
       },
       "alerts": [],
