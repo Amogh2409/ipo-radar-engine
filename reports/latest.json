@@ -1,19 +1,19 @@
 [
   {
     "symbol": "SHREESIDHI",
-    "ts": "2026-11-26T03:00:45",
-    "score": 70.3,
+    "ts": "2026-11-26T19:49:14",
+    "score": 67.3,
     "grade": "APPLY",
-    "stance_listing": "apply for listing gains - attractive risk/reward",
+    "stance_listing": "apply for listing gains - moderate upside",
     "stance_longterm": "worth holding - good business at a defensible price",
     "confidence": 0.45,
     "factors": {
       "valuation": 84.6,
       "financials": 75.0,
       "demand": 68.0,
-      "gmp": 85.2,
+      "gmp": 70.3,
       "structure": 41.0,
-      "regime": 59.0,
+      "regime": 58.9,
       "qualitative": 50.0
     },
     "reasons": [
@@ -24,15 +24,15 @@
       "GMP firming into close",
       "anchor book could not be read from the RHP",
       "selling holders exiting at 7.1x their cost",
-      "recent IPOs listed +8.1% on average"
+      "recent IPOs listed +7.8% on average"
     ],
     "risks": [],
-    "expected_listing_gain_pct": 20.5,
+    "expected_listing_gain_pct": 15.8,
     "listing_gain_range": [
-      -5.5,
-      46.5
+      -6.9,
+      38.5
     ],
-    "p_positive_listing": 0.785,
+    "p_positive_listing": 0.757,
     "allotment": {},
     "projected_subscription": {
       "QIB": 12.93,
@@ -149,13 +149,13 @@
       "symbol": "SHREESIDHI",
       "name": "Shree Siddhivinayak Greentech Industries Limited",
       "clock": {
-        "now_ist": "2026-11-26T03:00:45+05:30",
+        "now_ist": "2026-11-26T19:49:14+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-11-27T17:00+05:30",
         "submit_by": "2026-11-27T16:00+05:30",
         "mandate_by": "2026-11-27T16:40+05:30",
-        "countdown": "37h 59m",
+        "countdown": "21h 10m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -171,16 +171,16 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 27 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 37h 59m"
+          "time to cut-off: 21h 10m"
         ]
       },
       "alerts": [],
       "max_level": "INFO"
     },
     "weights_used": {
-      "demand": 12.0,
-      "valuation": 21.8,
-      "financials": 24.2
+      "demand": 19.9,
+      "valuation": 18.0,
+      "financials": 20.0
     },
     "valuation": {
       "sector_key": "unclassified",
@@ -219,8 +219,8 @@
       "implied_pe_note": "15.0x FY2026 diluted EPS"
     },
     "regime": {
-      "recent_listing_avg_pct": 8.1,
-      "recent_listing_n": 21
+      "recent_listing_avg_pct": 7.8,
+      "recent_listing_n": 22
     },
     "anchors": {
       "total": 0,
@@ -240,74 +240,72 @@
     "veto": {}
   },
   {
-    "symbol": "FOODLINK",
-    "ts": "2026-11-26T03:01:13",
+    "symbol": "MATANGI",
+    "ts": "2026-11-26T19:50:08",
     "score": 64.1,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - attractive risk/reward",
     "stance_longterm": "average - no strong long-term case",
     "confidence": 0.45,
     "factors": {
-      "valuation": 46.0,
-      "financials": 80.0,
+      "valuation": 74.7,
+      "financials": 57.0,
       "demand": 68.0,
-      "gmp": 84.6,
+      "gmp": 78.7,
       "structure": 55.0,
-      "regime": 59.0,
+      "regime": 58.9,
       "qualitative": 50.0
     },
     "reasons": [
-      "EPS CAGR +100%",
+      "RoNW 21.0% - strong returns on capital",
       "institutional book strong at 12.9x projected QIB",
       "demand still early (22% of the bid window elapsed) - projections are indicative only",
-      "GMP firming into close",
       "anchor book could not be read from the RHP",
-      "recent IPOs listed +8.1% on average"
+      "recent IPOs listed +7.8% on average"
     ],
     "risks": [
-      "RoNW 17.4% - modest returns on capital",
-      "RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread"
+      "RoNW (21.0%) only just clears Cost of Equity (15.2%) - thin economic spread"
     ],
-    "expected_listing_gain_pct": 19.0,
+    "expected_listing_gain_pct": 20.2,
     "listing_gain_range": [
-      -5.9,
-      43.9
+      -5.5,
+      45.9
     ],
-    "p_positive_listing": 0.777,
+    "p_positive_listing": 0.784,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 1,
-        "ticket_value": 14898.0,
-        "p_single": 0.2427635868499943,
-        "expected_lots": 0.2427635868499943,
-        "p_any_multi": 0.24276358684999433,
-        "expected_lots_multi": 0.2427635868499943,
+        "ticket_value": 14964.0,
+        "p_single": 0.24701228204429007,
+        "expected_lots": 0.24701228204429007,
+        "p_any_multi": 0.24701228204429004,
+        "expected_lots_multi": 0.24701228204429007,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
-        "note": "lottery for 1 lot; ~1.57 mean lots/application against 6.46x"
+        "note": "lottery for 1 lot; ~1.60 mean lots/application against 6.46x"
       },
       "RETAIL:13": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 13,
-        "ticket_value": 193674.0,
-        "p_single": 0.2427635868499943,
-        "expected_lots": 0.2427635868499943,
-        "p_any_multi": 0.24276358684999433,
-        "expected_lots_multi": 0.2427635868499943,
+        "ticket_value": 194532.0,
+        "p_single": 0.24701228204429007,
+        "expected_lots": 0.24701228204429007,
+        "p_any_multi": 0.24701228204429004,
+        "expected_lots_multi": 0.24701228204429007,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
-        "note": "lottery for 1 lot; ~1.57 mean lots/application against 6.46x"
+        "note": "lottery for 1 lot; ~1.60 mean lots/application against 6.46x"
       },
       "sNII:14": {
         "category": "sNII",
         "subscription_x": 19.39289282631472,
         "lots_applied": 14,
-        "ticket_value": 208572.0,
+        "ticket_value": 209496.0,
         "p_single": 0.7219139571071643,
         "expected_lots": 0.7219139571071643,
         "p_any_multi": 0.7219139571071643,
@@ -430,16 +428,16 @@
     },
     "guardrails": {},
     "tday": {
-      "symbol": "FOODLINK",
-      "name": "Foodlink F&B Holdings (India) Limited",
+      "symbol": "MATANGI",
+      "name": "Matangi Rubber Limited",
       "clock": {
-        "now_ist": "2026-11-26T03:01:13+05:30",
-        "phase": "early",
+        "now_ist": "2026-11-26T19:50:08+05:30",
+        "phase": "pre_open",
         "is_final_day": false,
-        "cutoff_at": "2026-11-30T17:00+05:30",
-        "submit_by": "2026-11-30T16:00+05:30",
-        "mandate_by": "2026-11-30T16:40+05:30",
-        "countdown": "109h 58m",
+        "cutoff_at": "2026-12-03T17:00+05:30",
+        "submit_by": "2026-12-03T16:00+05:30",
+        "mandate_by": "2026-12-03T16:40+05:30",
+        "countdown": "165h 09m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -452,10 +450,10 @@
         "bid_price_instruction": "",
         "p_allot": null,
         "expected_profit": null,
-        "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 30 Nov 17:00 IST.",
+        "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 03 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 109h 58m"
+          "time to cut-off: 165h 09m"
         ]
       },
       "alerts": [],
@@ -467,47 +465,43 @@
       "financials": 27.9
     },
     "valuation": {
-      "sector_key": "unclassified",
-      "capital_intensity": 0.45,
-      "ev_status": "missing EPS or PAT",
-      "pe": 34.85,
-      "pb": 4.34,
-      "ronw_pct": 17.35,
+      "sector_key": "tech",
+      "capital_intensity": 0.15,
+      "ev_scale_assumed": "Rs million",
+      "ronw_implied_pct": 3681.75,
+      "ev_status": "RoNW reconciliation failed (implied 3681.7% vs reported 21.0%)",
+      "pe": 16.6,
+      "pb": 2.84,
+      "ronw_pct": 20.98,
       "loss_making": false,
-      "eps_cagr_pct": 100.0,
-      "benchmark_pe": 24.0,
-      "benchmark_source": "sector heuristic",
-      "peer_note": "RHP states no comparable listed peers",
-      "pe_vs_benchmark": 1.45,
-      "peg": 0.35,
-      "pb_implied_pe": 25.0,
-      "pe_score": 46.0,
+      "eps_cagr_pct": null,
+      "benchmark_pe": 20.5,
+      "benchmark_source": "RHP peer group",
+      "pe_vs_benchmark": 0.81,
+      "pb_implied_pe": 13.5,
+      "pe_score": 74.7,
       "ev_weight": 0.0,
-      "valuation_basis": "P/E only - EV/EBITDA unavailable (missing EPS or PAT)",
-      "valuation_score": 46.0,
-      "valuation_score_raw": 46.0,
-      "eps_trend": "rising every year",
+      "valuation_basis": "P/E only - EV/EBITDA unavailable (RoNW reconciliation failed (implied 3681.7% vs reported 21.0%))",
+      "valuation_score": 74.7,
+      "valuation_score_raw": 74.7,
       "risk_free_pct": 6.75,
-      "beta": 1.07,
+      "beta": 1.3,
       "risk_free_source": "fallback assumption",
-      "cfo_cr": 29.9,
-      "ebitda_cr": 16.2,
-      "cash_conversion": 1.85,
-      "cash_conversion_status": "healthy (185% of EBITDA)",
-      "cost_of_equity_pct": 13.74,
-      "eva_spread_pct": 3.61,
+      "cash_conversion_status": "CFO not disclosed in parsed sections",
+      "cost_of_equity_pct": 15.2,
+      "eva_spread_pct": 5.78,
       "eva_verdict": "marginal",
-      "eva_flag": "RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread",
+      "eva_flag": "RoNW (21.0%) only just clears Cost of Equity (15.2%) - thin economic spread",
       "eva_risk_flags": [
-        "RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread"
+        "RoNW (21.0%) only just clears Cost of Equity (15.2%) - thin economic spread"
       ],
-      "quality_score": 80.0,
-      "quality_score_raw": 80.0,
-      "implied_pe_note": "34.9x FY2026 diluted EPS"
+      "quality_score": 57.0,
+      "quality_score_raw": 57.0,
+      "implied_pe_note": "16.6x FYlatest diluted EPS"
     },
     "regime": {
-      "recent_listing_avg_pct": 8.1,
-      "recent_listing_n": 21
+      "recent_listing_avg_pct": 7.8,
+      "recent_listing_n": 22
     },
     "anchors": {
       "total": 0,
@@ -528,8 +522,8 @@
   },
   {
     "symbol": "MONOMARK",
-    "ts": "2026-11-26T03:01:48",
-    "score": 62.3,
+    "ts": "2026-11-26T19:50:23",
+    "score": 63.5,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - attractive risk/reward",
     "stance_longterm": "average - no strong long-term case",
@@ -538,9 +532,9 @@
       "valuation": 45.0,
       "financials": 71.0,
       "demand": 68.0,
-      "gmp": 91.4,
+      "gmp": 100,
       "structure": 55.0,
-      "regime": 59.0,
+      "regime": 58.9,
       "qualitative": 50.0
     },
     "reasons": [
@@ -548,45 +542,46 @@
       "High-Spread Compounder: RoNW (22.2%) exceeds Cost of Equity (13.9%) by 8.3pp",
       "institutional book strong at 12.9x projected QIB",
       "demand still early (22% of the bid window elapsed) - projections are indicative only",
-      "strong grey market premium (+35.0%)",
+      "strong grey market premium (+40.0%)",
+      "GMP firming into close",
       "anchor book could not be read from the RHP",
-      "recent IPOs listed +8.1% on average"
+      "recent IPOs listed +7.8% on average"
     ],
     "risks": [],
-    "expected_listing_gain_pct": 28.9,
+    "expected_listing_gain_pct": 31.5,
     "listing_gain_range": [
-      -2.9,
-      60.8
+      -2.1,
+      65.1
     ],
-    "p_positive_listing": 0.818,
+    "p_positive_listing": 0.825,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 1,
         "ticket_value": 14625.0,
-        "p_single": 0.27801856860203333,
-        "expected_lots": 0.27801856860203333,
-        "p_any_multi": 0.27801856860203333,
-        "expected_lots_multi": 0.27801856860203333,
+        "p_single": 0.2828241600654031,
+        "expected_lots": 0.2828241600654031,
+        "p_any_multi": 0.2828241600654031,
+        "expected_lots_multi": 0.2828241600654031,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
-        "note": "lottery for 1 lot; ~1.80 mean lots/application against 6.46x"
+        "note": "lottery for 1 lot; ~1.83 mean lots/application against 6.46x"
       },
       "RETAIL:13": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 13,
         "ticket_value": 190125.0,
-        "p_single": 0.27801856860203333,
-        "expected_lots": 0.27801856860203333,
-        "p_any_multi": 0.27801856860203333,
-        "expected_lots_multi": 0.27801856860203333,
+        "p_single": 0.2828241600654031,
+        "expected_lots": 0.2828241600654031,
+        "p_any_multi": 0.2828241600654031,
+        "expected_lots_multi": 0.2828241600654031,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
-        "note": "lottery for 1 lot; ~1.80 mean lots/application against 6.46x"
+        "note": "lottery for 1 lot; ~1.83 mean lots/application against 6.46x"
       },
       "sNII:14": {
         "category": "sNII",
@@ -718,13 +713,13 @@
       "symbol": "MONOMARK",
       "name": "Monomark Engineering (India) Limited",
       "clock": {
-        "now_ist": "2026-11-26T03:01:48+05:30",
+        "now_ist": "2026-11-26T19:50:23+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-04T17:00+05:30",
         "submit_by": "2026-12-04T16:00+05:30",
         "mandate_by": "2026-12-04T16:40+05:30",
-        "countdown": "205h 58m",
+        "countdown": "189h 09m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -740,7 +735,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 04 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 205h 58m"
+          "time to cut-off: 189h 09m"
         ]
       },
       "alerts": [],
@@ -781,8 +776,294 @@
       "quality_score_raw": 71.0
     },
     "regime": {
-      "recent_listing_avg_pct": 8.1,
-      "recent_listing_n": 21
+      "recent_listing_avg_pct": 7.8,
+      "recent_listing_n": 22
+    },
+    "anchors": {
+      "total": 0,
+      "compounders": [],
+      "flippers": [],
+      "neutral": [],
+      "compounder_ratio": 0.0,
+      "flipper_ratio": 0.0,
+      "quality_score": 50.0,
+      "overhang_risk": "UNKNOWN",
+      "flags": [
+        "anchor book could not be read from the RHP"
+      ],
+      "dropped": 0,
+      "day30": {}
+    },
+    "veto": {}
+  },
+  {
+    "symbol": "FOODLINK",
+    "ts": "2026-11-26T19:49:35",
+    "score": 61.3,
+    "grade": "APPLY",
+    "stance_listing": "apply for listing gains - moderate upside",
+    "stance_longterm": "average - no strong long-term case",
+    "confidence": 0.45,
+    "factors": {
+      "valuation": 46.0,
+      "financials": 80.0,
+      "demand": 68.0,
+      "gmp": 63.2,
+      "structure": 55.0,
+      "regime": 58.9,
+      "qualitative": 50.0
+    },
+    "reasons": [
+      "EPS CAGR +100%",
+      "institutional book strong at 12.9x projected QIB",
+      "demand still early (22% of the bid window elapsed) - projections are indicative only",
+      "anchor book could not be read from the RHP",
+      "recent IPOs listed +7.8% on average"
+    ],
+    "risks": [
+      "RoNW 17.4% - modest returns on capital",
+      "RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread"
+    ],
+    "expected_listing_gain_pct": 14.8,
+    "listing_gain_range": [
+      -7.2,
+      36.7
+    ],
+    "p_positive_listing": 0.75,
+    "allotment": {
+      "RETAIL:1": {
+        "category": "RETAIL",
+        "subscription_x": 6.464297608771573,
+        "lots_applied": 1,
+        "ticket_value": 14898.0,
+        "p_single": 0.21582225592383875,
+        "expected_lots": 0.21582225592383875,
+        "p_any_multi": 0.21582225592383875,
+        "expected_lots_multi": 0.21582225592383875,
+        "mechanism": "lottery",
+        "max_allottees": null,
+        "est_applications": null,
+        "note": "lottery for 1 lot; ~1.40 mean lots/application against 6.46x"
+      },
+      "RETAIL:13": {
+        "category": "RETAIL",
+        "subscription_x": 6.464297608771573,
+        "lots_applied": 13,
+        "ticket_value": 193674.0,
+        "p_single": 0.21582225592383875,
+        "expected_lots": 0.21582225592383875,
+        "p_any_multi": 0.21582225592383875,
+        "expected_lots_multi": 0.21582225592383875,
+        "mechanism": "lottery",
+        "max_allottees": null,
+        "est_applications": null,
+        "note": "lottery for 1 lot; ~1.40 mean lots/application against 6.46x"
+      },
+      "sNII:14": {
+        "category": "sNII",
+        "subscription_x": 19.39289282631472,
+        "lots_applied": 14,
+        "ticket_value": 208572.0,
+        "p_single": 0.7219139571071643,
+        "expected_lots": 0.7219139571071643,
+        "p_any_multi": 0.7219139571071643,
+        "expected_lots_multi": 0.7219139571071643,
+        "mechanism": "lottery",
+        "max_allottees": null,
+        "est_applications": null,
+        "note": "lottery for 1 lot; ~14.00 mean lots/application against 19.39x"
+      }
+    },
+    "projected_subscription": {
+      "QIB": 12.93,
+      "NII": 16.16,
+      "sNII": 19.39,
+      "bNII": 14.54,
+      "RETAIL": 6.46
+    },
+    "llm": {},
+    "posteriors": {
+      "QIB": {
+        "category": "QIB",
+        "median": 12.93,
+        "mean": 36.99,
+        "p10": 2.02,
+        "p90": 82.9,
+        "ci80": [
+          2.02,
+          82.9
+        ],
+        "log_sd": 1.45,
+        "confidence": 0.192,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 12.93,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "NII": {
+        "category": "NII",
+        "median": 16.16,
+        "mean": 49.78,
+        "p10": 2.36,
+        "p90": 110.49,
+        "ci80": [
+          2.36,
+          110.49
+        ],
+        "log_sd": 1.5,
+        "confidence": 0.182,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 16.16,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "sNII": {
+        "category": "sNII",
+        "median": 19.39,
+        "mean": 59.73,
+        "p10": 2.84,
+        "p90": 132.59,
+        "ci80": [
+          2.84,
+          132.59
+        ],
+        "log_sd": 1.5,
+        "confidence": 0.182,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 19.39,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "bNII": {
+        "category": "bNII",
+        "median": 14.54,
+        "mean": 48.35,
+        "p10": 2.0,
+        "p90": 106.02,
+        "ci80": [
+          2.0,
+          106.02
+        ],
+        "log_sd": 1.55,
+        "confidence": 0.172,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 14.54,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      },
+      "RETAIL": {
+        "category": "RETAIL",
+        "median": 6.46,
+        "mean": 11.22,
+        "p10": 1.68,
+        "p90": 24.83,
+        "ci80": [
+          1.68,
+          24.83
+        ],
+        "log_sd": 1.05,
+        "confidence": 0.312,
+        "observed": 0.0,
+        "n_updates": 0,
+        "prior_median": 6.46,
+        "drivers": {
+          "size_small": 0.48,
+          "prior_only": 1.0
+        }
+      }
+    },
+    "guardrails": {},
+    "tday": {
+      "symbol": "FOODLINK",
+      "name": "Foodlink F&B Holdings (India) Limited",
+      "clock": {
+        "now_ist": "2026-11-26T19:49:35+05:30",
+        "phase": "early",
+        "is_final_day": false,
+        "cutoff_at": "2026-11-30T17:00+05:30",
+        "submit_by": "2026-11-30T16:00+05:30",
+        "mandate_by": "2026-11-30T16:40+05:30",
+        "countdown": "93h 10m",
+        "source": "NSE issue circular"
+      },
+      "spikes": {},
+      "advice": {
+        "action": "WAIT",
+        "category": null,
+        "lots": null,
+        "shares": null,
+        "capital": null,
+        "bid_price_instruction": "",
+        "p_allot": null,
+        "expected_profit": null,
+        "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 30 Nov 17:00 IST.",
+        "rationale": [
+          "QIB demand lands late - the book is not yet informative enough to commit against",
+          "time to cut-off: 93h 10m"
+        ]
+      },
+      "alerts": [],
+      "max_level": "INFO"
+    },
+    "weights_used": {
+      "demand": 8.4,
+      "valuation": 23.5,
+      "financials": 26.1
+    },
+    "valuation": {
+      "sector_key": "unclassified",
+      "capital_intensity": 0.45,
+      "ev_status": "missing EPS or PAT",
+      "pe": 34.85,
+      "pb": 4.34,
+      "ronw_pct": 17.35,
+      "loss_making": false,
+      "eps_cagr_pct": 100.0,
+      "benchmark_pe": 24.0,
+      "benchmark_source": "sector heuristic",
+      "peer_note": "RHP states no comparable listed peers",
+      "pe_vs_benchmark": 1.45,
+      "peg": 0.35,
+      "pb_implied_pe": 25.0,
+      "pe_score": 46.0,
+      "ev_weight": 0.0,
+      "valuation_basis": "P/E only - EV/EBITDA unavailable (missing EPS or PAT)",
+      "valuation_score": 46.0,
+      "valuation_score_raw": 46.0,
+      "eps_trend": "rising every year",
+      "risk_free_pct": 6.75,
+      "beta": 1.07,
+      "risk_free_source": "fallback assumption",
+      "cfo_cr": 29.9,
+      "ebitda_cr": 16.2,
+      "cash_conversion": 1.85,
+      "cash_conversion_status": "healthy (185% of EBITDA)",
+      "cost_of_equity_pct": 13.74,
+      "eva_spread_pct": 3.61,
+      "eva_verdict": "marginal",
+      "eva_flag": "RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread",
+      "eva_risk_flags": [
+        "RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread"
+      ],
+      "quality_score": 80.0,
+      "quality_score_raw": 80.0,
+      "implied_pe_note": "34.9x FY2026 diluted EPS"
+    },
+    "regime": {
+      "recent_listing_avg_pct": 7.8,
+      "recent_listing_n": 22
     },
     "anchors": {
       "total": 0,
@@ -803,7 +1084,7 @@
   },
   {
     "symbol": "AJPACK",
-    "ts": "2026-11-26T03:01:28",
+    "ts": "2026-11-26T19:49:46",
     "score": 54.2,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -815,14 +1096,14 @@
       "demand": 68.0,
       "gmp": 74.9,
       "structure": 55.0,
-      "regime": 59.0,
+      "regime": 58.9,
       "qualitative": 50.0
     },
     "reasons": [
       "institutional book strong at 12.9x projected QIB",
       "demand still early (22% of the bid window elapsed) - projections are indicative only",
       "anchor book could not be read from the RHP",
-      "recent IPOs listed +8.1% on average"
+      "recent IPOs listed +7.8% on average"
     ],
     "risks": [
       "RoNW 17.8% - modest returns on capital",
@@ -950,13 +1231,13 @@
       "symbol": "AJPACK",
       "name": "A J Packaging Limited",
       "clock": {
-        "now_ist": "2026-11-26T03:01:28+05:30",
+        "now_ist": "2026-11-26T19:49:46+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-03T17:00+05:30",
         "submit_by": "2026-12-03T16:00+05:30",
         "mandate_by": "2026-12-03T16:40+05:30",
-        "countdown": "181h 58m",
+        "countdown": "165h 10m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -972,7 +1253,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 03 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 181h 58m"
+          "time to cut-off: 165h 10m"
         ]
       },
       "alerts": [],
@@ -1016,8 +1297,8 @@
       "quality_score_raw": 50.0
     },
     "regime": {
-      "recent_listing_avg_pct": 8.1,
-      "recent_listing_n": 21
+      "recent_listing_avg_pct": 7.8,
+      "recent_listing_n": 22
     },
     "anchors": {
       "total": 0,
@@ -1038,9 +1319,9 @@
   },
   {
     "symbol": "AIRPRO",
-    "ts": "2026-11-26T03:01:13",
-    "score": 50.4,
-    "grade": "NEUTRAL",
+    "ts": "2026-11-26T19:49:35",
+    "score": 48.2,
+    "grade": "AVOID",
     "stance_listing": "apply for listing gains - moderate upside",
     "stance_longterm": "average - no strong long-term case",
     "confidence": 0.36,
@@ -1048,24 +1329,25 @@
       "valuation": 45.0,
       "financials": 45.0,
       "demand": 68.0,
-      "gmp": 58.2,
+      "gmp": 42.1,
       "structure": 55.0,
-      "regime": 59.0,
+      "regime": 58.9,
       "qualitative": 50.0
     },
     "reasons": [
       "institutional book strong at 12.9x projected QIB",
       "demand still early (22% of the bid window elapsed) - projections are indicative only",
+      "GMP fading - late enthusiasm is cooling",
       "anchor book could not be read from the RHP",
-      "recent IPOs listed +8.1% on average"
+      "recent IPOs listed +7.8% on average"
     ],
     "risks": [],
-    "expected_listing_gain_pct": 13.1,
+    "expected_listing_gain_pct": 12.1,
     "listing_gain_range": [
-      -7.7,
-      33.9
+      -8.0,
+      32.1
     ],
-    "p_positive_listing": 0.736,
+    "p_positive_listing": 0.726,
     "allotment": {},
     "projected_subscription": {
       "QIB": 12.93,
@@ -1182,13 +1464,13 @@
       "symbol": "AIRPRO",
       "name": "Airpro Technology India Limited",
       "clock": {
-        "now_ist": "2026-11-26T03:01:13+05:30",
+        "now_ist": "2026-11-26T19:49:35+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-01T17:00+05:30",
         "submit_by": "2026-12-01T16:00+05:30",
         "mandate_by": "2026-12-01T16:40+05:30",
-        "countdown": "133h 58m",
+        "countdown": "117h 10m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -1204,7 +1486,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 01 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 133h 58m"
+          "time to cut-off: 117h 10m"
         ]
       },
       "alerts": [],
@@ -1243,8 +1525,8 @@
       "quality_score_raw": 45.0
     },
     "regime": {
-      "recent_listing_avg_pct": 8.1,
-      "recent_listing_n": 21
+      "recent_listing_avg_pct": 7.8,
+      "recent_listing_n": 22
     },
     "anchors": {
       "total": 0,

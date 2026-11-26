@@ -1,6 +1,6 @@
 # Foodlink F&B Holdings (India) Limited (FOODLINK)
 
-**APPLY** · score **64/100** · confidence 45%
+**APPLY** · score **61/100** · confidence 45%
 
 ## Issue
 
@@ -35,7 +35,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 _No bidding data yet._
 
-Grey market premium: **₹27** (+14.9%) via ipowatch
+Grey market premium: **₹12** (+6.6%) via ipowatch
 
 ## Demand — posterior view
 
@@ -49,41 +49,40 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 8.4%, valuation 23.5%, financials 26.1% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+19.0%**
-- Likely range: -5.9% to +43.9%
-- Probability of a positive listing: **78%**
+- Central estimate: **+14.8%**
+- Likely range: -7.2% to +36.7%
+- Probability of a positive listing: **75%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,898 | lottery | 24.3% | 19 |
-| RETAIL | 13 | ₹193,674 | lottery | 24.3% | 19 |
+| RETAIL | 1 | ₹14,898 | lottery | 21.6% | 17 |
+| RETAIL | 13 | ₹193,674 | lottery | 21.6% | 17 |
 | sNII | 14 | ₹208,572 | lottery | 72.2% | 56 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Execution
 
-- Phase: **early**, 109h 58m to the UPI mandate cut-off
+- Phase: **early**, 93h 10m to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-30T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 30 Nov 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 109h 58m
+  - time to cut-off: 93h 10m
 
 ## Why it scores where it does
 
 - EPS CAGR +100%
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- GMP firming into close
 - anchor book could not be read from the RHP
-- recent IPOs listed +8.1% on average
+- recent IPOs listed +7.8% on average
 
 ## Risks
 
@@ -91,4 +90,4 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread
 
 ---
-*Generated 26 Nov 2026 03:01 by IPO Radar. Analysis only — not investment advice.*
+*Generated 26 Nov 2026 19:50 by IPO Radar. Analysis only — not investment advice.*

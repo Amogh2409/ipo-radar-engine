@@ -1,6 +1,6 @@
 # Airpro Technology India Limited (AIRPRO)
 
-**NEUTRAL** · score **50/100** · confidence 36%
+**AVOID** · score **48/100** · confidence 36%
 
 ## Issue
 
@@ -24,7 +24,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 _No bidding data yet._
 
-Grey market premium: **₹4** (+4.0%) via ipowatch
+Grey market premium: **₹2** (+2.0%) via ipowatch
 
 ## Demand — posterior view
 
@@ -42,9 +42,9 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+13.1%**
-- Likely range: -7.7% to +33.9%
-- Probability of a positive listing: **74%**
+- Central estimate: **+12.1%**
+- Likely range: -8.0% to +32.1%
+- Probability of a positive listing: **73%**
 
 ## Allotment odds
 
@@ -53,19 +53,20 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **pre_open**, 133h 58m to the UPI mandate cut-off
+- Phase: **pre_open**, 117h 10m to the UPI mandate cut-off
 - Mandate cut-off: **2026-12-01T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 01 Dec 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 133h 58m
+  - time to cut-off: 117h 10m
 
 ## Why it scores where it does
 
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
+- GMP fading - late enthusiasm is cooling
 - anchor book could not be read from the RHP
-- recent IPOs listed +8.1% on average
+- recent IPOs listed +7.8% on average
 
 ---
-*Generated 26 Nov 2026 03:01 by IPO Radar. Analysis only — not investment advice.*
+*Generated 26 Nov 2026 19:50 by IPO Radar. Analysis only — not investment advice.*
