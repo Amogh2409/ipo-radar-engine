@@ -1,6 +1,6 @@
 # Monomark Engineering (India) Limited (MONOMARK)
 
-**APPLY** · score **64/100** · confidence 36%
+**APPLY** · score **62/100** · confidence 36%
 
 ## Issue
 
@@ -27,7 +27,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 _No bidding data yet._
 
-Grey market premium: **₹24** (+40.0%) via ipowatch
+Grey market premium: **₹20** (+33.3%) via ipowatch
 
 ## Demand — posterior view
 
@@ -45,28 +45,28 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Listing expectation
 
-- Central estimate: **+31.5%**
-- Likely range: -2.1% to +65.1%
+- Central estimate: **+28.1%**
+- Likely range: -3.2% to +59.3%
 - Probability of a positive listing: **82%**
 
 ## Allotment odds
 
 | Apply as | Lots | Capital blocked | Mechanism | P(allotment) | E[shares] |
 |---|---|---|---|---|---|
-| RETAIL | 1 | ₹14,625 | lottery | 28.3% | 64 |
-| RETAIL | 13 | ₹190,125 | lottery | 28.3% | 64 |
+| RETAIL | 1 | ₹14,625 | lottery | 27.6% | 62 |
+| RETAIL | 13 | ₹190,125 | lottery | 27.6% | 62 |
 | sNII | 14 | ₹204,750 | lottery | 72.2% | 162 |
 
 > Retail is a lottery here: every winner gets exactly one lot, so a larger bid on one PAN does not improve your odds. Additional PANs do.
 
 ## Execution
 
-- Phase: **pre_open**, 182h 10m to the UPI mandate cut-off
+- Phase: **pre_open**, 165h 13m to the UPI mandate cut-off
 - Mandate cut-off: **2026-12-04T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 04 Dec 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 182h 10m
+  - time to cut-off: 165h 13m
 
 ## Why it scores where it does
 
@@ -74,10 +74,9 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 - High-Spread Compounder: RoNW (22.2%) exceeds Cost of Equity (13.9%) by 8.3pp
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- strong grey market premium (+40.0%)
-- GMP firming into close
+- strong grey market premium (+33.3%)
 - anchor book could not be read from the RHP
-- recent IPOs listed +7.8% on average
+- recent IPOs listed +7.4% on average
 
 ---
-*Generated 27 Nov 2026 02:49 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Nov 2026 19:47 by IPO Radar. Analysis only — not investment advice.*

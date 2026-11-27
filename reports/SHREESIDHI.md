@@ -1,6 +1,6 @@
 # Shree Siddhivinayak Greentech Industries Limited (SHREESIDHI)
 
-**APPLY** · score **67/100** · confidence 45%
+**APPLY** · score **64/100** · confidence 45%
 
 ## Issue
 
@@ -31,7 +31,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (no debt data)._
 
 _No bidding data yet._
 
-Grey market premium: **₹8** (+6.2%) via ipowatch
+Grey market premium: **₹1** (+0.8%) via ipowatch
 
 ## Demand — posterior view
 
@@ -45,13 +45,13 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — demand earns influence as the book fills._
+_Score weighting right now: demand 25.0%, valuation 15.6%, financials 17.4% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+15.8%**
-- Likely range: -6.9% to +38.5%
-- Probability of a positive listing: **76%**
+- Central estimate: **+13.1%**
+- Likely range: -7.7% to +33.9%
+- Probability of a positive listing: **74%**
 
 ## Allotment odds
 
@@ -60,12 +60,11 @@ _Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — 
 
 ## Execution
 
-- Phase: **final_day_morning**, 14h 11m to the UPI mandate cut-off
+- Phase: **closed**, closed to the UPI mandate cut-off
 - Mandate cut-off: **2026-11-27T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
-- Decide from 14:00 IST on the closing day; mandate cut-off 27 Nov 17:00 IST.
-  - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 14h 11m
+- Bidding has closed.
+  - window shut - nothing to do
 
 ## Why it scores where it does
 
@@ -73,10 +72,9 @@ _Score weighting right now: demand 19.9%, valuation 18.0%, financials 20.0% — 
 - EPS CAGR +94%
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- GMP firming into close
 - anchor book could not be read from the RHP
 - selling holders exiting at 7.1x their cost
-- recent IPOs listed +7.8% on average
+- recent IPOs listed +7.4% on average
 
 ---
-*Generated 27 Nov 2026 02:49 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Nov 2026 19:47 by IPO Radar. Analysis only — not investment advice.*

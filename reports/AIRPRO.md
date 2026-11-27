@@ -1,6 +1,6 @@
 # Airpro Technology India Limited (AIRPRO)
 
-**AVOID** · score **48/100** · confidence 36%
+**NEUTRAL** · score **51/100** · confidence 36%
 
 ## Issue
 
@@ -24,7 +24,7 @@ _Valuation basis: P/E only - EV/EBITDA unavailable (missing EPS or PAT)._
 
 _No bidding data yet._
 
-Grey market premium: **₹2** (+2.0%) via ipowatch
+Grey market premium: **₹3** (+3.0%) via ipowatch
 
 ## Demand — posterior view
 
@@ -38,12 +38,12 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — demand earns influence as the book fills._
+_Score weighting right now: demand 8.4%, valuation 23.5%, financials 26.1% — demand earns influence as the book fills._
 
 ## Listing expectation
 
-- Central estimate: **+12.1%**
-- Likely range: -8.0% to +32.1%
+- Central estimate: **+12.6%**
+- Likely range: -7.8% to +33.0%
 - Probability of a positive listing: **73%**
 
 ## Allotment odds
@@ -53,20 +53,19 @@ _Score weighting right now: demand 5.0%, valuation 25.1%, financials 27.9% — d
 
 ## Execution
 
-- Phase: **early**, 110h 11m to the UPI mandate cut-off
+- Phase: **early**, 93h 14m to the UPI mandate cut-off
 - Mandate cut-off: **2026-12-01T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 01 Dec 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 110h 11m
+  - time to cut-off: 93h 14m
 
 ## Why it scores where it does
 
 - institutional book strong at 12.9x projected QIB
 - demand still early (22% of the bid window elapsed) - projections are indicative only
-- GMP fading - late enthusiasm is cooling
 - anchor book could not be read from the RHP
-- recent IPOs listed +7.8% on average
+- recent IPOs listed +7.4% on average
 
 ---
-*Generated 27 Nov 2026 02:49 by IPO Radar. Analysis only — not investment advice.*
+*Generated 27 Nov 2026 19:47 by IPO Radar. Analysis only — not investment advice.*
