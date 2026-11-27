@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_27 Nov 2026 19:47_
+_28 Nov 2026 02:32_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -9,7 +9,6 @@ _27 Nov 2026 19:47_
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
 | [MATANGI](MATANGI.md) | 2026-12-03 | 66 | APPLY | +21.4% | 25% |
-| [SHREESIDHI](SHREESIDHI.md) | 2026-11-27 | 64 | APPLY | +13.1% | — |
 | [MONOMARK](MONOMARK.md) | 2026-12-04 | 62 | APPLY | +28.1% | 28% |
 | [FOODLINK](FOODLINK.md) | 2026-11-30 | 59 | NEUTRAL | +12.5% | 20% |
 | [AJPACK](AJPACK.md) | 2026-12-03 | 54 | NEUTRAL | +18.1% | — |
@@ -42,7 +41,6 @@ _ASBA blocks capital from the close date until roughly T+3 business days, so wha
 
 ### Skipped
 
-- **SHREESIDHI** — no affordable application plan
 - **FOODLINK** — score 59 below cutoff 61
 - **AJPACK** — score 54 below cutoff 61
 - **SWARA** — score 54 below cutoff 61
@@ -54,6 +52,7 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 
 | IPO | Closed | Issue price | Our call | Predicted | Listed | Listing price | Listing gain | Current price | Now vs issue |
 |---|---|---|---|---|---|---|---|---|---|
+| [SHREESIDHI](SHREESIDHI.md) | 2026-11-27 | ₹142.00 | APPLY | +13.1% | awaiting | — | — | — | — |
 | [MAHACOAL](MAHACOAL.md) | 2026-11-23 | ₹136.00 | NEUTRAL | +3.3% | 2026-11-27 | ₹134.00 | -1.5% | ₹132.50 | -2.6% |
 | [WATRANA](WATRANA.md) | 2026-11-23 | ₹245.00 | NEUTRAL | +19.4% | awaiting | — | — | — | — |
 | [CRYSTALCP](CRYSTALCP.md) | 2026-11-20 | ₹272.00 | NEUTRAL | +14.5% | 2026-11-26 | ₹278.00 | +2.2% | ₹263.40 | -3.2% |
@@ -83,4 +82,3 @@ _Listing price is the listing-day open; current price is the last Yahoo Finance 
 | [MONEYVIEW](MONEYVIEW.md) | 2026-09-28 | ₹34.00 | STRONG APPLY | +41.8% | 2026-10-01 | ₹55.00 | +61.8% | ₹53.91 | +58.6% |
 | [MANIKA](MANIKA.md) | 2026-09-16 | ₹43.00 | APPLY | +27.2% | 2026-09-21 | ₹43.00 | +0.0% | ₹46.35 | +7.8% |
 | [VEEGALAND](VEEGALAND.md) | 2026-09-15 | ₹140.00 | APPLY | +20.5% | 2026-09-18 | ₹154.00 | +10.0% | ₹144.39 | +3.1% |
-| [ARCIL](ARCIL.md) | 2026-09-11 | ₹139.00 | SPECULATIVE FLIP | +23.0% | 2026-09-17 | ₹139.00 | +0.0% | ₹121.86 | -12.3% |
