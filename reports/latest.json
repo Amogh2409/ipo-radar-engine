@@ -1,8 +1,8 @@
 [
   {
     "symbol": "MATANGI",
-    "ts": "2026-11-28T02:31:20",
-    "score": 65.6,
+    "ts": "2026-11-28T19:02:41",
+    "score": 65.5,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - attractive risk/reward",
     "stance_longterm": "average - no strong long-term case",
@@ -11,7 +11,7 @@
       "valuation": 74.7,
       "financials": 57.0,
       "demand": 68.0,
-      "gmp": 89.4,
+      "gmp": 88.8,
       "structure": 55.0,
       "regime": 58.7,
       "qualitative": 50.0
@@ -27,22 +27,22 @@
     "risks": [
       "RoNW (21.0%) only just clears Cost of Equity (15.2%) - thin economic spread"
     ],
-    "expected_listing_gain_pct": 21.4,
+    "expected_listing_gain_pct": 21.1,
     "listing_gain_range": [
-      -5.2,
-      48.0
+      -5.3,
+      47.5
     ],
-    "p_positive_listing": 0.79,
+    "p_positive_listing": 0.788,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 1,
         "ticket_value": 14964.0,
-        "p_single": 0.2527799544908482,
-        "expected_lots": 0.2527799544908482,
-        "p_any_multi": 0.2527799544908482,
-        "expected_lots_multi": 0.2527799544908482,
+        "p_single": 0.25139777866833124,
+        "expected_lots": 0.25139777866833124,
+        "p_any_multi": 0.25139777866833124,
+        "expected_lots_multi": 0.25139777866833124,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
@@ -53,10 +53,10 @@
         "subscription_x": 6.464297608771573,
         "lots_applied": 13,
         "ticket_value": 194532.0,
-        "p_single": 0.2527799544908482,
-        "expected_lots": 0.2527799544908482,
-        "p_any_multi": 0.2527799544908482,
-        "expected_lots_multi": 0.2527799544908482,
+        "p_single": 0.25139777866833124,
+        "expected_lots": 0.25139777866833124,
+        "p_any_multi": 0.25139777866833124,
+        "expected_lots_multi": 0.25139777866833124,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
@@ -192,13 +192,13 @@
       "symbol": "MATANGI",
       "name": "Matangi Rubber Limited",
       "clock": {
-        "now_ist": "2026-11-28T02:31:20+05:30",
+        "now_ist": "2026-11-28T19:02:41+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-03T17:00+05:30",
         "submit_by": "2026-12-03T16:00+05:30",
         "mandate_by": "2026-12-03T16:40+05:30",
-        "countdown": "134h 28m",
+        "countdown": "117h 57m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -214,7 +214,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 03 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 134h 28m"
+          "time to cut-off: 117h 57m"
         ]
       },
       "alerts": [],
@@ -283,7 +283,7 @@
   },
   {
     "symbol": "MONOMARK",
-    "ts": "2026-11-28T02:31:48",
+    "ts": "2026-11-28T19:03:00",
     "score": 62.2,
     "grade": "APPLY",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -473,13 +473,13 @@
       "symbol": "MONOMARK",
       "name": "Monomark Engineering (India) Limited",
       "clock": {
-        "now_ist": "2026-11-28T02:31:48+05:30",
+        "now_ist": "2026-11-28T19:03:00+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-04T17:00+05:30",
         "submit_by": "2026-12-04T16:00+05:30",
         "mandate_by": "2026-12-04T16:40+05:30",
-        "countdown": "158h 28m",
+        "countdown": "141h 56m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -495,7 +495,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 04 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 158h 28m"
+          "time to cut-off: 141h 56m"
         ]
       },
       "alerts": [],
@@ -558,7 +558,7 @@
   },
   {
     "symbol": "FOODLINK",
-    "ts": "2026-11-28T02:30:24",
+    "ts": "2026-11-28T19:02:02",
     "score": 58.6,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - moderate upside",
@@ -568,7 +568,7 @@
       "valuation": 46.0,
       "financials": 80.0,
       "demand": 68.0,
-      "gmp": 42.5,
+      "gmp": 41.4,
       "structure": 55.0,
       "regime": 58.7,
       "qualitative": 50.0
@@ -585,40 +585,40 @@
       "RoNW 17.4% - modest returns on capital",
       "RoNW (17.4%) only just clears Cost of Equity (13.7%) - thin economic spread"
     ],
-    "expected_listing_gain_pct": 12.5,
+    "expected_listing_gain_pct": 12.3,
     "listing_gain_range": [
       -7.9,
-      32.9
+      32.4
     ],
-    "p_positive_listing": 0.731,
+    "p_positive_listing": 0.728,
     "allotment": {
       "RETAIL:1": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 1,
         "ticket_value": 14898.0,
-        "p_single": 0.19672340402251584,
-        "expected_lots": 0.19672340402251584,
-        "p_any_multi": 0.19672340402251587,
-        "expected_lots_multi": 0.19672340402251584,
+        "p_single": 0.19405484057125402,
+        "expected_lots": 0.19405484057125402,
+        "p_any_multi": 0.194054840571254,
+        "expected_lots_multi": 0.19405484057125402,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
-        "note": "lottery for 1 lot; ~1.27 mean lots/application against 6.46x"
+        "note": "lottery for 1 lot; ~1.25 mean lots/application against 6.46x"
       },
       "RETAIL:13": {
         "category": "RETAIL",
         "subscription_x": 6.464297608771573,
         "lots_applied": 13,
         "ticket_value": 193674.0,
-        "p_single": 0.19672340402251584,
-        "expected_lots": 0.19672340402251584,
-        "p_any_multi": 0.19672340402251587,
-        "expected_lots_multi": 0.19672340402251584,
+        "p_single": 0.19405484057125402,
+        "expected_lots": 0.19405484057125402,
+        "p_any_multi": 0.194054840571254,
+        "expected_lots_multi": 0.19405484057125402,
         "mechanism": "lottery",
         "max_allottees": null,
         "est_applications": null,
-        "note": "lottery for 1 lot; ~1.27 mean lots/application against 6.46x"
+        "note": "lottery for 1 lot; ~1.25 mean lots/application against 6.46x"
       },
       "sNII:14": {
         "category": "sNII",
@@ -750,13 +750,13 @@
       "symbol": "FOODLINK",
       "name": "Foodlink F&B Holdings (India) Limited",
       "clock": {
-        "now_ist": "2026-11-28T02:30:24+05:30",
+        "now_ist": "2026-11-28T19:02:02+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-11-30T17:00+05:30",
         "submit_by": "2026-11-30T16:00+05:30",
         "mandate_by": "2026-11-30T16:40+05:30",
-        "countdown": "62h 29m",
+        "countdown": "45h 57m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -772,16 +772,16 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 30 Nov 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 62h 29m"
+          "time to cut-off: 45h 57m"
         ]
       },
       "alerts": [],
       "max_level": "INFO"
     },
     "weights_used": {
-      "demand": 13.7,
-      "valuation": 21.0,
-      "financials": 23.3
+      "demand": 18.4,
+      "valuation": 18.8,
+      "financials": 20.8
     },
     "valuation": {
       "sector_key": "unclassified",
@@ -845,7 +845,7 @@
   },
   {
     "symbol": "AJPACK",
-    "ts": "2026-11-28T02:30:44",
+    "ts": "2026-11-28T19:02:16",
     "score": 54.2,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - attractive risk/reward",
@@ -992,13 +992,13 @@
       "symbol": "AJPACK",
       "name": "A J Packaging Limited",
       "clock": {
-        "now_ist": "2026-11-28T02:30:44+05:30",
+        "now_ist": "2026-11-28T19:02:16+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-03T17:00+05:30",
         "submit_by": "2026-12-03T16:00+05:30",
         "mandate_by": "2026-12-03T16:40+05:30",
-        "countdown": "134h 29m",
+        "countdown": "117h 57m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -1014,7 +1014,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 03 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 134h 29m"
+          "time to cut-off: 117h 57m"
         ]
       },
       "alerts": [],
@@ -1080,7 +1080,7 @@
   },
   {
     "symbol": "SWARA",
-    "ts": "2026-11-28T02:32:31",
+    "ts": "2026-11-28T19:03:30",
     "score": 54.1,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - moderate upside",
@@ -1272,13 +1272,13 @@
       "symbol": "SWARA",
       "name": "Swara Baby Products Limited",
       "clock": {
-        "now_ist": "2026-11-28T02:32:31+05:30",
+        "now_ist": "2026-11-28T19:03:30+05:30",
         "phase": "pre_open",
         "is_final_day": false,
         "cutoff_at": "2026-12-04T17:00+05:30",
         "submit_by": "2026-12-04T16:00+05:30",
         "mandate_by": "2026-12-04T16:40+05:30",
-        "countdown": "158h 27m",
+        "countdown": "141h 56m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -1294,7 +1294,7 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 04 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 158h 27m"
+          "time to cut-off: 141h 56m"
         ]
       },
       "alerts": [],
@@ -1365,8 +1365,8 @@
   },
   {
     "symbol": "AIRPRO",
-    "ts": "2026-11-28T02:30:24",
-    "score": 50.9,
+    "ts": "2026-11-28T19:02:02",
+    "score": 52.1,
     "grade": "NEUTRAL",
     "stance_listing": "apply for listing gains - moderate upside",
     "stance_longterm": "average - no strong long-term case",
@@ -1509,13 +1509,13 @@
       "symbol": "AIRPRO",
       "name": "Airpro Technology India Limited",
       "clock": {
-        "now_ist": "2026-11-28T02:30:24+05:30",
+        "now_ist": "2026-11-28T19:02:02+05:30",
         "phase": "early",
         "is_final_day": false,
         "cutoff_at": "2026-12-01T17:00+05:30",
         "submit_by": "2026-12-01T16:00+05:30",
         "mandate_by": "2026-12-01T16:40+05:30",
-        "countdown": "86h 29m",
+        "countdown": "69h 57m",
         "source": "NSE issue circular"
       },
       "spikes": {},
@@ -1531,16 +1531,16 @@
         "deadline_text": "Decide from 14:00 IST on the closing day; mandate cut-off 01 Dec 17:00 IST.",
         "rationale": [
           "QIB demand lands late - the book is not yet informative enough to commit against",
-          "time to cut-off: 86h 29m"
+          "time to cut-off: 69h 57m"
         ]
       },
       "alerts": [],
       "max_level": "INFO"
     },
     "weights_used": {
-      "demand": 8.4,
-      "valuation": 23.5,
-      "financials": 26.1
+      "demand": 13.7,
+      "valuation": 21.0,
+      "financials": 23.3
     },
     "valuation": {
       "sector_key": "unclassified",

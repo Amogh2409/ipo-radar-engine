@@ -1,6 +1,6 @@
 # IPO Radar — live board
 
-_28 Nov 2026 02:32_
+_28 Nov 2026 19:03_
 
 > Personal research output, not investment advice. Verdicts come from a scoring model on public data; see the README disclaimer.
 
@@ -8,21 +8,21 @@ _28 Nov 2026 02:32_
 
 | IPO | Closes | Score | Verdict | Est. listing | Retail P(allot) |
 |---|---|---|---|---|---|
-| [MATANGI](MATANGI.md) | 2026-12-03 | 66 | APPLY | +21.4% | 25% |
+| [MATANGI](MATANGI.md) | 2026-12-03 | 66 | APPLY | +21.1% | 25% |
 | [MONOMARK](MONOMARK.md) | 2026-12-04 | 62 | APPLY | +28.1% | 28% |
-| [FOODLINK](FOODLINK.md) | 2026-11-30 | 59 | NEUTRAL | +12.5% | 20% |
+| [FOODLINK](FOODLINK.md) | 2026-11-30 | 59 | NEUTRAL | +12.3% | 19% |
 | [AJPACK](AJPACK.md) | 2026-12-03 | 54 | NEUTRAL | +18.1% | — |
 | [SWARA](SWARA.md) | 2026-12-04 | 54 | NEUTRAL | +9.9% | 32% |
-| [AIRPRO](AIRPRO.md) | 2026-12-01 | 51 | NEUTRAL | +12.6% | — |
+| [AIRPRO](AIRPRO.md) | 2026-12-01 | 52 | NEUTRAL | +12.6% | — |
 
 ## Suggested applications
 
 | PAN | IPO | Category | Lots | Capital | P(allot) | E[profit] |
 |---|---|---|---|---|---|---|
-| #1 | MATANGI | RETAIL | 1 | ₹14,964 | 25% | ₹809 |
+| #1 | MATANGI | RETAIL | 1 | ₹14,964 | 25% | ₹794 |
 | #1 | MONOMARK | RETAIL | 1 | ₹14,625 | 28% | ₹1,135 |
 
-Capital deployed **₹29,589** of ₹500,000, expected profit **₹1,944** (6.57% on blocked funds).
+Capital deployed **₹29,589** of ₹500,000, expected profit **₹1,929** (6.52% on blocked funds).
 
 ### Cash flow projection
 
@@ -44,7 +44,7 @@ _ASBA blocks capital from the close date until roughly T+3 business days, so wha
 - **FOODLINK** — score 59 below cutoff 61
 - **AJPACK** — score 54 below cutoff 61
 - **SWARA** — score 54 below cutoff 61
-- **AIRPRO** — score 51 below cutoff 61
+- **AIRPRO** — score 52 below cutoff 61
 
 ## Closed and listed
 

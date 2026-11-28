@@ -1,6 +1,6 @@
 # Airpro Technology India Limited (AIRPRO)
 
-**NEUTRAL** · score **51/100** · confidence 36%
+**NEUTRAL** · score **52/100** · confidence 36%
 
 ## Issue
 
@@ -38,7 +38,7 @@ _Final subscription as a distribution. The 80% interval is the honest width of w
 | bNII | 0.00x | **14.54x** | 2.00x – 106.02x | 17% |
 | RETAIL | 0.00x | **6.46x** | 1.68x – 24.83x | 31% |
 
-_Score weighting right now: demand 8.4%, valuation 23.5%, financials 26.1% — demand earns influence as the book fills._
+_Score weighting right now: demand 13.7%, valuation 21.0%, financials 23.3% — demand earns influence as the book fills._
 
 ## Listing expectation
 
@@ -53,12 +53,12 @@ _Score weighting right now: demand 8.4%, valuation 23.5%, financials 26.1% — d
 
 ## Execution
 
-- Phase: **early**, 86h 29m to the UPI mandate cut-off
+- Phase: **early**, 69h 57m to the UPI mandate cut-off
 - Mandate cut-off: **2026-12-01T17:00+05:30 IST** (NSE issue circular)
 - Call: **WAIT**
 - Decide from 14:00 IST on the closing day; mandate cut-off 01 Dec 17:00 IST.
   - QIB demand lands late - the book is not yet informative enough to commit against
-  - time to cut-off: 86h 29m
+  - time to cut-off: 69h 57m
 
 ## Why it scores where it does
 
@@ -68,4 +68,4 @@ _Score weighting right now: demand 8.4%, valuation 23.5%, financials 26.1% — d
 - recent IPOs listed +7.4% on average
 
 ---
-*Generated 28 Nov 2026 02:32 by IPO Radar. Analysis only — not investment advice.*
+*Generated 28 Nov 2026 19:03 by IPO Radar. Analysis only — not investment advice.*
